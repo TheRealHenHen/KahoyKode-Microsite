@@ -1,7 +1,6 @@
 # KahoyKode-Microsite
 Official microsite for PSHS-BRC KahoyKode!
 
-### big text bruh
-### let's go team
+Website is hosted at: 
 
-# 67
+http://kahoykodebrc.vercel.app/
