@@ -1,309 +1,525 @@
 [{
-        "scientific_name": "Dracontomelon dao",
-        "common_name": "Dao",
-        "coordinates": "13.69594 N, 123.46787 E",
-        "location": null,
-        "tree_code": "dao"
-    },
-    {
-        "scientific_name": "Toona calantas",
-        "common_name": "Calantas",
-        "coordinates": null,
-        "location": null,
-        "tree_code": "calantas"
-    },
-    {
-        "scientific_name": "Trema orientalis",
-        "common_name": "Anabiong",
-        "coordinates": "13.69518 N, 122.456710 E",
-        "location": null,
-        "tree_code": "anabiong"
-    },
-    {
-        "scientific_name": "Artocarpus sericicarpus",
-        "common_name": "Pedalai",
-        "coordinates": "13.69571 N, 123.46696 E",
-        "location": null,
-        "tree_code": "pedalai"
-    },
-    {
-        "scientific_name": "Pterocarpus indicus",
-        "common_name": "Narra",
-        "coordinates": "13.69393 N, 123.46578 E",
-        "location": null,
-        "tree_code": "narra"
-    },
-    {
-        "scientific_name": "Adenanthera intermedia",
+        "scientific_name": "Adenanthera Intermedia",
         "common_name": "Tanglin",
-        "coordinates": null,
-        "location": null,
-        "tree_code": "tanglin"
+        "coordinates": "",
+        "tree_code": "tanglin",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "family": "Fabaceae"
+        },
+        "conservation_status": ""
     },
     {
-        "scientific_name": "Terminalia catappa",
-        "common_name": "Talisay Bukid",
-        "coordinates": null,
-        "location": null,
-        "tree_code": "talisay_bukid"
-    },
-    {
-        "scientific_name": "Chrysophyllum cainito",
-        "common_name": "Cainito",
-        "coordinates": null,
-        "location": null,
-        "tree_code": "cainito"
-    },
-    {
-        "scientific_name": "Nephelium lappaceum L.",
-        "common_name": "Rambutan",
-        "coordinates": "13.68500 N, 123.46633 E",
-        "location": null,
-        "tree_code": "rambutan"
-    },
-    {
-        "scientific_name": "Manilkara zapota",
-        "common_name": "Chico",
-        "coordinates": null,
-        "location": null,
-        "tree_code": "chico"
+        "scientific_name": "Alstonia scholaris",
+        "common_name": "Dita Tree",
+        "coordinates": "",
+        "tree_code": "dita_tree",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "class": "Magnoliopsida",
+            "order": "Gentianales",
+            "family": "Apocynaceae",
+            "genus": "Alstonia",
+            "species": "A. scholaris"
+        },
+        "conservation_status": "Least Concern"
     },
     {
         "scientific_name": "Anacardium occidentale",
-        "common_name": "Balogo",
-        "coordinates": "13.69500 N, 123.46686 E",
-        "location": null,
-        "tree_code": "balogo"
+        "common_name": "Cashew, Balogo",
+        "coordinates": "13.69538°N, 123.45693°E",
+        "tree_code": "cashew",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophyta",
+            "order": "Sapindales",
+            "family": "Anacardiaceae",
+            "genus": "Anacardium",
+            "species": "A. occidentale"
+        },
+        "conservation_status": "Least Concern"
+    },
+    {
+        "scientific_name": "Annona muricata",
+        "common_name": "Guyabano, Soursop",
+        "coordinates": "",
+        "tree_code": "guyabano",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "family": "Annonaceae"
+        },
+        "conservation_status": ""
+    },
+    {
+        "scientific_name": "Artocarpus blancoi",
+        "common_name": "Antipolo Tree, Tipolo Tree",
+        "coordinates": "",
+        "tree_code": "antipolo",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Eudicots, Rosids, Rosales, Tracheophytes, Angiosperms",
+            "order": "Rosales",
+            "family": "Moraceae",
+            "genus": "Artocarpus",
+            "species": "Artocarpus b."
+        },
+        "conservation_status": "Least Concern"
+    },
+    {
+        "scientific_name": "Artocarpus heterophyllus Lam",
+        "common_name": "Langka, Jackfruit",
+        "coordinates": "",
+        "tree_code": "langka",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes-Angiosperms-Eudicots-Rosids",
+            "order": "Rosales",
+            "family": "Moraceae",
+            "genus": "Artocarpus",
+            "species": "A. heterophillus"
+        },
+        "conservation_status": "Non-extinct"
+    },
+    {
+        "scientific_name": "Artocarpus sericicarpus",
+        "common_name": "Gumihan, Pedalai",
+        "coordinates": "",
+        "tree_code": "gumihan",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots",
+            "order": "Rosales",
+            "family": "Moraceae",
+            "genus": "Artocarpus",
+            "species": "A. sericicarpus"
+        },
+        "conservation_status": "Near Threatened"
+    },
+    {
+        "scientific_name": "Canarium ovatum",
+        "common_name": "Pili Tree",
+        "coordinates": "",
+        "tree_code": "pili_tree",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "family": "Burseraceae"
+        },
+        "conservation_status": ""
+    },
+    {
+        "scientific_name": "Casurina equisetifolia",
+        "common_name": "Agoho",
+        "coordinates": "",
+        "tree_code": "agoho",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "family": "Casuarinaceae"
+        },
+        "conservation_status": ""
+    },
+    {
+        "scientific_name": "Chrysophyllum cainito",
+        "common_name": "Star Apple, Caimito",
+        "coordinates": "",
+        "tree_code": "star_apple",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Asterids, Myrtales",
+            "order": "Ericales",
+            "family": "Sapotaceae",
+            "genus": "Chrysophyllum",
+            "species": "C. cainito"
+        },
+        "conservation_status": "Least Concern"
+    },
+    {
+        "scientific_name": "Citrus maxima",
+        "common_name": "Pomelo, Lukban, Suha",
+        "coordinates": "",
+        "tree_code": "pomelo",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+            "order": "Sapindales",
+            "family": "Rutaceae",
+            "genus": "Citrus",
+            "species": "C. maxima"
+        },
+        "conservation_status": "Least concern"
+    },
+    {
+        "scientific_name": "Citrus microcarpa",
+        "common_name": "Kalamansi, Calamondin",
+        "coordinates": "",
+        "tree_code": "kalamansi",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+            "order": "Sapindales",
+            "family": "Rutaceae",
+            "genus": "Citrus",
+            "species": "C. microcarpa"
+        },
+        "conservation_status": "Least Concern"
+    },
+    {
+        "scientific_name": "Dracontomelon Dao",
+        "common_name": "Dao, New Guinea Walnut",
+        "coordinates": "",
+        "tree_code": "dao",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "family": "Anacardiaceae"
+        },
+        "conservation_status": ""
+    },
+    {
+        "scientific_name": "Erythrina variegata",
+        "common_name": "Dapdap Tree",
+        "coordinates": "",
+        "tree_code": "dapdap",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "family": "Fabaceae"
+        },
+        "conservation_status": ""
+    },
+    {
+        "scientific_name": "Ficus benjamin",
+        "common_name": "Banyan Tree",
+        "coordinates": "",
+        "tree_code": "banyan_tree",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Angiosperms, Eudicots, Rosids",
+            "order": "Rosales",
+            "family": "Moraceae",
+            "genus": "Ficus",
+            "species": "F. Benjamina"
+        },
+        "conservation_status": "Least Concern"
+    },
+    {
+        "scientific_name": "Ficus ruficaulis Merr",
+        "common_name": "Tabgun Tree",
+        "coordinates": "",
+        "tree_code": "tabgun",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+            "order": "Rosales",
+            "family": "Moraceae",
+            "genus": "Artocarpus",
+            "species": "A. sericicarpus"
+        },
+        "conservation_status": "Least Concern"
+    },
+    {
+        "scientific_name": "Ficus variegata",
+        "common_name": "Tangisang-Bayawak",
+        "coordinates": "",
+        "tree_code": "tangisang_bayawak",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Eudicots, Rosids",
+            "order": "Rosales",
+            "family": "Moraceae",
+            "genus": "Ficus",
+            "species": "F. variegata"
+        },
+        "conservation_status": "Endangered"
     },
     {
         "scientific_name": "Kleinhovia hospita",
-        "common_name": "Tan-ag",
-        "coordinates": "13.69495 N, 123.46686 E",
-        "location": null,
-        "tree_code": "tan_ag"
+        "common_name": "Tan-ag, Guest Tree",
+        "coordinates": "",
+        "tree_code": "tan_ag",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+            "order": "Malvales",
+            "family": "Malvaceae",
+            "genus": "Kleinhovia",
+            "species": "K. hospita"
+        },
+        "conservation_status": "Least Concern"
+    },
+    {
+        "scientific_name": "Lacuma campechiana",
+        "common_name": "Chisa, Canistel, Eggfruit",
+        "coordinates": "",
+        "tree_code": "chisa",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Asterids",
+            "order": "Ericales",
+            "family": "Sapotaceae",
+            "genus": "Lucuma",
+            "species": "L. campechiana"
+        },
+        "conservation_status": "Least Concern"
+    },
+    {
+        "scientific_name": "Macaranga tanarius",
+        "common_name": "Binunga Tree",
+        "coordinates": "",
+        "tree_code": "binunga",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "family": "Euphorbiaceae"
+        },
+        "conservation_status": ""
+    },
+    {
+        "scientific_name": "Mangifera indica L.",
+        "common_name": "Mango",
+        "coordinates": "",
+        "tree_code": "mango",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+            "order": "Sapindales",
+            "family": "Anacardiaceae",
+            "genus": "Mangifera",
+            "species": "M. indica"
+        },
+        "conservation_status": "Least Concern"
+    },
+    {
+        "scientific_name": "Manilkara zapota",
+        "common_name": "Chico, Sapodilla",
+        "coordinates": "",
+        "tree_code": "chico",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Asterids",
+            "order": "Ericales",
+            "family": "Sapotaceae",
+            "genus": "Manilkara",
+            "species": "M. zapota"
+        },
+        "conservation_status": "Not threatened"
+    },
+    {
+        "scientific_name": "Nephelium Lappaceum L.",
+        "common_name": "Rambutan, Hairy Lychee",
+        "coordinates": "",
+        "tree_code": "rambutan",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+            "order": "Sapindales",
+            "family": "Sapindaceae",
+            "genus": "Naphelium",
+            "species": "N. lappaceum"
+        },
+        "conservation_status": "Least Concern"
+    },
+    {
+        "scientific_name": "Persea americana",
+        "common_name": "Avocado",
+        "coordinates": "",
+        "tree_code": "avocado",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Magnollids",
+            "order": "Laurales",
+            "family": "Lauraceae",
+            "genus": "Persea",
+            "species": "Persea americana"
+        },
+        "conservation_status": "Least Concern"
+    },
+    {
+        "scientific_name": "Polyalthia longifolia",
+        "common_name": "False Ashoka, Indian Mast tree",
+        "coordinates": "",
+        "tree_code": "false_ashoka",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "phylum": "Streptophyta",
+            "class": "Equisetopsida",
+            "subclass": "Magnoliidae",
+            "order": "Magnoliales",
+            "family": "Annonaceae",
+            "genus": "Monoon",
+            "species": "Monoon longifolium or Polyalthia longifia"
+        },
+        "conservation_status": "Least Concern"
     },
     {
         "scientific_name": "Polyscias nodosa",
         "common_name": "Malapapaya",
-        "coordinates": "13.69408, 123.46586",
-        "location": null,
-        "tree_code": "malapapaya"
+        "coordinates": "",
+        "tree_code": "malapapaya",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+            "order": "Apiales",
+            "family": "Araliaceae",
+            "genus": "Polyscias",
+            "species": "P. nodosa"
+        },
+        "conservation_status": "Least Concerned"
     },
     {
-        "scientific_name": "Mangifera indica",
-        "common_name": "Mango",
-        "coordinates": "13°41'48\"N 123°28'06\"E",
-        "location": "Main Road / Admin Area",
-        "tree_code": "mango"
+        "scientific_name": "Psidium guajava L.",
+        "common_name": "Guava",
+        "coordinates": "",
+        "tree_code": "guava",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "family": "Myrtaceae"
+        },
+        "conservation_status": ""
     },
     {
-        "scientific_name": "Toona calantas",
-        "common_name": "Mahogany",
-        "coordinates": "13°41'46\"N 123°28'03\"E",
-        "location": "Main Road / Admin Area",
-        "tree_code": "mahogany"
+        "scientific_name": "Pterocarpus indicus",
+        "common_name": "Narra, Red Sandalwood",
+        "coordinates": "",
+        "tree_code": "narra",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+            "order": "Fabales",
+            "family": "Fabaceae",
+            "genus": "Pterocarpus",
+            "species": "P. indicus"
+        },
+        "conservation_status": "Vulnerable"
     },
     {
-        "scientific_name": "Casuarina equisetifolia",
-        "common_name": "Agoho",
-        "coordinates": "13°41'48\"N 123°28'07\"E",
-        "location": "Main Road / Admin Area",
-        "tree_code": "agoho"
+        "scientific_name": "Pterocymbium tinctorium",
+        "common_name": "Taluto",
+        "coordinates": "",
+        "tree_code": "taluto",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "division": "Tracheophyta",
+            "class": "Magnoliopsida",
+            "order": "Malvales",
+            "family": "Malvaceae",
+            "subfamily": "Sterculioideae",
+            "genus": "Pterocymbium",
+            "species": "Pterocymbium tinctorium"
+        },
+        "conservation_status": "Least Concern"
     },
     {
-        "scientific_name": "Ficus benjamina",
-        "common_name": "Balete",
-        "coordinates": "13°41'48\"N 123°28'07\"E",
-        "location": "Main Road / Admin Area",
-        "tree_code": "balete"
-    },
-    {
-        "scientific_name": "Canarium ovatum",
-        "common_name": "Pili",
-        "coordinates": "13°41'44\"N 123°28'03\"E",
-        "location": "Main Road / Admin Area",
-        "tree_code": "pili"
+        "scientific_name": "Roystonea regia",
+        "common_name": "Royal Palm",
+        "coordinates": "",
+        "tree_code": "royal_palm",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Monocots",
+            "order": "Arecales",
+            "family": "Arecaceae",
+            "genus": "Roystonea",
+            "species": "Roystonea regia"
+        },
+        "conservation_status": "Least Concern"
     },
     {
         "scientific_name": "Sandoricum koetjape",
         "common_name": "Santol",
-        "coordinates": "13°41'42\"N 123°28'03\"E",
-        "location": "Main Road / Admin Area",
-        "tree_code": "santol"
+        "coordinates": "",
+        "tree_code": "santol",
+        "taxonomic_classification": {
+            "kingdom": "Plantae"
+        },
+        "conservation_status": ""
     },
     {
-        "scientific_name": "Ficus variegata Blume",
-        "common_name": "Tangisang bayawak",
-        "coordinates": "13°41'45\"N 123°28'05\"E",
-        "location": "Main Road / Admin Area",
-        "tree_code": "tangisang_bayawak"
+        "scientific_name": "Swinglea glutinosa",
+        "common_name": "Tabog, Mala Cabuyao",
+        "coordinates": "",
+        "tree_code": "tabog",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "family": "Rutaceae"
+        },
+        "conservation_status": ""
     },
     {
-        "scientific_name": "Alstonia scholaris",
-        "common_name": "Dita",
-        "coordinates": "13°41'45\"N 123°28'04\"E",
-        "location": "Main Road / Admin Area",
-        "tree_code": "dita"
+        "scientific_name": "Swietenia macrophylla",
+        "common_name": "Mahogany",
+        "coordinates": "",
+        "tree_code": "mahogany",
+        "taxonomic_classification": {
+            "kingdom": "Plantae"
+        },
+        "conservation_status": ""
     },
     {
-        "scientific_name": "Artocarpus heterophyllus Lam",
-        "common_name": "Langka",
-        "coordinates": "13°41'44\"N 123°28'06\"E",
-        "location": "Main Road / Admin Area",
-        "tree_code": "langka"
+        "scientific_name": "Syzygium polycephaloides",
+        "common_name": "Lipote",
+        "coordinates": "",
+        "tree_code": "lipote",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "family": "Myrtaceae"
+        },
+        "conservation_status": ""
     },
     {
-        "scientific_name": "Citrus maxima",
-        "common_name": "Pomelo",
-        "coordinates": "13°41'45\"N 123°28'03\"E",
-        "location": "Main Road / Admin Area",
-        "tree_code": "pomelo"
+        "scientific_name": "Terminalia catappa",
+        "common_name": "Talisay Bukid, Tropical Almond",
+        "coordinates": "",
+        "tree_code": "talisay",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+            "order": "Myrtales",
+            "family": "Combreraceae",
+            "genus": "Terminalia",
+            "species": "T. catappa"
+        },
+        "conservation_status": "Least Concern"
     },
     {
-        "scientific_name": null,
-        "common_name": "Taluto",
-        "coordinates": "13.69475, 123.46552",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "taluto"
+        "scientific_name": "Toona calantas",
+        "common_name": "Kalantas, Philippine Cedar",
+        "coordinates": "",
+        "tree_code": "kalantas",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheopytes, Angiosperms, Eudicots, Rosids",
+            "order": "Sapindales",
+            "family": "Meliaceae",
+            "genus": "Toona",
+            "species": "T. calantas"
+        },
+        "conservation_status": "Vulnerable"
     },
     {
-        "scientific_name": null,
-        "common_name": "Balogo",
-        "coordinates": "13.69469, 123.46548",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "balogo_2"
+        "scientific_name": "Trema orientalis",
+        "common_name": "Anabiong",
+        "coordinates": "",
+        "tree_code": "anabiong",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Angiosperms, Eudicots, Rosids",
+            "order": "Rosales",
+            "family": "Canabaceae",
+            "genus": "Trema",
+            "species": "T. orientalis"
+        },
+        "conservation_status": "Least Concern"
     },
     {
-        "scientific_name": null,
-        "common_name": "Taluto",
-        "coordinates": "13.69471, 123.46546",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "taluto_2"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Taluto",
-        "coordinates": "13.69467, 123.446549",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "taluto_3"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Tan-ag",
-        "coordinates": "13.69435, 123.46565",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "tan_ag_2"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Taluto",
-        "coordinates": "13.69435, 123.46569",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "taluto_4"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Malapapaya",
-        "coordinates": "13.64932, 123.46570",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "malapapaya_2"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Agoho",
-        "coordinates": "13.69417, 123.46585",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "agoho_2"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Taluto",
-        "coordinates": "13.69405, 123.46579",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "taluto_5"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Narra",
-        "coordinates": "13.69393, 123.46578",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "narra_2"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Tabgun",
-        "coordinates": "13.69471, 123.46546",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "tabgun"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Antipolo",
-        "coordinates": "13.69400, 123.46603",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "antipolo"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Gumihan",
-        "coordinates": "13.69382, 123.46601",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "gumihan"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Tabgon",
-        "coordinates": "13.69366, 123.46606",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "tabgon"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Antipolo",
-        "coordinates": "13.69366, 123.46618",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "antipolo_2"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Lanipga",
-        "coordinates": "13.69375, 123.46620",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "lanipga"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Pili",
-        "coordinates": "13.69368, 123.46625",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "pili_2"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Pili",
-        "coordinates": "13.69370, 123.46632",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "pili_3"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Tabog",
-        "coordinates": "13.69387, 123.46636",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "tabog"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Tabog",
-        "coordinates": "13.69384, 123.46650",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "tabog_2"
-    },
-    {
-        "scientific_name": null,
-        "common_name": "Narra",
-        "coordinates": "13.69389, 123.46657",
-        "location": "Near Gym / Forest Area",
-        "tree_code": "narra_3"
+        "scientific_name": "Sterculia ceramica",
+        "common_name": "Uos, Banilad",
+        "coordinates": "",
+        "tree_code": "uos",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Eudicots, Rosids, Rosales, Tracheophytes, Angiosperms",
+            "order": "Malvales",
+            "family": "Malvaceae",
+            "genus": "Sterculia L.",
+            "species": "Sterculia ceramica"
+        },
+        "conservation_status": "Least Concern"
     }
 ]

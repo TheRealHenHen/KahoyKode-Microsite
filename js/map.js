@@ -9,8 +9,10 @@ fetch('../data/trees.json')
             card.innerHTML = `
                 <h2>${tree.common_name}</h2>
                 <p><strong>Scientific Name:</strong> ${tree.scientific_name || 'N/A'}</p>
+                <p><strong>Tree Code:</strong> ${tree.tree_code || 'N/A'}</p>
                 <p><strong>Coordinates:</strong> ${tree.coordinates || 'N/A'}</p>
-                <p><strong>Location:</strong> ${tree.location || 'N/A'}</p>
+                <p><strong>Conservation Status:</strong> ${tree.conservation_status || 'N/A'}</p>
+                <p><strong>Family:</strong> ${tree.taxonomic_classification?.family || 'N/A'}</p>
                 <a href="tree_info.html?tree=${tree.tree_code}">View Tree</a>
             `;
             container.appendChild(card);
