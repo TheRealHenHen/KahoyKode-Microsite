@@ -25,7 +25,6 @@ fetch('../data/trees.json')
             container.innerHTML = `
                 <h1>${tree.common_name}</h1>
                 <p><strong>Scientific Name:</strong> ${tree.scientific_name || 'N/A'}</p>
-                <p><strong>Tree Code:</strong> ${tree.tree_code || 'N/A'}</p>
                 <p><strong>Coordinates:</strong> ${tree.coordinates || 'N/A'}</p>
                 <p><strong>Conservation Status:</strong> ${tree.conservation_status || 'N/A'}</p>
                 ${taxonomyHTML}
