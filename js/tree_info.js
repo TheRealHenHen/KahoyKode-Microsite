@@ -13,12 +13,12 @@ fetch('../data/trees.json')
                 <p><strong>Scientific Name:</strong> ${tree.scientific_name || 'N/A'}</p>
                 <p><strong>Coordinates:</strong> ${tree.coordinates || 'N/A'}</p>
                 <p><strong>Location:</strong> ${tree.location || 'N/A'}</p>
-                <a class="back-link" href="../index.html">← Back to Tree Directory</a>
+                <a class="back-link" href="map.html">← Back to Map</a>
             `;
         } else {
             container.innerHTML = `
                 <p>Tree not found.</p>
-                <a class="back-link" href="../index.html">← Back to Tree Directory</a>
+                <a class="back-link" href="map.html">← Back to Map</a>
             `;
         }
     })
