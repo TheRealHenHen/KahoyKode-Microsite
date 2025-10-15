@@ -11,7 +11,7 @@ fetch('../data/trees.json')
                 <p><strong>Scientific Name:</strong> ${tree.scientific_name || 'N/A'}</p>
                 <p><strong>Coordinates:</strong> ${tree.coordinates || 'N/A'}</p>
                 <p><strong>Location:</strong> ${tree.location || 'N/A'}</p>
-                <a href="?tree=${tree.tree_code}">View Tree</a>
+                <a href="tree_info.html?tree=${tree.tree_code}">View Tree</a>
             `;
             container.appendChild(card);
         });
