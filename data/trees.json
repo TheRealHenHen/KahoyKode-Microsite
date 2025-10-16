@@ -145,7 +145,7 @@
             "genus": "Citrus",
             "species": "C. maxima"
         },
-        "conservation_status": "Least concern"
+        "conservation_status": "Least Concern"
     },
     {
         "scientific_name": "Citrus microcarpa",
@@ -230,7 +230,18 @@
         "conservation_status": "Endangered"
     },
     {
-        "scientific_name": "Ficus variegata Blume"
+        "scientific_name": "Ficus variegata Blume",
+        "common_name": "Tangisang",
+        "coordinates": "",
+        "tree_code": "tangisang",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Angiosperms, Eudicots",
+            "order": "Rosales",
+            "family": "Moraceae",
+            "genus": "Ficus"
+        },
+        "conservation_status": "Least Concern"
     },
     {
         "scientific_name": "Kleinhovia hospita",
