@@ -34,10 +34,10 @@
       justify-content: space-between;
       align-items: center;
       background: black;
-      border-radius: 50px;
+      border-radius: 10px;
       width: 60%;
       margin: 20px auto;
-      padding: 10px 20px;
+      padding: 10px 8px;
       z-index: 1;
     }
 
@@ -63,14 +63,23 @@
       text-decoration: none;
       color: black;
       background: white;
-      padding: 6px 14px;
-      border-radius: 10px;
+      padding: 10px 14px;
+      border-radius: 8px;
       font-size: 0.9rem;
       transition: 0.3s;
     }
 
     nav ul li a:hover {
       background: #b4f8c8;
+    }
+
+    .hollow{
+      color: white;
+      background: transparent;
+    }
+
+    .hollow:hover {
+      color: black;
     }
 
     .main {
@@ -106,7 +115,7 @@
       background: black;
       color: white;
       padding: 10px 20px;
-      border-radius: 10px;
+      border-radius: 8px;
       font-weight: bold;
       transition: 0.3s;
     }
@@ -114,13 +123,25 @@
     .main .buttons a:hover {
       background: #333;
     }
+
+    .main .buttons .hollow{
+      background: transparent;
+      color: black;
+      border: 1px solid black;
+    }
+
+    .main .buttons .hollow:hover{
+      color: white;
+      border: 1px solid #333;
+    }
+
   </style>
 </head>
 <body>
   <nav>
     <div class="logo">KahoyKode</div>
     <ul>
-      <li><a href="#">Get Started</a></li>
+      <li><a href="#" class="hollow">Get Started</a></li>
       <li><a href="#">About</a></li>
     </ul>
   </nav>
@@ -130,7 +151,7 @@
     <h1>Welcome</h1>
     <div class="buttons">
       <a href="#">Get Started</a>
-      <a href="#">About</a>
+      <a href="#" class="hollow">About</a>
     </div>
   </div>
 </body>
