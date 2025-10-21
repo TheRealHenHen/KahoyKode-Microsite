@@ -1,11 +1,141 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KahoyKode</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        
+        body {
+            background: url('forest.jpg') center/cover no-repeat;
+            height: 100vh;
+            color: white;
+        }
+        
+        body::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.4);
+            z-index: 0;
+        }
+        
+        nav {
+            position: relative;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: black;
+            border-radius: 50px;
+            width: 60%;
+            margin: 20px auto;
+            padding: 10px 20px;
+            z-index: 1;
+        }
+        
+        nav .logo {
+            font-weight: bold;
+            background: #013220;
+            color: #b4f8c8;
+            padding: 5px 10px;
+            border-radius: 8px;
+        }
+        
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 10px;
+        }
+        
+        nav ul li {
+            display: inline;
+        }
+        
+        nav ul li a {
+            text-decoration: none;
+            color: black;
+            background: white;
+            padding: 6px 14px;
+            border-radius: 10px;
+            font-size: 0.9rem;
+            transition: 0.3s;
+        }
+        
+        nav ul li a:hover {
+            background: #b4f8c8;
+        }
+        
+        .main {
+            position: relative;
+            z-index: 1;
+            height: calc(100vh - 100px);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+        
+        .main h2 {
+            color: #ccc;
+            margin-bottom: 10px;
+            font-weight: normal;
+        }
+        
+        .main h1 {
+            font-size: 3rem;
+            color: white;
+            margin-bottom: 20px;
+        }
+        
+        .main .buttons {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .main .buttons a {
+            text-decoration: none;
+            background: black;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 10px;
+            font-weight: bold;
+            transition: 0.3s;
+        }
+        
+        .main .buttons a:hover {
+            background: #333;
+        }
+    </style>
 </head>
+
 <body>
-    <p> yes </p>
+    <nav>
+        <div class="logo">KahoyKode</div>
+        <ul>
+            <li><a href="#">Get Started</a></li>
+            <li><a href="#">About</a></li>
+        </ul>
+    </nav>
+
+    <div class="main">
+        <h2>Nyanyanyanyanyayya</h2>
+        <h1>Welcome</h1>
+        <div class="buttons">
+            <a href="#">Get Started</a>
+            <a href="#">About</a>
+        </div>
+    </div>
 </body>
+
 </html>
