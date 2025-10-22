@@ -521,5 +521,20 @@
             "species": "Sterculia ceramica"
         },
         "conservation_status": "Least Concern"
+    },
+    {
+        "scientific_name": "Dracontomelon edule",
+        "common_name": "Edule, Lamio",
+        "coordinates": "",
+        "tree_code": "edule",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+            "order": "Sapindales",
+            "family": "Anacardiaceae",
+            "genus": "Dracontomelon",
+            "species": "D. edule"
+        },
+        "conservation_status": "Least Concern"
     }
 ]
