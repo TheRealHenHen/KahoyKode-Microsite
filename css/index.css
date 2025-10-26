@@ -1,130 +1,129 @@
-
-  * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: Arial, sans-serif;
-  }
-
-  body {
-  background: url('../pictures/PSHS-10-august-2018.webp') center/cover no-repeat;
-  height: 100vh;
-  }
-  body::before {
-  content: "";
-  position: absolute;
-  top: 0; left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.3));
-  z-index: 0;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
 }
 
+body {
+    background: url('../images/background.webp') center/cover no-repeat;
+    height: 100vh;
+}
 
-  nav {
-  position: relative;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background: black;
-  border-radius: 10px;
-  width: 60%;
-  margin: 20px auto;
-  padding: 10px 8px;
-  z-index: 1;
-  }
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3));
+    z-index: 0;
+}
 
-  nav .logo {
-  font-weight: bold;
-  background: #013220;
-  color: #b4f8c8;
-  padding: 5px 10px;
-  border-radius: 8px;
-  }
+nav {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: black;
+    border-radius: 10px;
+    width: 60%;
+    margin: 20px auto;
+    padding: 10px 8px;
+    z-index: 1;
+}
 
-  nav ul {
-  list-style: none;
-  display: flex;
-  gap: 10px;
-  }
+nav .logo {
+    font-weight: bold;
+    background: #013220;
+    color: #b4f8c8;
+    padding: 5px 10px;
+    border-radius: 8px;
+}
 
-  nav ul li {
-  display: inline;
-  }
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
 
-  nav ul li a {
-  text-decoration: none;
-  color: black;
-  background: white;
-  padding: 10px 14px;
-  border-radius: 8px;
-  font-size: 0.9rem;
-  transition: 0.3s;
-  }
+nav ul li {
+    display: inline;
+}
 
-  nav ul li a:hover {
-  background: #b4f8c8;
-  }
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    background: white;
+    padding: 10px 14px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    transition: 0.3s;
+}
 
-  .hollow{
-  color: white;
-  background: transparent;
-  }
+nav ul li a:hover {
+    background: #b4f8c8;
+}
 
-  .hollow:hover {
-  color: black;
-  }
+.hollow {
+    color: white;
+    background: transparent;
+}
 
-  .main {
-  position: relative;
-  z-index: 1;
-  height: calc(100vh - 100px);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  }
+.hollow:hover {
+    color: black;
+}
 
-  .main h2 {
-  color: #ccc;
-  margin-bottom: 10px;
-  font-weight: normal;
-  }
+.main {
+    position: relative;
+    z-index: 1;
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
 
-  .main h1 {
-  font-size: 3rem;
-  color: white;
-  margin-bottom: 20px;
-  }
+.main h2 {
+    color: #ccc;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
 
-  .main .buttons {
-  display: flex;
-  gap: 15px;
-  }
+.main h1 {
+    font-size: 3rem;
+    color: white;
+    margin-bottom: 20px;
+}
 
-  .main .buttons a {
-  text-decoration: none;
-  background: black;
-  color: white;
-  padding: 10px 20px;
-  border-radius: 8px;
-  font-weight: bold;
-  transition: 0.3s;
-  }
+.main .buttons {
+    display: flex;
+    gap: 15px;
+}
 
-  .main .buttons a:hover {
-  background: #333;
-  }
+.main .buttons a {
+    text-decoration: none;
+    background: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: 0.3s;
+}
 
-  .main .buttons .hollow{
-  background: transparent;
-  color: black;
-  border: 1px solid black;
-  }
+.main .buttons a:hover {
+    background: #333;
+}
 
-  .main .buttons .hollow:hover{
-  color: white;
-  border: 1px solid #333;
-  }
+.main .buttons .hollow {
+    background: transparent;
+    color: black;
+    border: 1px solid black;
+}
 
+.main .buttons .hollow:hover {
+    color: white;
+    border: 1px solid #333;
+}
