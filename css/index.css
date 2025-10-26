@@ -29,11 +29,13 @@ section {
 }
 
 div#card {
-    background-color: red;
-    padding: 30px;
-    display: flex;
+    background-color: color-mix(in srgb, var(--color-green) 80%, transparent);
+    text-align: center;
+    padding: 30px 70px;
     gap: 20px;
     align-items: center;
+    width: fit-content;
+    margin: auto;
 }
 
 main {
@@ -43,44 +45,43 @@ main {
 }
 
 main h1 {
-    font-size: 3rem;
-    color: #fffaf0;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-main h2 {
-    color: #fffaf0;
+    font-size: 6rem;
+    color: var(--color-light);
+    font-family: var(--font-serif);
     margin-bottom: 10px;
-    font-weight: normal;
 }
 
 main .buttons {
+    text-align: center;
     display: flex;
-    flex-direction: column;
     gap: 10px;
-    margin-left: auto;
+    justify-content: center;
 }
 
 main .buttons a {
     text-decoration: none;
-    background: black;
-    color: white;
+    color: var(--color-light);
     padding: 10px 20px;
     font-weight: bold;
     transition: 0.3s;
 }
 
-main .buttons a:hover {
-    background: #333;
+main .buttons a.green {
+    background: var(--color-green);
 }
 
-main .buttons .hollow {
-    background: transparent;
-    color: black;
-    border: 1px solid black;
+main .buttons a.dark-green {
+    background: var(--color-dark-green);
 }
 
-main .buttons .hollow:hover {
-    color: white;
-    border: 1px solid #333;
+main .buttons a.light {
+    background: var(--color-light);
+}
+
+main .buttons a.light-brown {
+    background: var(--color-light-brown);
+}
+
+main .buttons a.brown {
+    background: var(--color-brown);
 }

@@ -1,0 +1,44 @@
+/* ========================================
+   SHARED STYLESHEET: FONTS & COLORS
+   ======================================== */
+
+
+/* ==============================
+   FONT IMPORTS
+   ============================== */
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lexend:wght@100..900&display=swap');
+
+/* ==============================
+   CSS VARIABLES
+   ============================== */
+
+:root {
+    /* ======= FONT FAMILIES ======= */
+    --font-serif: 'EB Garamond', 'Times New Roman', serif;
+    --font-sans: 'Lexend', 'Helvetica Neue', Arial, sans-serif;
+    /* ======= COLOR PALETTE ======= */
+    --color-green: rgb(96, 108, 56);
+    --color-dark-green: rgb(40, 54, 24);
+    --color-light: rgb(254, 250, 224);
+    --color-light-brown: rgb(221, 161, 94);
+    --color-brown: rgb(188, 108, 37);
+    /* ======= BORDER RADIUS ======= */
+    --border-radius: 10px;
+}
+
+
+/* ==============================
+   UTILITY CLASSES
+   ============================== */
+
+
+/* Font Families */
+
+.font-serif {
+    font-family: var(--font-serif);
+}
+
+.font-sans {
+    font-family: var(--font-sans);
+}
