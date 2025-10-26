@@ -24,7 +24,8 @@
     --color-light-brown: rgb(221, 161, 94);
     --color-brown: rgb(188, 108, 37);
     /* ======= BORDER RADIUS ======= */
-    --border-radius: 10px;
+    --border-radius: 20px;
+    --border-radius-button: 10px;
 }
 
 

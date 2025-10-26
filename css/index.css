@@ -36,6 +36,7 @@ div#card {
     align-items: center;
     width: fit-content;
     margin: auto;
+    border-radius: var(--border-radius);
 }
 
 main {
@@ -49,6 +50,7 @@ main h1 {
     color: var(--color-light);
     font-family: var(--font-serif);
     margin-bottom: 10px;
+    margin-top: -10px;
 }
 
 main .buttons {
@@ -64,6 +66,8 @@ main .buttons a {
     padding: 10px 20px;
     font-weight: bold;
     transition: 0.3s;
+    border-radius: var(--border-radius-button);
+    z-index: 1;
 }
 
 main .buttons a.green {
