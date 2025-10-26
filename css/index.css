@@ -6,7 +6,7 @@
 }
 
 body {
-    background: url('../images/background.webp') center/cover no-repeat;
+    background: url('../images/background.webp') center/cover no-repeat fixed;
     height: 100vh;
 }
 
@@ -18,11 +18,12 @@ body::before {
     width: 100%;
     height: 100%;
     background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3));
+    position: fixed;
     z-index: 0;
 }
 
 nav {
-    position: relative;
+    position: absolute;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -31,6 +32,8 @@ nav {
     width: 60%;
     margin: 20px auto;
     padding: 10px 8px;
+    transform: translateX(-50%);
+    left: 50%;
     z-index: 1;
 }
 
@@ -78,7 +81,7 @@ nav ul li a:hover {
 .main {
     position: relative;
     z-index: 1;
-    height: calc(100vh - 100px);
+    height: 80vh;
     display: flex;
     flex-direction: column;
     align-items: center;
