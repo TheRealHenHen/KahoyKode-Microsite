@@ -22,112 +22,65 @@ body::before {
     z-index: 0;
 }
 
-nav {
-    position: absolute;
+section {
+    border: 2px solid black;
+    width: 50%;
+    padding: 100px;
+}
+
+div#card {
+    background-color: red;
+    padding: 30px;
     display: flex;
-    justify-content: space-between;
+    gap: 20px;
     align-items: center;
-    background: black;
-    border-radius: 10px;
-    width: 60%;
-    margin: 20px auto;
-    padding: 10px 8px;
-    transform: translateX(-50%);
-    left: 50%;
-    z-index: 1;
 }
 
-nav .logo {
-    font-weight: bold;
-    background: #013220;
-    color: #b4f8c8;
-    padding: 5px 10px;
-    border-radius: 8px;
-}
-
-nav ul {
-    list-style: none;
+main {
     display: flex;
-    gap: 10px;
+    height: 100%;
+    width: 100%;
 }
 
-nav ul li {
-    display: inline;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: black;
-    background: white;
-    padding: 10px 14px;
-    border-radius: 8px;
-    font-size: 0.9rem;
-    transition: 0.3s;
-}
-
-nav ul li a:hover {
-    background: #b4f8c8;
-}
-
-.hollow {
-    color: white;
-    background: transparent;
-}
-
-.hollow:hover {
-    color: black;
-}
-
-.main {
-    position: relative;
-    z-index: 1;
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
-
-.main h1 {
+main h1 {
     font-size: 3rem;
     color: #fffaf0;
-    margin-bottom: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.main h2 {
+main h2 {
     color: #fffaf0;
     margin-bottom: 10px;
     font-weight: normal;
 }
 
-.main .buttons {
+main .buttons {
     display: flex;
-    gap: 15px;
+    flex-direction: column;
+    gap: 10px;
+    margin-left: auto;
 }
 
-.main .buttons a {
+main .buttons a {
     text-decoration: none;
     background: black;
     color: white;
     padding: 10px 20px;
-    border-radius: 8px;
     font-weight: bold;
     transition: 0.3s;
 }
 
-.main .buttons a:hover {
+main .buttons a:hover {
     background: #333;
 }
 
-.main .buttons .hollow {
+main .buttons .hollow {
     background: transparent;
     color: black;
     border: 1px solid black;
 }
 
-.main .buttons .hollow:hover {
+main .buttons .hollow:hover {
     color: white;
     border: 1px solid #333;
 }
