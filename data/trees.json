@@ -23,7 +23,8 @@
             "genus": "Alstonia",
             "species": "A. scholaris"
         },
-        "conservation_status": "Least Concern"
+        "conservation_status": "Least Concern",
+        "image": "/images/tree/dita.jpg"
     },
     {
         "scientific_name": "Anacardium occidentale",
@@ -79,8 +80,8 @@
             "genus": "Artocarpus",
             "species": "A. heterophillus"
         },
-        "image": "/images/Langka.jpg",
-        "conservation_status": "Non-extinct"
+        "conservation_status": "Non-extinct",
+        "image": "/images/tree/langka.jpg"
     },
     {
         "scientific_name": "Artocarpus sericicarpus",
@@ -117,7 +118,8 @@
             "kingdom": "Plantae",
             "family": "Casuarinaceae"
         },
-        "conservation_status": ""
+        "conservation_status": "",
+        "image": "/images/tree/agoho.jpg"
     },
     {
         "scientific_name": "Chrysophyllum cainito",
@@ -173,7 +175,8 @@
             "kingdom": "Plantae",
             "family": "Anacardiaceae"
         },
-        "conservation_status": ""
+        "conservation_status": "",
+        "image": "/images/tree/dao.jpg"
     },
     {
         "scientific_name": "Erythrina variegata",
@@ -188,7 +191,7 @@
     },
     {
         "scientific_name": "Ficus benjamin",
-        "common_name": "Banyan Tree",
+        "common_name": "Balete",
         "coordinates": "",
         "tree_code": "banyan_tree",
         "taxonomic_classification": {
@@ -199,7 +202,8 @@
             "genus": "Ficus",
             "species": "F. Benjamina"
         },
-        "conservation_status": "Least Concern"
+        "conservation_status": "Least Concern",
+        "image": "/images/tree/balete.jpg"
     },
     {
         "scientific_name": "Ficus ruficaulis Merr",
@@ -229,7 +233,8 @@
             "genus": "Ficus",
             "species": "F. variegata"
         },
-        "conservation_status": "Endangered"
+        "conservation_status": "Endangered",
+        "image": "/images/tree/tangisang-bayawak.jpg"
     },
     {
         "scientific_name": "Kleinhovia hospita",
@@ -244,7 +249,8 @@
             "genus": "Kleinhovia",
             "species": "K. hospita"
         },
-        "conservation_status": "Least Concern"
+        "conservation_status": "Least Concern",
+        "image": "/images/tree/tan-ag.jpg"
     },
     {
         "scientific_name": "Lacuma campechiana",
@@ -285,7 +291,8 @@
             "genus": "Mangifera",
             "species": "M. indica"
         },
-        "conservation_status": "Least Concern"
+        "conservation_status": "Least Concern",
+        "image": "/images/tree/mangga.jpg"
     },
     {
         "scientific_name": "Manilkara zapota",
@@ -388,7 +395,8 @@
             "genus": "Pterocarpus",
             "species": "P. indicus"
         },
-        "conservation_status": "Vulnerable"
+        "conservation_status": "Vulnerable",
+        "image": "/images/tree/narra.jpg"
     },
     {
         "scientific_name": "Pterocymbium tinctorium",
@@ -430,7 +438,8 @@
         "taxonomic_classification": {
             "kingdom": "Plantae"
         },
-        "conservation_status": ""
+        "conservation_status": "",
+        "image": "/images/tree/santol.jpg"
     },
     {
         "scientific_name": "Swinglea glutinosa",
@@ -451,7 +460,8 @@
         "taxonomic_classification": {
             "kingdom": "Plantae"
         },
-        "conservation_status": ""
+        "conservation_status": "",
+        "image": "/images/tree/mahogany.jpg"
     },
     {
         "scientific_name": "Syzygium polycephaloides",
@@ -462,7 +472,8 @@
             "kingdom": "Plantae",
             "family": "Myrtaceae"
         },
-        "conservation_status": ""
+        "conservation_status": "",
+        "image": "/images/tree/lipote.jpg"
     },
     {
         "scientific_name": "Terminalia catappa",
