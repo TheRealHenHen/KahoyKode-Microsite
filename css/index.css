@@ -17,7 +17,8 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(to right, color-mix(in srgb, var(--color-green-2) 20%, transparent), color-mix(in srgb, var(--color-green-3) 30%, transparent));
+    backdrop-filter: blur(3px);
+    background: linear-gradient(to right, color-mix(in srgb, var(--color-green-2) 60%, transparent), color-mix(in srgb, var(--color-green-3) 40%, transparent));
     position: fixed;
     z-index: 0;
 }
@@ -73,6 +74,7 @@ main {
 section {
     padding: 40px;
     display: flex;
+    padding-top: 100px;
     align-items: center;
 }
 
