@@ -20,6 +20,268 @@
     "coordinates": "",
     "tree_code": "tanglin",
     "image": "/images/tree/tanglin.jpg"
-}, {
+}, 
 
-}]
+{
+    "common_name": "Dita Tree",
+    "scientific_name": "Alstonia scholaris",
+    "vernacular_names": ["Dita (Tagalog, Bikol, Sul)",  "Dalipauen (Ilocano)", "Devil Tree",  
+"Scholar Tree", "Blackboard Tree"],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "class": "Magnoliopsida",
+        "order": "Gentianales",
+        "family": "Apocynaceae",
+        "genus": "Alstonia",
+        "species": "A. scholaris"
+    },
+
+    "description": "Alstonia scholaris, commonly known as the Dita tree, can grow up to 20–40 meters tall and sometimes reaches 60 meters in the wild. It is a tall evergreen tree with a straight, cylindrical trunk and a broad, rounded crown. From afar, it appears light gray or whitish because of its smooth bark. The tree’s bark is smooth and gray, exuding white latex when cut, while its roots are strong and wide-spreading for stability, often forming buttresses in older trees. Its small, greenish-white, and fragrant flowers grow in clusters at the ends of branches, giving off a sweet scent that is especially noticeable at night. The Dita tree has thick, leathery, and glossy leaves that are oblong or elliptical in shape, dark green on top and lighter underneath, and arranged in whorls of four to eight around the stem. Its stem is straight and sturdy, green when young and turning grayish-brown as it matures, with white latex inside. The bark is used in herbal medicine to treat fever and malaria, while the wood is used for making blackboards, furniture, and paper. Additionally, the tree is commonly planted as an ornamental.",
+    "notable_features": "It is unique for its whorled, glossy dark green leaves, its abundant, white, milky latex when cut, its massive, fluted trunk and buttresses in older trees, its fragrant white or cream flowers, and its long history of use in traditional medicine for various ailments. The wood, though lightweight, is also known for being used in making boxes, blackboards, and even school slates, which is how it earned its species name, Scholaris.",
+    "fun_facts": "In some cultures, the Dita tree is also known as the \"devil tree\" due to the folklore that surrounds it. Local legends often depict it as a source of supernatural powers, illustrating the deep-rooted cultural significance of this tree. Historically, the Dita tree has also been featured in various literary works and folklore. It symbolizes strength and resilience, often being depicted as a guardian tree in local myths.",
+    "folk_tale": "A beautiful woman named Dita, who was shunned by villagers because of her strong scent. A man named Gatok fell in love with her and discovered she was a diwata, daughter of Bathala. Though they married, her scent caused suffering among the villagers, leading to her eventual rejection, explaining the origin of the Dita tree in their barangay.",
+    "lifespan": "Some trees may only live for a few decades or less, while others can survive for centuries or even millennia. Generally, the lifespan of a tree ranges from 30 years for fast-growing species to over 5,000 years for the oldest known trees.",
+    "references": ["Hermes Bear. (2021/2022). Dita Tree: The Tale of Barangay Dita [Document]. Studocu. https://www.studocu.com/ph/document/eastern-visayas-state-university/secondary-education/dita-tree-the-tale-of-barangay-dita/14069043", "Team, G. B. T. (2025, October 2). Dita Tree Tree: Unlocking the secrets of nature’s hidden gem for health and sustainability. Grow Billion Trees. https://growbilliontrees.com/blogs/tree-stories/dita-tree-tree-unlocking-the-secrets-of-natures-hidden-gem-for-health-and-sustainability?srsltid=AfmBOorcgLK67Cmq4Dk-1bRRdtgoMaPVKKJ9FnUJT6HMZLsepc9NX1UC"],
+    "coordinates": "",
+    "tree_code": "dita_tree",
+    "image": "/images/tree/dita.jpg"
+},
+
+{
+    "common_name": "Cashew, Balogo",
+    "scientific_name": "Anacardium occidentale",
+    "vernacular_names": ["Cashew (English), Kasoy (Tagalog/Bikol), Balubad (Kapampangan), Maloko (Pangasinan), Balogo (Ilokano)"],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "class": "Rosids",
+        "order": "Sapindales",
+        "family": "Anacardiaceae",
+        "genus": "Anacardium",
+        "species": "A. occidentale"
+    },
+
+    "description": "The Balogo Tree, scientifically known as Anacardium occidentale, is a species of the Anacardiaceae family. It is also a flowering plant making it part of the Rosids clade. The tree is known by various names including Cashew (English), Kasoy (Tagalog), Maloko (Pangasinan), and Balubad (Kapampangan). It is native to Brazil, Mexico and the USA but has been widely cultivated across the globe specifically in African and Southeast Asian countries. It has a number of synonyms describing its taxonomic history ancestry, including Acajuba occidentalis and Cassuvium pomiferum.",
+    "notable_features": "The Balogo Tree is a medium-sized tree, evergreen, and much branched. It grows best in hot tropical areas and can grow up to 12 meters tall in the wild. On lateritic, gravelly, or coastal sandy soils, it rarely exceeds 6 meters and forms a globose crown about 12 meters wide, while inland trees grown on loamy soils may reach 15 meters with a smaller 4–6 meter crown. Its strong taproot and extensive network of lateral and sinker roots provide stability and allow it to thrive in different soil types. The vine of this species has thick, woody stems that are often flattened and twisted, giving a “monkey ladder” appearance as it coils around forest trees. The woody stem or vine climbs upward to reach sunlight, supporting the plant’s growth and adaptation to its environment. Its bark is brown or gray in color and is smooth with longitudinal fissures. Its leaves are leathery, evergreen, simple, rounded at the ends, and form in an alternate pattern. The flowers it produces are in terminal panicles that grow to about 10 cm to 20 cm long. The flowers themselves are green or reddish in colour. The flowers are also pollinated by honey bees, flies and possibly even ants. The tree produces two fruits, the cashew apple and cashew nut. However, between the two the cashew nut is the true fruit. The cashew apple is the swollen fruit stalk.",
+    "uses": "The Balogo Tree has various uses in different aspects. Its fruits, cashew apple and cashew nuts, are for food. The wood of the tree is also popularly used for firewood and charcoal. The stem also contains gum which can be used as an adhesive. It also contains medicinal properties such as cashew syrup from either the cashew apple or cashew fruit used as a remedy for coughs and colds.",
+    "fun_facts": "One of the fruits that the Balogo Tree produces, cashew apple, is one of the most nutritious food crops you can find. It contains Vitamin A, Vitamin K, Vitamin C, Potassium, and Calcium. It is also a very versatile fruit as it can be processed into various products such as juice, syrup, and wine.",
+    "references": ["Encarnação, S., Serrano, R., Almeida, C., & Silva, O. (2022). Micromorphology and Chemical Studies on Anacardium occidentale L. Stem Bark as an Herbal Medicine. Plants, 12(1), 7–7. https://doi.org/10.3390/plants12010007", "HS1127/HS377: Cashew Apple Fruit Growing in the Florida Home Landscape. (n.d.). Edis.ifas.ufl.edu. https://edis.ifas.ufl.edu/publication/HS377", "Anacardium occidentale - an overview | ScienceDirect Topics. (n.d.). Www.sciencedirect.com. https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/anacardium-occidentale", "Barstow, M. (n.d.). Anacardium occidentale, Cashew THE IUCN RED LIST OF THREATENED SPECIESa. Retrieved October 8, 2025, from https://www.iucnredlist.org/species/pdf/60761604", "NParks | Anacardium occidentale. (n.d.). Www.nparks.gov.sg. https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2709", "Anacardium occidentale Anacardiaceae L. cashew nut LOCAL NAMES Arabic. (n.d.). https://apps.worldagroforestry.org/treedb/AFTPDFS/Anacardium_occidentale.PDF", "Miranda, R. L. (2009). Cashew Tree Bark Secretion - Persectives for its Use in Protein Isolation Strategies. Open Glycoscience, 2(1), 16–19. https://doi.org/10.2174/1875398100902010016", "Agroforestree Species profile. (2025). Worldagroforestry.org. https://apps.worldagroforestry.org/treedb2/speciesprofile.php?Spid=205", "Cashew trees, in a nutshell. (2025). TREE AID. https://www.treeaid.org/blogs-updates/cashews/?srsltid=AfmBOopaKg31MNQ7EFC8GjaXcRw8pBqUQnAZTdYg0tpQSMSNP9D7uvf6", "Aluko, A., Makule, E., & Kassim, N. (2023). Underutilized Cashew Apple Fruit: Its Utility and Development as a Source of Nutrients and Value Added Products in Tanzania. Current Research in Nutrition and Food Science Journal, 11(2), 719–734. https://www.foodandnutritionjournal.org/volume11number2/underutilized-cashew-apple-fruit-its-utility-and-development-as-a-source-of-nutrients-and-value-added-products-in-tanzania/"],
+    "coordinates": "13.69538°N, 123.45693°E",
+    "tree_code": "cashew",
+    "image": ""
+},
+
+{
+    "common_name": "Guyabano, Soursop",
+    "scientific_name": "Annona muricata",
+    "vernacular_names": ["Guyabano (Filipino, Bikol), Soursop (English), Graviola (Portuguese)"],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "class": "Magnolids",
+        "order": "Magnoliales",
+        "family": "Annonaceae",
+        "genus": "Annona",
+        "species": "A. muricata"
+    },
+
+    "description": "Annona muricata, commonly known as Guyabano in the Philippines or Soursop in English, is a small tropical evergreen tree belonging to the family Annonaceae. It is widely distributed in tropical and subtropical regions, including Central and South America, West and Central Africa, and Southeast Asia. The tree tends to bloom and bear fruit most of the year, growing in warm, humid climates with well-drained soil. Under proper care, Guyabano trees can live up to 25 years.",
+    "notable_features": "The Annona muricata tree is a small evergreen tree, mostly distributed in tropical and subtropical regions, including the Philippines. Its height reaches about 5 - 10 meters tall and has a trunk diameter of 15 - 83 cm. Its bark is smooth and grayish-brown when young but becomes rough when aging, while the inner bark is pinkish. The leaves are oblong and dark green, with a thick and glossy surface, pointed at the ends, and measuring 6.25 - 20 cm long and 2.5 - 6.25 cm wide. The flowers of A. muricata are protandrous (they start as male and can later change to female) and may appear anywhere on the trunk, branches, or shoots. They are yellowish-green, extending to 4 - 5 cm long, and have six petals arranged in two whorls—three outer yellowish-green petals and three inner, close-set pale yellow petals. It produces a heart-shaped fruit with a soft-spined green outer skin and a soft, white, fibrous, juicy flesh that is sweet on the inside.  In some countries, each fruit has an average weight of 4 kg, and each contains 55–170 black seeds. The genus name “Annona” is from the Latin word “anon,” which means “yearly produce,” which refers to the plant’s regular production habits of the various species in this genus.",
+    "uses": "The fruits of Annona muricata are used to prepare syrups, candies, beverages, ice creams, shakes, and teas. Some communities in Africa and South America also use this as their medicinal plant. According to some studies, Annona muricata has been scientifically and traditionally proven and used to have great natural benefits as it helps lower fever, muscle cramps, heart rate, and blood pressure. Additionally, the natural insecticidal compounds in its fruit pulp and leaves serve as organic pest repellents in agriculture.",
+    "references": ["Moghadamtousi, S., Fadaeinasab, M., Nikzad, S., Mohan, G., Ali, H., & Kadir, H. (2015). Annona muricata (Annonaceae): A Review of Its Traditional Uses, Isolated Acetogenins and Biological Activities. International Journal of Molecular Sciences, 16(7), 15625–15658. https://doi.org/10.3390/ijms160715625", "World Agroforestry. (n.d.). Annona muricata. World Agroforestry Tree Database. https://apps.worldagroforestry.org/treedb/AFTPDFS/Annona_muricata.PDF", "The Editors of Encyclopaedia Britannica. (2025, October 10). Soursop | Description, Fruit, plant, uses, & Facts. Encyclopedia Britannica. https://www.britannica.com/plant/soursop", "Annona muricata - National Parks Board. (n.d.). https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3258"],
+    "coordinates": "",
+    "tree_code": "guyabano",
+    "image": ""
+},
+
+{
+    "common_name": "Antipolo",
+    "scientific_name": "Artocarpus blancoi",
+    "vernacular_names": ["Pakak (Batanes, Cagayan, Pangasinan), Tuyop (Zambales), Kalo (Visayas Region), Tipolo (Sibuyan Island), Ugob (Bicol), Chipuho (Ivatan)"],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "clade": "Eudicots, Rosids, Rosales, Tracheophytes, Angiosperms",
+        "order": "Rosales",
+        "family": "Moraceae",
+        "genus": "Artocarpus",
+        "species": "Artocarpus b."
+    },
+
+    "description": "Artocarpus blancoi commonly known as Antipolo Tree or Tipolo Tree, a large evergreen tree and is a species of the Moraceae family. The Antipolo tree commonly grows in lowland forests, mountain slopes, and open areas with moist and fertile soil. The tree holds historical importance in the Philippines, as the city of Antipolo was named after it. Over time, it has come to symbolize Filipino heritage, strength, and connection to nature.",
+    "notable_features": "The Antipolo tree (Artocarpus blancoi), also known as Tipolo, is a large evergreen  tree that typically grows about 30 to 40 meters tall and can reach a trunk diameter of around 60 centimeters or more. It has a straight trunk with short, stout buttresses at the base, and its outer bark is grayish-black, when cut the bark releases a white latex that can be used as a natural adhesive. The roots are strong and should be planted with the root collar at or slightly below the soil surface. Its flowers are very small and grow in clusters located in the leaf axils, with separate clusters for male and female blooms—the male flowers are yellowish, elongated, cylindrical, and spongy, while the female flowers are round. The fruit of the Antipolo tree (Artocarpus blancoi) is ellipsoid in shape, typically measuring about 10 centimeters long and 7 centimeters wide. When the fruit matures, it turns into a yellow to orange-brown color and is covered with short, spiky or rough appendages about 1 centimeter long. A fleshy edible vegetable that can be eaten when cooked. According to BINHI (n.d.) Leaf characteristics are similar to Artocarpus altilis (Rimas). The leaves are simple and arranged in a spiral pattern, each having one to three pairs of lobes. The petioles are covered with fine hairs and measure around 8 centimeters long, while the stipules are also hairy and about 10 centimeters in length.",
+    "uses": "The wood of the Antipolo tree is locally used for light construction, while its fruits are usually cooked and eaten as vegetables. The white sap can be used as a glue or adhesive for household purposes. Ecologically it helps prevent soil erosion and can be used for coastal protection or as a boundary marker.",
+    "fun_facts": "There is a tradition/family of stories around trees in place-names. For example, one barrio in Lipa City is said to have gotten its name “Antipolo” because there was a prominent large antipolo tree in the middle, and people used it as reference—“sa may antipolo” (“by the antipolo”) when giving directions. The Antipolo tree likely has a lifespan for over a century, especially under ideal conditions. The Antipolo is also endemic and it tolerates a range of conditions.",
+    "references": ["IUCN. (n.d.). Artocarpus blancoi [PDF]. The IUCN Red List of Threatened Species. https://www.iucnredlist.org/species/pdf/61524790", "Philstar. (2011, October 24). Native Tree Month, Part 2: Antipolo — Artocarpus blancoi (Elm) Merr. Philstar. https://www.philstar.com/cebu-news/2011/10/24/740381/native-tree-month-part-2-antipolo-artocarpus-blancoi-elm-merr/amp/", "BINHI. (n.d.). Antipolo (Artocarpus blancoi). Tree Info – BINHI. https://binhi.ph/tree-info/?tree-name=Antipolo", "StuartXchange. (n.d.). Antipolo / Artocarpus blancoi / tipolo: Philippine Medicinal Herbs."],
+    "coordinates": "",
+    "tree_code": "antipolo",
+    "image": ""
+},
+
+{
+    "common_name": "Langka, Jackfruit",
+    "scientific_name": "Artocarpus heterophyllus Lam",
+    "vernacular_names": ["Nangka, Anangka, Badak, Angka"],
+    "conservation_status": "Non-extinct",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "clade": "Tracheophytes-Angiosperms-Eudicots-Rosids",
+        "order": "Rosales",
+        "family": "Moraceae",
+        "genus": "Artocarpus",
+        "species": "A. heterophillus"
+    },
+
+    "description": "Artocarpus heterophyllus lam commonly known as Langka is a tropical tree native to South and Southeast Asia. It belongs to the Moraceae family, which includes mulberries and figs. The large Langka tree has a dense canopy, thick bark that darkens with age, and glossy, leathery oval leaves. It produces the largest fruit of all trees, characterized by spiky green skin and sweet, fragrant yellow flesh. Rich in nutrients, Langka is frequently used in various Filipino dishes and desserts thrive in warm, humid climates, particularly in lowland tropical forests.",
+    "notable_features": "Jackfruit is a tree and can grow large and fast, up to 15 to 20 meters. It has a pronounced and prominent architecture and fast-growing, thick, and large leaves and evergreen nature. Jackfruit trees make functional and ornamental additions to home gardens and rural roadside as shade trees, as well as garden and roadside ornaments, due to their fruits. Jackfruit trees have textured and contorted bark as well as large and glossy leaves, and age tends to accentuate and dramatize bark fissures and make rough, dark brown-gray bark, creating contrast and roughened surfaces where juxtaposed glossy leaves. Artocarpus heterophyllus trees have well developed and expansive rooting systems that functionally keep trees anchored and growing well. This allows expanding growth and fruit, supported in direct trunk and major branch fruit growth even like jackfruit tree fruit. Jackfruit trees, unlike pioneering legumes, have no hosting symbiotic nitrogen fixing organisms. Jackfruit tree fruit is large and well developed, supportive rooting system growing, and trunk and major branch fruit growth is called cauliflory. Small and unisexual, jackfruit flowers come in male and female variants and are arranged in separate \"clusters.\" They are crowding and coming directly from the tree trunk and branches, and although none are particularly noteworthy, these flowers are remarkable because of their unusual placement and because of the role the placement occupies in the formation of the enormous fruit.",
+    "uses": "In the Philippines, langka can be both a fruit and a vegetable that can  be served as one of the dishes. It also has high carbohydrates content and vitamin C meaning it holds a lot of carbohydrate material like its natural sugar. Langka seeds are very rich in starch, but poor source of calcium and iron.",
+    "fun_facts": "Langka is  the largest tree-borne fruit and is very versatile. A single tree can produce hundreds of fruit each year, and every part of it can be used. The seeds can be eaten after boiling or roasting, and the unripe fruit is used as a vegetable in Indian cuisine, mostly in pickles. When it is ripe, the fruit is sweet, fragrant, and excellent for desserts or eaten fresh. In every way, jackfruit is a remarkable and rare plant.",
+    "references": ["Langka / Artocarpus Heterophyllus / Jack fruit / Mu bo luot: Philippine Medicinal Herbs / Philippine Herbal Medicine. (n.d.) https://www.stuartxchange.com/Langka.html", "The Editors of Encyclopaedia Britannica. (2025, September 13). Jackfruit | Description & Uses. Encyclopedia Britannica. https://www.britannica.com/plant/jackfruit", "Wakao Foods. (2023, October 9). 7 Jaw-Dropping Facts about Jackfruits: You Cannot Miss  – Wakao Foods. https://www.wakaofoods.com/blogs/from-the-founders-desk/7-jaw-dropping-facts-about-jackfruits-you-cannot-miss"],
+    "coordinates": "",
+    "tree_code": "langka",
+    "image": "/images/tree/langka.jpg"
+},
+
+{
+    "common_name": "Gumihan, Pedalai",
+    "scientific_name": "Artocarpus sericicarpus",
+    "vernacular_names": ["Terap bulu, Gumihan (Tagalog),  Gomihan (Bikol)"],
+    "conservation_status": "Near Threatened",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "clade": "Tracheophytes, Angiosperms, Eudicots",
+        "order": "Rosales",
+        "family": "Moraceae",
+        "genus": "Artocarpus",
+        "species": "A. sericicarpus"
+    },
+
+    "description": "Artocarpus sericicarpus, known in the Philippines as Gumihan, is a large, tropical evergreen species of the Moraceae family. It is also known as Pedalai, it can reach heights up to 40 meters tall and is highly valued for its fruit, which is regarded as one of the most delicious in its genus, a group that also includes jackfruit and breadfruit. The tree is native to Borneo and Philippines, usually found in humid and steep areas. The tree's characteristics include a straight, cylindrical trunk, and branches that grow outward, making the crown much wider. Its leaves are dark green; young leaves are often lobed while mature ones are entire and leathery. Gumihan's flowers grow in cylindrical heads. Its fruit is round, very similar to rambutan but a bigger version, with soft, hair-like projections on its skin and a bright orange color when ripe. Each fruit contains numerous seeds each surrounded by white-sweet pulp. This tree is very abundant and well-known here in Bicol.",
+    "notable_features": "The Artocarpus sericicarpus has a straight, cylindrical trunk with a broad, spreading crown that often overlaps with neighboring trees. The bark is grey or dark grey and, as the tree matures and increases in diameter, it becomes scaly, fissured, or roughened in some areas, though younger bark is generally smooth. The bark is thick and fibrous, and the inner layers contain a sticky latex. Mature Pedalai develops massive, distinctive buttress roots that shoot out from the base of the trunk for structural support, with its wide, shallow root system often intertwining with neighboring trees. The leaves are noticeable for its size and form, with it being arranged in a spiral pattern on the twigs. Mature leaves are typically dark green, large, leathery, and elliptic to ovate in shape. The surface of the leaf usually has a slightly rough texture. The young leaves are lobed, but as the plant matures, they transition to the full-margined elliptical shape. The tree can shed most of its leaves when stressed by conditions outside its ideal warm, humid environment, such as cold temperatures, drought, or malnutrition. The tree is monoecious, meaning it produces both male and female flowers on the same plant, growing in clusters that form small, short, cylindrical heads with soft, hairy bristles. The fruit of this tree is large and round, with a bright orange color when ripe and a skin covered in soft, hair-like projections. Inside is the soft, sweet, pulp, which surrounds the seeds. Even the seeds are edible after being cooked, often by boiling or roasting.",
+    "uses": "Pedalai is an important resource in the Philippines, it has been collected for its uses as food from the fruit, medicine from the leaves, it can be eaten boiled, baked, or roasted. The latex from the tree is used for batik-making, and its wood for creating households and boats. The bark is also traditionally used to make barkcloth. Pedalai is historically significant as a resource embedded in traditional life, with every part of the tree holding a cultural and material value.",
+    "fun_facts": "A fun fact about the Pedalai tree here at our school is that it grows in the same area alongside three other trees. Because of the trees planted closely, their large roots often overlap and intertwine, and their crowns touch each other, creating a thick shade. This also makes it confusing to distinguish one tree from another. If you look at it from afar, it might look like one enormous tree, making it difficult to identify a tree’s leaves, roots, or twigs if not inspected carefully.",
+    "references": ["Artocarpus sericicarpus. (n.d.). iNaturalist. https://www.inaturalist.org/taxa/430692-Artocarpus-sericicarpus#articles-tab", "Best Organic Farm and Nursery in Kerala,India| Variety of exotic fruits and plants for sale. (n.d.). https://www.inetfarms.com/thisfruit/266#:~:text=Artocarpus%20sericarpus%2C%20the%20pedalai%2C%20gumihan,with%20smallsoft%20curly%20hair%20protrusions.", "Gumihan seedling. (n.d.). Lunti Plant Nursery. https://lunti.ph/products/gumihan", "Lr. (n.d.). Artocarpus Fruits Guide, Archives RFC Australia. https://www.growables.org/information/TropicalFruit/JackfruitArcRFC4.htm", "NParks | Artocarpus sericicarpus. (n.d.). https://www.nparks.gov.sg/florafaunaweb/flora/8/7/8795", "National Parks Board (NParks). (n.d.). Default. https://www.nparks.gov.sg/", "Onszaden. (n.d.). Pedalai (Artocarpus sericicarpus). https://onszaden.com/Artocarpus-sericicarpus", "Pedalai - Penang Tropical Fruit Farm. (n.d.). Penang Tropical Fruit Farm. https://tropicalfruitfarm.com.my/fruits/p,p-t/pedalai-2/", "StuartXchange. (n.d.). Family • Moraceae Gumihan Artocarpus sericicarpus F.M.Jarrett PEDALAI. https://www.stuartxchange.org/Gumihan"],
+    "coordinates": "",
+    "tree_code": "gumihan",
+    "image": ""
+},
+
+{
+    "common_name": "Pili Tree",
+    "scientific_name": "Canarium ovatum",
+    "vernacular_names": ["Pili, Pilinuts, Pilaui, Liputi (Tagalog); also known in trade as Philippine nut or Galip nut."],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "clade": "Eudicots, Rosids",
+        "order": "Sapindales",
+        "family": "Burseraceae",
+        "genus": "Canarium",
+        "species": "C. ovatum Engl."
+    },
+
+    "description": "The evergreen species Canarium ovatum, commonly known as Pili, is native to the Philippines and belongs to the Burseraceae family. It is known to be most diverse in areas like Bicol, Leyte, and Samar, where it grows naturally. With trunks that can reach 50 centimeters in diameter and occasionally develop buttresses, mature trees typically reach heights of 20 to 25 meters with a straight trunk and a dense, symmetrical crown. It thrives in deep, fertile, well-drained soils in humid tropical climates and is commonly found in lowland forests up to 400 meters in elevation.",
+    "notable_features": "The Pili tree is a medium- to large-sized evergreen known for its robust root system and a dense crown. Its trunk is frequently straight when young and slightly spreads as the tree ages. The genus is distinguished by the rough texture and resin exudation of its bark, which is generally a smooth grayish color. One striking characteristic is that it produces additional fruits after exposure to environmental stressors like typhoons or dry spells, earning it the label of the \"stress-loving tree\" among farmers. The tree bears compound leaves that measure approximately 16 cm in length overall, with alternately placed leaflets. These leaflets are typically composed of 5 to 9 units that are leathery, glossy, and elliptic in shape. The Pili's flowers are small, pale yellowish-green, and aromatic, appearing in clusters on young shoots. The tree is mostly dioecious, meaning that the male and female flowers grow on different trees, and are primarily pollinated by insects. Its fruit is a drupe, which is oblong and pointed at both ends, measuring about 4 to 7 cm in length. Upon ripening, its outer coat turns deep purple or black, covering a fibrous pulp and a hard, triangular shell that contains the edible kernel. The kernel is rich in oil, protein, and essential fatty acids. With optimal conditions, a mature tree can produce as much as 100–150 kg of in-shell nuts annually.",
+    "uses": "Virtually every part of the Canarium ovatum is useful, which accounts for its wide variety of applications in food, industry, and traditional practice. The kernel (pili nut) is the tree's most valuable part, being rich in oil, protein, and fats, when roasted or caramelized, it develops a buttery nutty flavor, making it popular in confections, baked goods, chocolates, and local delicacies. The fruit pulp is edible after cooking, can be eaten as a vegetable, and yields pili pulp oil used in cooking, soap, and cosmetics, while the young shoots are also edible and used in salads. For industrial and practical purposes, the hard shell of the fruit is used as charcoal or fuel, and the tree's resin (elemi) is used in the production of varnishes, perfumes, and medicinal ointments, with the wood used for light construction, furniture, and firewood. In traditional practice, the kernel emulsion has served as an infant milk substitute, and the oil has been used as a mild laxative, with modern studies confirming that the pulp oil contains bioactive compounds with antioxidant and antibacterial properties. Beyond these uses, the Pili tree holds significant cultural importance in many Philippine communities as an essential source of livelihood, craftsmanship, and local industry.",
+    "references": ["Agroforestree Species profile. (n.d.). https://apps.worldagroforestry.org/treedb2/speciesprofile.php?Spid=425", "Dumandan, N. G., Kagaoan, A. C. T., Acda, R. D. P., Tumambing, C. R., & Pham, L. J. (2022). Extraction, profiling, and characterization of phytosterols and triterpenoids from pili (Canarium ovatum Engl.) pulp oil exhibiting antioxidant and antibacterial properties. Biochemistry Research International. https://pubmed.ncbi.nlm.nih.gov/36606186/", "FAO / UPLB. (2023). Key descriptors for Pili nut (Canarium ovatum Engl.) [Descriptor list]. https://openknowledge.fao.org/bitstreams/2e60a054-955d-4e24-8a75-6f9ba522dbe1/download", "Pili / Canarium ovatum / Philippine nut: Philippine Medicinal Herbs / Philippine Alternative  Medicine. (n.d.). https://www.stuartxchange.org/Pili.html", "Pham, L. J. (2015). Philippine pili: Composition of the lipid molecular species. Journal of Ethnic Foods. https://www.sciencedirect.com/science/article/pii/S2352618115000621", "The Editors of Encyclopaedia Britannica. (1998, July 20). Pili nut | Description, Tree, Nut, Nutrition, & Facts. Encyclopedia Britannica. https://www.britannica.com/science/pili-nut", "Tropical Plants Database. (n.d.). Canarium ovatum — useful tropical plant information. Retrieved from https://tropical.theferns.info/viewtropical.php?id=Canarium+ovatum", "Wikipedia. (2024, April). Canarium ovatum. In Wikipedia. https://en.wikipedia.org/wiki/Canarium_ovatum"],
+    "coordinates": "",
+    "tree_code": "pili_tree",
+    "image": ""
+},
+
+{
+    "common_name": "Agoho",
+    "scientific_name": "Casurina equisetifolia",
+    "vernacular_names": ["Agoho, Aro, Agoso, Maribuhok"],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "clade": "Rosids",
+        "order": "Fagales",
+        "family": "Casuarinaceae",
+        "genus": "Casuarina L.",
+        "species": "Casuarina equisetifolia"
+    },
+
+    "description": "Casuarina equisetifolia, from the family of Casuarinaceae, commonly known as Agoho, is a large, conifer native Philippine Tree. It grows in sandy loam as it is not suitable for heavy soils , usually found in humid tropical and subtropical coastlines, open sandy valleys along streams, high altitudes— sometimes as high as 800 meters. This species has trunks that extend an average height of 25 cm with a diameter of 150 cm. It primarily helps in erosion control because of its deep-rooted roots, and its materials that can be used for various purposes. Furthermore,  the Agoho tree provides useful components such as seeds, bark, leaves, and fruits which help  in medical treatments—specifically, stomach aches, coughs, asthma, diabetes, diarrhea, dysentery and nervous disorders. The Agoho tree is a tree characterized by its tall trunk and narrowly pyramidal crown. The “horse hair”  leaves are arranged in whorls of 7 or 8 around branchlets. The leaves measure about 1 to 3 mm and the branchlets are up to 38 cm. The tree has needle-like branches, similar to pine branches. It yields male flowers which are tiny spikes at the ends of green twigs, while female flowers are small brownish heads on swollen ends of brownish twigs; both shaped as catkins. They also produce oval woody fruits, which open and turn into brown when ripen. Agoho’s seeds are  lightweight and they are dispersed by the wind, allowing them to travel over long distances. The Agoho trees' natural habitat is located in coastal regions of Southeast Asia, the Philippines, and Pacific islands. They are pioneer species, which means they can swiftly colonize disturbed areas such as coastal regions and sand dunes. These trees are highly adaptable to coastal conditions due to their high salt-tolerance, which also makes it excellent for planting along coastlines or in coastal restoration projects. They help stabilize coastal areas, and sand dunes, preventing soil loss and damage from wind and water erosion. Aside from that, Agoho can be used in soil enrichment, coastal reclamation, and potential absorption of heavy metals and dyes from wastewater treatment.",
+    "notable_features": "The Agoho tree is characterized by its light greyish-brown bark, which is smooth when young and becomes slightly rough and brittle with maturity. Its roots are entrenched, enabling strong anchorage  in sandy or rocky soils, which control erosion, and thrive in soils with larger proportions of gravel and sand particles—allowing strong stability, along with preventing nutrient and water loss. The tree generates monoecious, catkins  flowers. Its fruits are small, oval and woody—initially grey or yellow green, then develops into brown. The leaves are tiny, greyish-green, scales,  measuring about 0.1 - 0.3 cm  long, arranged in rings with 6 - 8 scales, and are not alternate. They have a moderate growth rate of approximately 25 cm per year, with 20 years being the maximum growth and a lifespan of 40 to 50 years.  These attributes make the Agoho essential in the necessity of organisms, human economy, and the environment.",
+    "uses": "The Agoho tree has a huge scope of various environmental uses and functional applications. Usually, its wood can be utilized for the production of paper pulp, and fuel. The Bark comprises  a red pigment which is used for making dyes. While the leaves are used for creating traditional medicines or simply for decoration purposes.",
+    "fun_facts": "Agoo, a coastal town in the Philippines, is named after Agoho. Due to its green, needle-like leaves, resembling pine trees, it can be an alternative to Christmas trees.  Given that, many use Casuarina equisetifolia as decorations to their homes, offices, and other places, offering a fresh and welcoming environment.",
+    "references": ["Agoho, Casuarina equisetifolia Linn., IRON WOOD / Philippine Herbal Therapy  /  Alternative Medicine. (n.d.). https://www.stuartxchange.org/Agoho.html", "Australian Pine (Casuarina equisetifolia). (n.d.). Center for the Study of the Built Environment. https://www.csbe.org/australian-pine-casuarina-equisetifolia", "Berame, J. (n.d.). INTERNATIONAL REVIEW OF HUMANITIES AND SCIENTIFIC RESEARCH By International Scientific Indexing www.irhsr.org 520 PRELIMINARY RESULTS OF GYMNOSPERM SPECIES INVENTORY IN CARAGA REGION XIII, PHILIPPINES. https://irhsr.org/papers/1513675531.pdf", "Casuarinaceae. (n.d.).  https://www.philippineplants.org/Families/Casuarinaceae.html", "Casuarina equisetifolia Casuarinaceae L. ironwood, beaf-wood. (n.d.). https://apps.worldagroforestry.org/treedb/AFTPDFS/Casuarina_equisetifolia.PDF", "Maeght, J.-L., Rewald, B., & Pierret, A. (2013). How to study deep roots—and why it matters. Frontiers in Plant Science, 4. https://doi.org/10.3389/fpls.2013.00299", "NParks | Casuarina equisetifolia. (n.d.). https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2793", "PROSEA - Plant resources of South East Asia. (n.d.).  https://prosea.prota4u.org/view.aspx?id=2993", "WwwUpaneIt, U.-. (n.d.). GISD. https://www.iucngisd.org/gisd/species.php?sc=365#:~:text=arbol%20de%20hierro%20(Spanish%2C%20Galapagos,Casuarina%20litorea%20%2C%20Rumpheus%20ex%20Stickman"],
+    "coordinates": "",
+    "tree_code": "agoho",
+    "image": "/images/tree/agoho.jpg"
+},
+
+{
+    "common_name": "Star Apple, Caimito",
+    "scientific_name": "Chrysophyllum cainito",
+    "vernacular_names": ["Star Apple, Achras cainito, Cainito, Caimito (Filipino)"],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "clade": "Tracheophytes, Angiosperms, Eudicots, Asterids, Myrtales",
+        "order": "Ericales",
+        "family": "Sapotaceae",
+        "genus": "Chrysophyllum",
+        "species": "C. cainito"
+    },
+
+    "description": "Chrysophyllum cainito, commonly called Cainito or Star Apple, belongs to the Sapotaceae family. It is one of the most common backyard and roadside fruit trees in the Philippines. Historically, the caimito traces back to Peru, where it was first documented by the Spanish explorer Cieza de Leon in the early 1500s. However, it had already been enjoyed for centuries by indigenous peoples before European contact. Over time, it spread widely and became well-known in regions such as Panama, the Philippines, the Caribbean, Guatemala, Zanzibar, and India’s warmer climates. A native to the West Indies and Central America, it was first introduced to the country in 1905 by W.S. Lyon, a horticulturalist with the Philippine Bureau of Plant Industry. In the Philippines, there are two main varieties: cainito blanco (white star apple) and cainito morado (purple star apple).",
+    "notable_features": "The caimito tree is a medium to large tropical evergreen, typically reaching 25 to 100 feet (7.9 to 30.5 m) in height. It has a round to oval canopy, giving it a full and dense appearance. Its short, stout trunk supports gracefully weeping branches, making it not only functional but also highly ornamental. The foliage is particularly striking, with leaves that are shiny dark green on the upper surface and a silky golden-brown or copper underside, creating a beautiful contrast that glimmers in sunlight. The bark of the caimito is brown, rough, and irregularly fissured, while the inner bark is orange-white to yellow-white, fibrous, and exudes white latex when cut. On young twigs, the bark appears reddish-brown and hairy. The flowers are small and inconspicuous, often purplish-white or greenish, and may be unisexual or bisexual. They grow in axillary clusters or directly on the trunk and branches, a feature known as cauliflory. Each flower has a reddish-brown, hairy stalk, a calyx with 4–6 sepals, and a 5-lobed corolla, and they emit a strong odor. The fruit of the caimito is its most famous feature. It is round to oblate to ellipsoid, measuring 5–10 cm in diameter, with a smooth, glossy, leathery peel that can be red-purple, dark-purple, or pale green. Inside, the pulp is soft, white, and milky, surrounding 6 to 11 seeds encased in a gelatinous pulp. When sliced across, the fruit reveals a star-shaped pattern, which is why it is commonly called the Star Apple. The leaves are alternate, elliptic, and slightly leathery, ranging from 5–15 cm long, with a shiny green upper surface and a golden-brown underside. The stem is erect with drooping branches, and the young leaves are often hairy and shiny, showing red or yellowish tones beneath. Together, these features make the caimito tree not only a source of sweet, edible fruit but also an ornamental and medicinal tree valued in many tropical regions. ",
+    "uses": "The cainito tree is highly valued for its many uses. Its fruit is sweet when ripe and is commonly eaten fresh or processed into preserves. Beyond its pleasant taste, the ripe fruit has medicinal value, as it is used to soothe inflammation in conditions such as laryngitis and pneumonia, and is also applied in the treatment of diabetes, angina, hemorrhage, and fever. The leaves of the tree are traditionally used for treating wounds and hypoglycemia, while the bark is prepared as a remedy for diarrhea, dysentery, hemorrhages, gonorrhea, and bladder infections. Aside from its medicinal applications, the caimito tree has several practical uses. The branches are sometimes used as a medium for growing orchids, and the wood pulp can be processed into high-quality paper. Its bark also yields tannin, which is useful in tanning and dyeing. Meanwhile, the wood itself, though not the hardest, is suitable for indoor construction and is also used as fuel. These combined benefits make the caimito not only a source of nourishment but also an important resource for traditional medicine and practical daily use.",
+    "fun_facts": "In Vietnam, the star apple is called vú sữa, which means “mother’s milk.” This name comes from a well-known folktale that highlights both the tree’s symbolism and the unique texture of its fruit. According to the story, a mother once left her children in anger. Heartbroken, the children cried beneath a tree, and their tears flowed into its roots. When the mother returned to find them gone, she discovered that the tree had transformed in their place. One day, she heard sounds in the branches that reminded her of her children’s voices, and a fruit fell to the ground. When it split open, it released a fragrant white juice that tasted like her own milk. The mother realized that her children had become the tree itself, offering her comfort through its fruit. Because of this tale, the milky white flesh of the caimito fruit is seen as a symbol of a mother’s love. Another unique trait of the caimito is its name “star apple,” which comes from the star-shaped pattern that appears when the fruit is sliced crosswise. Beyond its cultural meaning and distinct look, the tree also has a fairly long lifespan, living for about 20 to 50 years or more, depending on its environment and care.",
+    "references": ["NParks | Chrysophyllum cainito. (n.d.). https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2803", "Marketman. (2005, April 2). Caimito / Star Apple. Market Manila. https://www.marketmanila.com/archives/caimito-star-apple", "Crane, J., & Balerdi, C. F. (2020, January 7). Caimito (Star Apple) growing in the Florida home landscape. Ask IFAS - Powered by EDIS. https://edis.ifas.ufl.edu/publication/HS309", "Chrysophyllum cainito Star Apple, Caimito PFAF Plant Database. (n.d.). https://pfaf.org/user/Plant.aspx?LatinName=Chrysophyllum+cainito", "Team, S. (2021, September 24). Star Apple: the tropical American fruit. Recette Magazine. https://blog.suvie.com/star-apple-the-tropical-american-fruit", "The story about Vietnam Star fruit. (n.d.). TIGER Tours. https://www.mytigertour.com/blog/the-story-about-vietnam-star-fruit#:~:text=The%20boy%20dropped%20his%20lips,Picture%20source:%20Internet"],
+    "coordinates": "",
+    "tree_code": "star_apple",
+    "image": ""
+}, 
+
+{
+    "common_name": "Pomelo",
+    "scientific_name": "Citrus maxima",
+    "vernacular_names": ["Pomelo, Lukban, Suha, Buongon, Pummelo, Shaddock, Youzi"],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+        "order": "Sapindales",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "species": "C. maxima"
+    },
+
+    "description": "Citrus maxima, commonly known as Pomelo or Lukban, is a natural, non-hybrid tree native to Southeast Asia, belonging to the Rutaceae family. It is considered a native crop in the Philippines, widely cultivated for its round fruits, the largest and heaviest ones in the world. Pomelo trees can grow up to 15 meters tall in height and 10 to 30 centimeters in diameter, with trunks that often have crooked, irregular, and low-hanging branching patterns. It is an original ancestor of cultivated Citrus species, including orange and grapefruit. They are found in tropical humid lowland elevations requiring monsoon climates with wet and dry seasons, sun exposure, and high humidity.",
+    "notable_features": "Its leaves are large with a leathery texture, typically oval or elliptical in shape with a glossy, dark green surface and a downy or fuzzy lighter underside, while their structure is simple with a single leaflet. Flowers are fragrant and yellow-white in color, often single or in clusters. Its bark is rough in texture and has several gray hues, ranging from light to dark. The tree is commonly grown for its sweet fruit, the largest citrus originating from Southeast Asia, with a thick yellow-green rind and sweet, tangy flesh that can be white, pink, or red. The fruit seeds are typically white and monoembryonic. The whole fruit contains many nutritional benefits such as a good source for vitamin C, vitamin A, antioxidants, fiber, and minerals like potassium and magnesium.",
+    "uses": "Pomelo is a versatile plant, the fruit is used fresh as snacks, desserts, fruit preserve, juices, and even in savory dishes. The raw rind and pith can be cooked into candies or used to make zest that adds fragrance and flavor to food. It is used in traditional alternative medicine for its medicinal properties to treat cough and gastrointestinal illnesses, and is still being further researched to study its specific compounds to develop herbal products and foods.",
+    "fun_facts": "Pomelo leaves are evergreen and have winged petioles. The fruit is green when unripe and turns yellow when it is ready to harvest. Pomelo trees are perennial and can live for many years, with a lifespan similar to grapefruit trees, which can live up to 50 years. A grafted pomelo tree produces fruit faster, typically within 2 to 4 years, has better disease resistance, and remains smaller in size. In contrast, a seed-grown pomelo tree takes longer to bear fruit, usually between 5 to 10 years, and may not produce the same quality as the parent tree. It also tends to grow larger and has more thorns.",
+    "references": ["Pan, T., Ali, M. M., Gong, J., She, W., Pan, D., Guo, Z., Yu, Y., & Chen, F. (2021). Fruit Physiology and Sugar-Acid Profile of 24 Pomelo (Citrus grandis (L.) Osbeck) Cultivars Grown in Subtropical Region of China. Agronomy, 11(12), 2393. https://doi.org/10.3390/agronomy11122393.", "Sharma, S., Singh, B., Kaur, G., Srivastava, Y., & Sandhu, R. S. (2024, August 30). Nutritional, Bioactive, and Health Potential of Pomelo (Citrus maxima): An Exotic Underutilized Fruit. https://www.foodandnutritionjournal.org/volume12number2/nutritional-bioactive-and-health-potential-of-pomelo-citrus-maxima-an-exotic-underutilized-fruit.", "Thilavech, T., Suantawee, T., Chusak, C., & Adisakwattana, S. (2025). Pomelo By-Products: A Bibliometric Review on Enhancing Gut Health and Digestive Function for Metabolic Regulation through Advanced Processing Techniques. Current Research in Food Science, 101150. https://doi.org/10.1016/j.crfs.2025.101150."],
+    "coordinates": "",
+    "tree_code": "pomelo",
+    "image": ""
+},
+
+{
+    "common_name": "Calamansi",
+    "scientific_name": "Citrus microcarpa",
+    "vernacular_names": ["Kalamansi (Filipino), Calamondin,  Hazara, Manao wan, Jeruk Kasturi, Karamonjin, Limau kesturi, Gan"],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+        "order": "Sapindales",
+        "family": "Rutaceae",
+        "genus": "Citrus",
+        "species": "C. microcarpa"
+    },
+
+    "description": "Citrus microcarpa, or its common name, Calamansi, is a citrus hybrid cultivated in the Philippines. It is a hybrid of kumquat and mandarin, and it is native to our country, parts of Indonesia, Malaysia, Brunei, Taiwan, and some parts of China. As a fruit-bearing plant, it has many uses, especially in traditional medicine and cuisine, and is overall popular among most countries in Asia, as well as some overseas.",
+    "notable_features": "The Calamansi is usually a shrub or small tree growing up to 3-5 meters tall. Its stem is slender with upright branches and the roots are long and deeply buried in the soil. The leaves are usually dark green  in color with a pale green underside, have a glossy appearance, and its shape is elliptic to obovate, meaning it is wider at the tip. They have an alternate formation and its scent is aromatic when crushed or crumpled. This tree also produces white colored, star shaped flowers, which are fragrant in smell. These flowers fall off to produce the aspect that makes this plant popular, and that is its fruit. The fruit is round in shape, resembling a small lime. It has a thin peel, its color varying from green to yellow encapsulating the juicy orange center pulp and the small, obovoid seeds buried in the pulp.",
+    "uses": "Citrus microcarpa is a resourceful plant and has many uses, specifically regarding its leaves, flowers, and fruit. Its fruit is the most notable, used in culinary arts as either a main ingredient in a dish to add a citrusy flavor, a condiment for the same purposes, or its juice is extracted to make a flavorful drink on its own or be put in other drinks. Aside from that, it is also used as treatment for skin irritations, coughs, and colds. Both its leaves and flowers are brewed as tea, as in traditional practices with medicine, the plant’s leaves are made into teas as a remedy for coughs, colds, and mild stomach aches. It is sometimes combined with other herbs and has a calming effect on the body when consumed. Meanwhile, the flowers provide a relaxation and stress relieving result after drinking it as tea.",
+    "references": ["Wikipedia contributors. (2025, September 28). Calamansi. Wikipedia. https://en.wikipedia.org/wiki/Calamansi", "Citrus × microcarpa. (n.d.). https://www.socfindoconservation.co.id/plant/263?lang=en", "Calamansi Tree - unbeleafable. (2023, July 13). Unbeleafable. https://unbeleafable.ph/product/calamansi-tree", "Swanson, B. (2025, September 10). Calamansi Leaf Tea – A Gentle Citrus Brew • The Rustic Spade. The Rustic Spade. https://therusticspade.co.za/calamansi-leaf-tea-a-gentle-citrus-brew/", "Swanson, B. (2025, September 10). Calamansi Leaves vs. Flowers – Which Makes the Better Tea? • The Rustic Spade. The Rustic Spade. https://therusticspade.co.za/calamansi-leaves-vs-flowers-which-makes-the-better-tea/"],
+    "coordinates": "",
+    "tree_code": "kalamansi",
+    "image": ""
+}
+]
