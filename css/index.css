@@ -114,7 +114,7 @@ section div#right-card {
     background: url(../images/map.png);
     background-size: cover;
     text-align: center;
-    height: clamp(3.5rem, 45vw, 40rem);
+    height: clamp(3.5rem, 130vh, 40rem);
     width: clamp(3.5rem, 50vw, 45rem);
     margin-right: auto;
     border-radius: var(--border-radius);
