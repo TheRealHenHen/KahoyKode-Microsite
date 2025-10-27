@@ -8,6 +8,23 @@
    ============================== */
 
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lexend:wght@100..900&display=swap');
+@font-face {
+    font-family: 'ITC Benguiat';
+    src: url('../fonts/ITC Benguiat.otf');
+}
+
+@font-face {
+    font-family: 'ITC Benguiat';
+    src: url("../fonts/ITC Benguiat Medium.otf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'ITC Benguiat';
+    src: url("../fonts/ITC Benguiat Bold.otf");
+    font-weight: bolder;
+}
+
 
 /* ==============================
    CSS VARIABLES
@@ -15,9 +32,20 @@
 
 :root {
     /* ======= FONT FAMILIES ======= */
-    --font-serif: 'EB Garamond', 'Times New Roman', serif;
+    --font-eb-garamond: 'EB Garamond', 'Times New Roman', serif;
+    --font-itc-benguiat: 'ITC Benguiat', 'Times New Roman', serif;
     --font-sans: 'Lexend', 'Helvetica Neue', Arial, sans-serif;
     /* ======= COLOR PALETTE ======= */
+    --color-white: #f0f1f5;
+    --color-yellow-1: #fff234;
+    --color-yellow-2: #dbb43e;
+    --color-green-1: #648062;
+    --color-green-2: #264027;
+    --color-green-3: #112112;
+    --color-brown-1: #ca945f;
+    --color-brown-2: #8d5a33;
+    --color-brown-3: #693a1b;
+    /* ======= COLOR PALETTE OLD ======= 
     --color-green: rgb(96, 108, 56);
     --color-dark-green: rgb(40, 54, 24);
     --color-light: rgb(254, 250, 224);
