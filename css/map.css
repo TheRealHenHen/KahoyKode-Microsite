@@ -22,24 +22,39 @@ h1 {
     padding: 15px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s;
+    display: flex;                
+    align-items: flex-start;      
+    gap: 1rem;                   
 }
 
 .tree-card:hover {
     transform: translateY(-5px);
 }
 
-.tree-card h2 {
+.tree-image {
+    width: 120px;                 /* 👈 fixed width */
+    height: 120px;
+    object-fit: cover;
+    border-radius: 8px;
+    flex-shrink: 0;               /* don’t let image shrink */
+}
+
+.tree-info {
+    flex: 1;                      /* let info take remaining width */
+}
+
+.tree-info h2 {
     margin: 0 0 5px 0;
     font-size: 1.2em;
     color: #2e7d32;
 }
 
-.tree-card p {
+.tree-info p {
     margin: 5px 0;
     font-size: 0.95em;
 }
 
-.tree-card a {
+.tree-info a {
     display: inline-block;
     margin-top: 10px;
     text-decoration: none;
@@ -49,13 +64,13 @@ h1 {
     border-radius: 5px;
 }
 
-.tree-card a:hover {
+.tree-info a:hover {
     background: #1b5e20;
 }
 
 .map-container {
     width: 60%;
-    height: 88vh;
+    height: 40rem;
     background: #1b5e20;
     border-radius: 10px;
     position: sticky;
@@ -67,8 +82,9 @@ h1 {
     width: 40%;
     height: 100vh;
     overflow-y: scroll;
-    height: calc(100vh - 100px); 
+    height: calc(100vh - 7rem); 
     box-sizing: border-box; 
+    flex-direction: column;
 }
 
 main {

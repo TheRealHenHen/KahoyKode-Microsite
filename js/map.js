@@ -7,12 +7,15 @@ fetch('../data/trees.json')
             const card = document.createElement('div');
             card.className = 'tree-card';
             card.innerHTML = `
-                <h2>${tree.common_name}</h2>
-                <p><strong>Scientific Name:</strong> ${tree.scientific_name || 'N/A'}</p>
-                <p><strong>Coordinates:</strong> ${tree.coordinates || 'N/A'}</p>
-                <p><strong>Conservation Status:</strong> ${tree.conservation_status || 'N/A'}</p>
-                <p><strong>Family:</strong> ${tree.taxonomic_classification?.family || 'N/A'}</p>
-                <a href="tree_info.html?tree=${tree.tree_code}">View Tree</a>
+                <img src="${tree.image || 'images/default-tree.jpg'}" alt="${tree.common_name}" class="tree-image">
+                <div class="tree-info">
+                    <h2>${tree.common_name}</h2>
+                    <p><strong>Scientific Name:</strong> ${tree.scientific_name || 'N/A'}</p>
+                    <p><strong>Coordinates:</strong> ${tree.coordinates || 'N/A'}</p>
+                    <p><strong>Conservation Status:</strong> ${tree.conservation_status || 'N/A'}</p>
+                    <p><strong>Family:</strong> ${tree.taxonomic_classification?.family || 'N/A'}</p>
+                    <a href="tree_info.html?tree=${tree.tree_code}">View Tree</a>
+                </div>
             `;
             container.appendChild(card);
         });
