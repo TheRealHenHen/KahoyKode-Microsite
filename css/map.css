@@ -80,8 +80,8 @@ h1 {
 }
 
 .tree-card {
-    background: color-mix(in srgb, var(--color-green-3) 90%, transparent);
-    backdrop-filter: blur(8px);
+    background: color-mix(in srgb, var(--color-yellow-2) 40%, transparent);
+    backdrop-filter: blur(4px);
     border-radius: 10px;
     margin: 15px;
     box-shadow: var(--shadow);
