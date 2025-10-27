@@ -2,16 +2,23 @@ body {
     font-family: Arial, sans-serif;
     background: #f0f0f0;
     margin: 0;
-    padding: 20px;
+    padding: 2rem;
+}
+
+.children {
+    flex: 1 1 auto;
+    margin: 1rem;
 }
 
 .container {
-    max-width: 600px;
+    display: flex;
+    flex-wrap: wrap;
     margin: 0 auto;
     background: #fff;
-    padding: 30px;
-    border-radius: 10px;
+    padding: 32px;
+    border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    
 }
 
 h1 {
@@ -37,4 +44,18 @@ p {
 
 .back-link:hover {
     background: #1b5e20;
+}
+
+#tree-image-placeholder {
+    width: 16rem;
+    height: 16rem;
+    background: #c8e6c9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    color: #2e7d32;
+    font-weight: bold;
+    border-radius: 4px;
+    margin-bottom: 15px;
 }
