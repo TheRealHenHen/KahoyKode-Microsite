@@ -6,6 +6,10 @@ body {
     overflow: hidden;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 h1 {
     text-align: center;
 }
@@ -62,7 +66,8 @@ h1 {
     width: 40%;
     height: 100vh;
     overflow-y: scroll;
-    margin-bottom: 100%;
+    height: calc(100vh - 100px); 
+    box-sizing: border-box; 
 }
 
 main {
