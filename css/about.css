@@ -1,4 +1,3 @@
-
 * {
     margin: 0;
     padding: 0;
@@ -42,7 +41,6 @@
     gap: 30px;
 }
 
-
 .nav-buttons a {
     text-decoration: none;
     color: #e6c89f;
@@ -53,13 +51,49 @@
     border-radius: 8px;
 }
 
-.nav-buttons a:hover {
+
+.nav-buttons a:hover,
+.nav-buttons a.active {
     background-color: #a77b5b;
     color: #fffaf2;
     transform: scale(1.05);
 }
 
+
 body {
     background-color: #201410;
     color: #f2e0c9;
+    line-height: 1.6;
+}
+
+
+.about-content {
+    max-width: 900px;
+    margin: 60px auto;
+    padding: 20px;
+    background-color: #2a1b17;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.about-content h2 {
+    color: #e6c89f;
+    font-size: 42px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.about-content ul{
+    text-align: center;
+    word-spacing: 60px;
+    font-style: bold;
+}
+.about-content li{
+        text-align: center;
+         display: inline-block; /* Make list items display horizontally */
+      margin-right: 15px; /* Add spacing between items */
+}
+
+.about-content p {
+    margin-bottom: 15px;
+    text-align: justify;
 }
