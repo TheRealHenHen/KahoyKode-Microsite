@@ -123,7 +123,7 @@
     }
     
     section h1 {
-        font-size: clamp(3.5rem, 8vw, 7rem);
+        font-size: clamp(3.5rem, 6vw, 7rem);
         color: var(--color-yellow-1);
         filter: brightness(1);
         font-family: var(--font-itc-benguiat);
