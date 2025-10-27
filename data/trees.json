@@ -7,7 +7,7 @@
             "kingdom": "Plantae",
             "family": "Fabaceae"
         },
-        "image": "/images/tanglin.jpg",
+        "image": "/images/tree/tanglin.jpg",
         "conservation_status": ""
     },
     {
@@ -539,5 +539,5 @@
         },
         "conservation_status": "Least Concern"
     }
-    
+
 ]
