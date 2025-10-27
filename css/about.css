@@ -10,7 +10,8 @@
     position: sticky;
     top: 0;
     background: linear-gradient(180deg, #ca945f, #693a1b);
-    height: 250px;
+    height: 80px;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -31,7 +32,7 @@
 
 
 .nav-buttons {
-    margin-top: 20px;
+    
 }
 
 .nav-buttons ul {
@@ -63,8 +64,9 @@
 
 body {
 
-
-    background-color: #693a1b;; ;
+letter-spacing: 2px;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6);
+    background-color: #693a1b;
     color: #f2e0c9;
     line-height: 1.6;
 }
