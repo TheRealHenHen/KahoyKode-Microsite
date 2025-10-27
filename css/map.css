@@ -7,10 +7,11 @@
 body {
     height: 100vh;
     width: 100vw;
-    background-color: var(--color-white);
+    background-image: url(../images/map-background.png);
 }
 
 body::before {
+    backdrop-filter: blur(8px);
     content: "";
     position: absolute;
     top: 0;
@@ -22,7 +23,7 @@ body::before {
 }
 
 nav {
-    background-color: color-mix(in srgb, var(--color-green-3) 90%, transparent);
+    background-color: color-mix(in srgb, var(--color-green-3) 70%, transparent);
     filter: brightness(1.1);
     backdrop-filter: blur(6px);
     position: fixed;
@@ -79,13 +80,14 @@ h1 {
 }
 
 .tree-card {
-    background: var(--color-green-1);
+    background: color-mix(in srgb, var(--color-green-3) 90%, transparent);
+    backdrop-filter: blur(8px);
     border-radius: 10px;
     margin: 15px;
     box-shadow: var(--shadow);
     transition: transform 0.2s;
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     gap: 1rem;
 }
 
@@ -95,11 +97,12 @@ h1 {
 
 .tree-card .tree-image {
     background-size: cover;
-    height: 100%;
-    width: 8rem;
+    height: 15rem;
+    width: 12rem;
     object-fit: cover;
     border-radius: 8px;
     flex-shrink: 0;
+    margin-right: 1rem;
 }
 
 .tree-info {
@@ -107,7 +110,7 @@ h1 {
 }
 
 .tree-info h2 {
-    margin: 0.5rem 0 0.5rem 0;
+    margin: 1rem 0 0.5rem 0;
     font-size: 1.5em;
     color: var(--color-yellow-1);
     font-family: var(--font-cooper-bt);
@@ -121,7 +124,7 @@ h1 {
 }
 
 .tree-info a {
-    margin-top: 10px;
+    margin: 1rem 0;
     display: inline-block;
     text-decoration: none;
     color: var(--color-yellow-2);
