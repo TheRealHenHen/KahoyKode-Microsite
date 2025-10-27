@@ -42,7 +42,7 @@ nav img#logo {
 
 nav h2 {
     color: var(--color-yellow-1);
-    font-family: var(--font-itc-benguiat);
+    font-family: var(--font-serif);
     margin-left: 10px;
     font-size: clamp(1rem, 8vh, 1.7rem);
     margin-top: auto;
@@ -63,7 +63,7 @@ nav ul {
 
 nav li a {
     background-color: var();
-    font-family: var(--font-cooper-bt);
+    font-family: var(--font-serif);
     color: var(--color-yellow-2);
     text-decoration: none;
     padding: 1rem;
@@ -99,9 +99,10 @@ section div#left-container p {
     margin-top: 20px;
     font-size: clamp(0.5rem, 5vw, 2rem);
     font-weight: 600;
+    font-style: italic;
     text-align: center;
-    font-family: var(--font-itc-benguiat);
-    color: var(--color-dark-green);
+    font-family: var(--font-serif);
+    color: var(--color-yellow-2);
 }
 
 section div#left-container div#left-card {

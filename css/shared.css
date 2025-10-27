@@ -8,6 +8,8 @@
    ============================== */
 
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lexend:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
 @font-face {
     font-family: 'ITC Benguiat';
     src: url('../fonts/ITC Benguiat.otf');
@@ -30,7 +32,6 @@
     src: url('../fonts/Cooper BT.ttf');
 }
 
-
 /* ==============================
    CSS VARIABLES
    ============================== */
@@ -41,6 +42,8 @@
     --font-itc-benguiat: 'ITC Benguiat', 'Times New Roman', serif;
     --font-cooper-bt: 'Cooper BT', 'Times New Roman', serif;
     --font-lexend: 'Lexend', 'Helvetica Neue', Arial, sans-serif;
+    --font-sans: 'Helvetica Neue', Arial, sans-serif;
+    --font-serif: 'Lora', serif;
     /* ======= COLOR PALETTE ======= */
     --color-white: #f0f1f5;
     --color-yellow-1: #fff234;
