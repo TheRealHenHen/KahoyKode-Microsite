@@ -146,14 +146,14 @@ section .buttons a {
     padding: 0.5rem 1rem;
     font-weight: 600;
     transition: 0.2s;
-    font-size: clamp(0.7rem, 3vw, 1.3rem);
+    font-size: clamp(0.7rem, 3vw, 1.2rem);
     border-radius: var(--border-radius-button);
     z-index: 1;
     box-shadow: var(--shadow);
 }
 
 section .buttons a:hover {
-    filter: brightness(130%);
+    filter: brightness(1.3);
 }
 
 @media (max-width: 1080px) {
