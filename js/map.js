@@ -7,7 +7,7 @@ fetch('../data/trees.json')
             const card = document.createElement('div');
             card.className = 'tree-card';
             card.innerHTML = `
-                <img src="${tree.image || 'images/default-tree.jpg'}" alt="${tree.common_name}" class="tree-image">
+                <div style="background-image: url(${tree.image || 'images/default-tree.jpg'})" class="tree-image"></div>
                 <div class="tree-info">
                     <h2>${tree.common_name}</h2>
                     <p><strong>Scientific Name:</strong> ${tree.scientific_name || 'N/A'}</p>
