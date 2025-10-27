@@ -54,7 +54,7 @@ h1 {
 
 .map-container {
     width: 60%;
-    height: 88vh;
+    height: 40rem;
     background: #1b5e20;
     border-radius: 10px;
     position: sticky;
@@ -66,8 +66,9 @@ h1 {
     width: 40%;
     height: 100vh;
     overflow-y: scroll;
-    height: calc(100vh - 100px); 
+    height: calc(100vh - 7rem); 
     box-sizing: border-box; 
+    flex-direction: column;
 }
 
 main {
@@ -75,3 +76,4 @@ main {
     gap: 10px;
     justify-content: flex-start;
 }
+
