@@ -7,6 +7,7 @@
             "kingdom": "Plantae",
             "family": "Fabaceae"
         },
+        "image": "/images/tanglin.jpg",
         "conservation_status": ""
     },
     {
@@ -78,6 +79,7 @@
             "genus": "Artocarpus",
             "species": "A. heterophillus"
         },
+        "image": "/images/Langka.jpg",
         "conservation_status": "Non-extinct"
     },
     {
