@@ -36,15 +36,15 @@ nav {
 }
 
 nav img#logo {
-    width: 8vh;
-    height: 8vh;
+    height: clamp(2rem, 8vh, 4rem);
+    width: clamp(2rem, 8vh, 4rem);
 }
 
 nav h2 {
     color: var(--color-yellow-1);
     font-family: var(--font-itc-benguiat);
     margin-left: 10px;
-    font-size: rem;
+    font-size: clamp(1rem, 8vh, 1.7rem);
     margin-top: auto;
     margin-bottom: auto;
 }
@@ -58,7 +58,7 @@ nav ul {
     color: var(--color-yellow-2);
     margin-right: 40px;
     margin-left: auto;
-    font-size: 1.2rem;
+    font-size: clamp(1rem, 8vh, 1.2rem);
 }
 
 nav li a {
