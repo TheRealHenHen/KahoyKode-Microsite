@@ -2,14 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+     font-family: var(--font-serif);
 }
 
 
 .title-background {
     position: sticky;
     top: 0;
-    background: linear-gradient(180deg, #3b2a26, #2c1e1a);
+    background: linear-gradient(180deg, #ca945f, #693a1b);
     height: 250px;
     display: flex;
     flex-direction: column;
@@ -42,6 +42,7 @@
 }
 
 .nav-buttons a {
+        font-family: var(--font-sans);
     text-decoration: none;
     color: #e6c89f;
     font-size: 20px;
@@ -61,23 +62,28 @@
 
 
 body {
-    background-color: #201410;
+
+
+    background-color: #693a1b;; ;
     color: #f2e0c9;
     line-height: 1.6;
 }
 
 
 .about-content {
-    max-width: 900px;
+    max-width: 1000px;
     margin: 60px auto;
     padding: 20px;
-    background-color: #2a1b17;
+   
+    background-color: #8d5a33;;
     border-radius: 12px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
 }
 
 .about-content h2 {
-    color: #e6c89f;
+    
+  
+    color: #f2e0c9;;
     font-size: 42px;
     margin-bottom: 20px;
     text-align: center;
@@ -88,9 +94,11 @@ body {
     font-style: bold;
 }
 .about-content li{
+    font-size: 35px;
+       font-family: var(--font-sans);
         text-align: center;
-         display: inline-block; /* Make list items display horizontally */
-      margin-right: 15px; /* Add spacing between items */
+         display: inline-block; 
+      margin-right: 15px; 
 }
 
 .about-content p {
