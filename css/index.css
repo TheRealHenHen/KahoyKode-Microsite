@@ -8,6 +8,7 @@
     body {
         background: url('../images/background.jpg') center/cover no-repeat fixed;
         height: 100vh;
+        width: 100vw;
     }
     
     body::before {
@@ -94,7 +95,7 @@
     
     section div#left-container p {
         margin-top: 20px;
-        font-size: 30px;
+        font-size: clamp(0.5rem, 5vw, 2rem);
         font-weight: 600;
         text-align: center;
         font-family: var(--font-itc-benguiat);
@@ -112,8 +113,8 @@
         background: url(../images/map.png);
         background-size: cover;
         text-align: center;
-        height: 650px;
-        width: 750px;
+        height: clamp(3.5rem, 90vw, 45rem);
+        width: clamp(3.5rem, 90vw, 40rem);
         margin-right: auto;
         border-radius: var(--border-radius);
         filter: grayscale(0.1) sepia(0.2);
@@ -122,7 +123,7 @@
     }
     
     section h1 {
-        font-size: clamp(3.5rem, 10vw, 7rem);
+        font-size: clamp(3.5rem, 15vw, 7rem);
         color: var(--color-yellow-1);
         filter: brightness(1);
         font-family: var(--font-itc-benguiat);
