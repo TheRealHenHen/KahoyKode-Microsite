@@ -162,7 +162,7 @@ main {
 
 @media (max-width: 768px) {
     main {
-        padding-top: 50%;
+        padding-top: 60%;
         flex-direction: column-reverse;
         align-items: center;
         justify-content: center;
