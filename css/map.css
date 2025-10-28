@@ -134,6 +134,7 @@ h1 {
 }
 
 main {
+    padding-top: 6rem;
     display: flex;
     gap: 10px;
     justify-content: flex-start;
