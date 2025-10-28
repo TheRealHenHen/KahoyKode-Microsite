@@ -112,12 +112,12 @@ section div#left-container {
 
 section div#left-container p {
     margin-top: 1rem;
-    font-size: clamp(0.5rem, 5vw, 2rem);
-    font-weight: 600;
+    font-size: clamp(0.5rem, 5vw, 1.5rem);
+    font-weight: 300;
     font-style: italic;
     text-align: center;
     font-family: var(--font-lora);
-    color: var(--color-yellow-2);
+    color: var(--color-yellow-1);
 }
 
 section div#left-container div#left-card {
