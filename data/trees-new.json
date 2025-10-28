@@ -166,7 +166,7 @@
     },
 
     {
-        "common_name": "Pili Tree",
+        "common_name": "Pili",
         "scientific_name": "Canarium ovatum",
         "vernacular_names": ["Pili, Pilinuts, Pilaui, Liputi (Tagalog); also known in trade as Philippine nut or Galip nut."],
         "conservation_status": "Least Concern",
@@ -307,7 +307,7 @@
     },
 
     {
-        "common_name": "Dapdap Tree",
+        "common_name": "Dapdap",
         "scientific_name": "Erythrina variegata",
         "vernacular_names": ["Rarang(Bicol), Anii(Bisaya)"],
         "conservation_status": "Least Concern",
@@ -330,7 +330,7 @@
     },
 
     {
-        "common_name": "Banyan Tree",
+        "common_name": "Banyan",
         "scientific_name": "Ficus benjamin",
         "vernacular_names": ["Lunok (Negros Oriental),  Dalakit (Visayas), Nonok (Samar-Leyte), Diyakel (Surigao del Sur), Salisi (Tagalog), Banyan Tree"],
         "conservation_status": "Least Concern",
@@ -353,7 +353,7 @@
     },
 
     {
-        "common_name": "Tabgun Tree",
+        "common_name": "Tabgun",
         "scientific_name": "Ficus ruficaulis Merr",
         "vernacular_names": ["Tabgun (Bikolano), Ruficaulis Fig (English) "],
         "conservation_status": "Least Concern",
@@ -419,7 +419,7 @@
         "tree_code": "chisa",
         "image": ""
     },
-   
+
     {
         "common_name": "Dao",
         "scientific_name": "Dracontomelon Dao",
@@ -490,7 +490,7 @@
     },
 
     {
-        "common_name": "Binunga Tree",
+        "common_name": "Binunga",
         "scientific_name": "Macaranga tanarius",
         "vernacular_names": ["Himindang (Bicol)", "Kuyonon (Bisaya)"],
         "conservation_status": "Least Concern",
@@ -595,7 +595,7 @@
         "image": ""
     },
     {
-        "common_name": "False Ashoka / Indian Mast Tree",
+        "common_name": "False Ashoka / Indian Mast",
         "scientific_name": "Monoon longifolium (Polyalthia longifolia)",
         "vernacular_names": ["False Ashoka", "Indian Mast Tree"],
         "conservation_status": "Least Concern",
@@ -705,8 +705,8 @@
         "image": ""
     },
     {
-        "scientific_name": "Roystonea regia",
         "common_name": "Royal Palm",
+        "scientific_name": "Roystonea regia",
         "vernacular_names": ["Royal Palm", "Cuban Royal Palm", "Florida Royal Palm"],
         "conservation_status": "Least Concern",
         "taxonomic_classification": {
@@ -746,7 +746,7 @@
         "coordinates": "",
         "tree_code": "santol",
         "image": "/images/tree/santol.jpg"
-        },
+    },
     {
         "common_name": "Talisay Bukid",
         "scientific_name": "Terminalia catappa",
@@ -872,7 +872,7 @@
             "species": "Swinglea glutinosa"
         },
         "description": "Sterculia glutinosa, commonly known as Tabog or mala cabuyao in the Philippines. It belongs to the family Rutaceae and is endemic to that country.  It is a small to medium-sized tree native to the Philippines. The Latin name “glutinosa” comes from the word “gluten,” which means “glue” or “sticky, referring to the gummy or resinous sap that the plant produces. Historically, the tree has been noted in horticultural and citrus-rootstock literature due to its potential for grafting and rootstock use in citrus cultivation. In addition to its horticultural relevance, its fruit and other parts of the tree have been used in folk medicine and local uses.  Despite being native to the Philippines, the Tabog tree is also grown in other tropical countries as an ornamental hedge plant, it is also used as a natural barrier in rural areas and gardens because of its physical features.",
-        "notable_features": "Sterculia glutinosa, commonly known as tabog or mala cabuyao in the Philippines, is a small to medium-sized tree that can grow up to about 10 meters tall, and sometimes even taller when it gets older.  It appears dense and compact, making it an ideal plant for hedges and natural fences. Its trunk has single spines, and the young branches are a bit hairy, though they become smooth as the tree matures. The leaves of the tabog have three parts, these are the leaflets, the one in the middle is the biggest, while the two on the sides are smaller. The side leaflets are oval-shaped, and the middle one is long and narrow, usually with a rounded or blunt tip. \n\n Tabog’s flowers are white, about 1.5 centimeters long, have a pleasant smell, and have petals that are longer than the small parts called calyx lobes at the base of the flower. Its fruit is green or yellow,  oval-shaped with a tough, leathery skin that feels bumpy and uneven. Inside the fruit are many seeds covered in soft, wool-like pulp. The walls inside the fruit have special glands that produce a sticky substance called mucilage. Because of its thick skin and special fruit structure, scientists have compared tabog to citrus fruits and their wild relatives. The leaves are glossy and leathery, dark green on the upper surface, and lighter green underneath, arranged alternately along the stems." ,
+        "notable_features": "Sterculia glutinosa, commonly known as tabog or mala cabuyao in the Philippines, is a small to medium-sized tree that can grow up to about 10 meters tall, and sometimes even taller when it gets older.  It appears dense and compact, making it an ideal plant for hedges and natural fences. Its trunk has single spines, and the young branches are a bit hairy, though they become smooth as the tree matures. The leaves of the tabog have three parts, these are the leaflets, the one in the middle is the biggest, while the two on the sides are smaller. The side leaflets are oval-shaped, and the middle one is long and narrow, usually with a rounded or blunt tip. \n\n Tabog’s flowers are white, about 1.5 centimeters long, have a pleasant smell, and have petals that are longer than the small parts called calyx lobes at the base of the flower. Its fruit is green or yellow,  oval-shaped with a tough, leathery skin that feels bumpy and uneven. Inside the fruit are many seeds covered in soft, wool-like pulp. The walls inside the fruit have special glands that produce a sticky substance called mucilage. Because of its thick skin and special fruit structure, scientists have compared tabog to citrus fruits and their wild relatives. The leaves are glossy and leathery, dark green on the upper surface, and lighter green underneath, arranged alternately along the stems.",
         "uses": "The juice from the Tabog tree is used as medicine to treat skin problems. The leaves and bark are also used to help cure coughs and to remove ticks from dogs. The fruit smells nice and has a sour taste that is similar to a lemon. Farmers sometimes use the Tabog tree as a base or “rootstock” to grow other citrus trees on. Its wood is also strong enough to be used for making parts of houses, like pillars.",
         "references": ["Malakabuyau, Chaetospermum glutinosum, TABOG: Philippine Medicinal Herbs  /  Philippine Alternative Medicine. (2011b, February 1). https://www.stuartxchange.com/Malakabuyau.html?  ", " NParks | Swinglea glutinosa. (n.d.). https://www.nparks.gov.sg/florafaunaweb/flora/6/3/6382  ", " StuartXchange. (2011, February 1). Malakabuyau, Chaetospermum glutinosum, TABOG: Philippine medicinal herbs / Philippine alternative medicine. https://www.stuartxchange.com/Malakabuyau.html ", " Swinglea glutinosa (CRC 3288). (n.d.). Givaudan Citrus Variety Collection at UCR. https://citrusvariety.ucr.edu/crc3288 "],
         "coordinates": "",
@@ -921,6 +921,6 @@
         "coordinates": "",
         "tree_code": "lipote",
         "image": "/images/tree/lipote.jpg"
-        }
+    }
 
 ]
