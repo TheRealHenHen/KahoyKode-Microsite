@@ -420,6 +420,29 @@
         "image": ""
     },
     {
+        "common_name": "Chisa, Canistel, Eggfruit",
+        "scientific_name": "Lacuma campechiana",       
+        "vernacular_names": ["Chesa, Atiesa, Tiesa, Canistel, Eggfruit"],
+        "conservation_status": "Least Concern",
+        "ancestry": {
+             "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Asterids",
+            "order": "Ericales",
+            "family": "Sapotaceae",
+            "genus": "Lucuma",
+            "species": "L. campechiana"
+        },
+
+        "description": "Lacuma campechiana, commonly known as Chisa, is an evergreen tree in the family Sapotaceae. It typically grows to about 10-15 m tall in its native habitat, though under favorable conditions it can reach greater heights. It has glossy green leaves clustered at the tips of its branches. The tree produces cream colored flowers that later develop into smooth, yellow to orange, sweet fruit.",
+        "notable_features": "Chisa can be easily identified by its golden-yellow fruit and unique egg-like texture, which distinguishes it from other tropical fruits. It is rich in vitamin A, vitamin C, and several B vitamins. The fruit also provides dietary fiber and minerals like calcium and phosphorus. Its adaptability allows it to thrive in various tropical and subtropical regions, even in poor soils, making it a resilient and easy to grow tree.",
+        "uses": "Chisa fruits are commonly eaten fresh or used in desserts such as custards, ice cream, jams, and smoothies. In the Philippines, it is often turned into candies or added to local delicacies like polvuron. Its bark and seeds have been used in traditional remedies for fever, skin conditions, and ulcers. Studies have also found that chisa fruit extracts possess antioxidant and liver protective properties. The tree’s wood is sometimes used in construction, and it also serves as an ornamental plant.",
+        "fun_fact": "The fruit’s yolk-like flesh earned it the nickname “eggfruit” and in the Philippines it is known as chesa or tiesa. The name “campechiana” comes from Campeche, a region in Mexico where the species was first described. The latex from the tree has been used to mix with chicle, the natural base for chewing gum.",
+        "references": ["Wikipedia contributors. (2025, October 2). Lucuma campechiana. Wikipedia. https://en.wikipedia.org/wiki/Lucuma_campechiana", "Llc, T. T. (2022, October 20). Pouteria campechiana- Canistel, the curious heart-shaped Egg Super-Fruit. Top Tropicals. https://toptropicals.com/html/toptropicals/articles/fruit/Pouteria-campechiana-canistel.htm?srsltid=AfmBOooYfByb2VsY-ahEDwA_6knwe0p53Q4RtD2iubIeO95bNdBkI6EA", "The Editors of Encyclopaedia Britannica. (1998, July 20). Canistel | Description, range, & Facts. Encyclopedia Britannica. https://www.britannica.com/plant/canistel"],
+        "coordinates": "",
+        "tree_code": "chisa",
+        "image": ""
+    },
+    {
         "common_name": "Binunga Tree",
         "scientific_name": "Macaranga tanarius",
         "vernacular_names": ["Himindang (Bicol)", "Kuyonon (Bisaya)"],
