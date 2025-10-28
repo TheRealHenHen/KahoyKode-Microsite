@@ -15,7 +15,7 @@ fetch('../data/trees-new.json')
 
                 <a href="tree_info.html?tree=${tree.tree_code}" class="tree-info">
                     <h2>${tree.common_name}</h2>
-                    <p><strong>Scientific Name:</strong> ${tree.scientific_name || 'N/A'}</p>
+                    <p><strong>Scientific Name:</strong> <i>${tree.scientific_name || 'N/A'}</i></p>
                     <p><strong>Conservation Status:</strong> ${tree.conservation_status || 'N/A'}</p>
                     <p><strong>Family:</strong> ${tree.ancestry?.family || 'N/A'}</p>
                     <p><strong>Coordinates:</strong> ${tree.coordinates || 'N/A'}</p>

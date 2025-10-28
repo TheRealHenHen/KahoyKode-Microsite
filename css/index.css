@@ -142,7 +142,6 @@ section h1 {
     filter: brightness(1);
     font-family: var(--font-lora);
     font-weight: 600;
-    font-style: italic;
     margin: 1rem;
 }
 
