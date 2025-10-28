@@ -374,7 +374,28 @@
         "tree_code": "tabgun",
         "image": ""
     },
+    {
+        "common_name": "Tangisang-Bayawak",
+        "scientific_name": "Ficus variegata",
+        "vernacular_names": ["Tangisang-Bayawak(Tagalog),  Tabgon(Bikolano), Lapting(Ilokano), Tubol(Pangasinense), Variegated fig(English), Variegated fig(English)"],
+        "conservation_status": "Endangered",
+        "ancestry": {
+            "kingdom": "Plantae",
+            "clade": "Eudicots, Rosids",
+            "order": "Rosales",
+            "family": "Moraceae",
+            "genus": "Ficus",
+            "species": "F. variegata"
+        },
 
+        "description": "Ficus variegata, commonly known as Tangisang-Bayawak,is a medium to large sized tall tropical tree. It is related to figs which are commonly seen as ornamental plants yet grow taller than most of the figs that can reach 15 to 30 meters in height. It is commonly used for herbal medicine and for its wood.\n\nThe tree's appearance includes a straight trunk, smooth and grayish bark where its flowers and fruits grow at the side instead of the branches like most trees. It also has very large buttress roots that support the tree in a wide area. Its leaves grow in an alternately spiral pattern with its appearance that is very leathery and glossy about 10–25 cm long, bright green on top and lighter beneath.. Its flowers are round in shape and green in color and only open when it is ready for reproduction. The tree produces cauliflorous fruits—figs that grow on the trunk and larger branches. These figs are red to reddish-green when ripe, about 2–3 cm in diameter, and are eaten by many forest animals.\n\nHistorically, Tangisang-Bayawak was used for medicinal purposes due to its anti-bacterial and antioxidant properties and still used up until now, specially in boils.",
+        "notable_features": "The Tangisang-Bayawak is very tall and large with a very smooth trunk, usually growing up to 30 meters in length and more than a meter in diameter. At its base, it has large buttress roots that covers a wide range of areas. Its trunk is very long and straight with its bark being whitish in color and very smooth unlike most trees in a tropical forest. This tree is very unique as its flowers and fruits mostly grow at the sides of the trunk instead of the branches. Its flowers are green in color and round in shape which resembles more of a fruit than a flower (which is called a fig fruit), it grows about 1-3.5 centimeters in diameter and is pollinated by a different type of wasp called fig wasps. After pollination, the fig fruit turns into a reddish color and produces approximately 1300 seeds in one fruit. The taste of the fruit is very bland yet is eaten raw or cooked in parts in Java in Indonesia. The leaves grow alternately spiral in pattern and but the leaf itself is elliptical in shape and is 10-17 centimeters long and has a heart shaped tip, it is green in color and very glossy and leathery when touched.\n\nA medium to large tropical fig tree that can grow up to 30 meters tall with a straight, sturdy trunk and sometimes buttress roots for support. Its bark is smooth and grayish-brown, occasionally with pale markings, and exudes milky latex when cut. (Monaco Nature Encyclopedia, 2022).\n\nThe leaves are simple, alternate, and oblong to elliptic, about 10–25 cm long. They are bright green on top and paler underneath, giving the canopy a lush appearance. The leaves are deciduous or semi-deciduous—trees that shed all their leaves once a year, briefly shedding during dry seasons.\n\nOne of its most distinctive features is its cauliflorous fruiting habit—the figs grow directly on the trunk and large branches. The fruits are round to pear-shaped, about 2–3 cm in diameter, and turn red or orange-red when ripe. These fruits attract birds, bats, and monkeys, making the tree an important keystone species in forest ecosystems.\n\nThe wood is lightweight but durable, and while not considered high-grade timber, it is used for furniture framing, crates, and general construction.",
+        "uses": "Tangisang-Bayawak is known for its medicinal purposes, especially its barks and leaves. Its bark can be used for antioxidants and its leaves, bark, and fruits can be used for its antibacterial properties. Its wood is low quality compared to other trees so it is only used for temporary constructions, moldings, drawers, crates, and knife sheaths. Its wax is used in Batik works.",
+        "references": ["Philippine medicinal plants. (n.d.). Stuartxchange. https://www.stuartxchange.org/Agi.html", "Makiling. (2018, November 15). Tangisang bayawak: MBG Plant of the Month for November 2018. An ASEAN Heritage Park. https://makiling.center/tangisang-bayawak-mbg-plant-of-the-month-for-november-2018/", "Mazza, G. (2018, January 28). Ficus variegata - Monaco Nature Encyclopedia. Monaco Nature Encyclopedia. https://www.monaconatureencyclopedia.com/ficus-variegata-2/?lang=en", "Monaco Nature Encyclopedia (2022). Ficus variegata Blume. https://www.monaconatureencyclopedia.com/ficus-variegata-2", "Tropical Plants Database (2023). Ficus variegata. https://tropical.theferns.info/viewtropical.php?id=Ficus+variegata"],
+        "coordinates": "",
+        "tree_code": "tangisang_bayawak",
+        "image": ""
+    },
 
     {
         "common_name": "Binunga Tree",
