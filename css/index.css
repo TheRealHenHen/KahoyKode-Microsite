@@ -179,9 +179,8 @@ section .buttons a:hover {
         align-items: center;
         justify-content: center;
     }
-    section {
-        flex-direction: column;
-        padding: 20px;
+    main section {
+        padding: 1rem;
     }
     section div#left-container {
         margin-left: 0;
