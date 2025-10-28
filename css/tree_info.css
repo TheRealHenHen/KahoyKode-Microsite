@@ -1,116 +1,110 @@
-    *,
-    *::before,
-    *::after {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-    }
-    
-    aside#tree-details {
-        display: flex;
-        flex-direction: column;
-        flex: 0 1 auto;
-        padding: 2rem;
-        background-color: color-mix(in srgb, var(--color-green-1) 20%, transparent);
-        box-shadow: var(--shadow);
-        border-radius: var(--border-radius);
-    }
-    
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+aside#tree-details {
+    display: flex;
+    flex-direction: column;
+    flex: 0 1 auto;
+    padding: 2rem;
+    background-color: color-mix(in srgb, var(--color-green-1) 20%, transparent);
+    box-shadow: var(--shadow);
+    border-radius: var(--border-radius);
+}
+
+body {
+    display: flex;
+    padding: 1rem;
+}
+
+.children {
+    margin: 1rem;
+}
+
+div#main-details p {
+    margin: 0.5rem;
+    font-family: var(--font-lexend);
+}
+
+div#main-details h1 {
+    background-color: color-mix(in srgb, var(--color-green-3) 80%, transparent);
+    font-family: var(--font-lora);
+    color: var(--color-yellow-2);
+    text-align: center;
+    padding: 0.5rem;
+    border-radius: var(--border-radius-button);
+    margin-bottom: 1.5rem;
+    margin-top: 1rem;
+}
+
+div#main-details ul {
+    padding: 0.5rem 0rem 0.5rem 1.5rem;
+}
+
+div#main-details li {
+    font-family: var(--font-lexend);
+    margin: 0.5rem 0rem;
+}
+
+main#tree-yap {
+    padding: 0.5rem;
+}
+
+main#tree-yap h2 {
+    color: #2e7d32;
+    margin-top: 1.5rem;
+}
+
+main#tree-yap p {
+    margin: 5px 0;
+    font-size: 1.1rem;
+    line-height: 1.8rem;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 15px;
+    text-decoration: none;
+    color: white;
+    background: #2e7d32;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.back-link:hover {
+    background: #1b5e20;
+}
+
+#tree-image {
+    width: 20rem;
+    aspect-ratio: 1 / 1;
+    background: #c8e6c9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #2e7d32;
+    font-weight: bold;
+    border-radius: var(--border-radius-button);
+    box-shadow: var(--shadow);
+    margin-bottom: 1rem;
+}
+
+ul#references {
+    margin-top: 0.5rem;
+    margin-left: 1.5rem;
+}
+
+@media (max-width: 1080px) {
     body {
-        font-family: Arial, sans-serif;
-        background: #648062;
-        margin: 0;
-        min-height: 100vh;
-        display: flex;
-        flex: 1 1 auto;
-        margin: 0 auto;
-        background: #fff;
-        padding: 1rem;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
-    
-    .children {
-        flex: 0 1 auto;
-        margin: 1rem;
-    }
-    
-    div#main-details p {
-        margin: 0.5rem;
-        font-family: var(--font-lexend);
-    }
-    
-    div#main-details h1 {
-        background-color: color-mix(in srgb, var(--color-green-3) 80%, transparent);
-        font-family: var(--font-lora);
-        color: var(--color-yellow-2);
-        text-align: center;
-        padding: 0.5rem;
-        border-radius: var(--border-radius-button);
-        margin-bottom: 1.5rem;
-        margin-top: 1rem;
-    }
-    
-    div#main-details ul {
-        padding: 0.5rem 0rem 0.5rem 1.5rem;
-    }
-    
-    div#main-details li {
-        font-family: var(--font-lexend);
-        margin: 0.5rem 0rem;
-    }
-    
-    main#tree-yap {
-        padding: 0.5rem;
-        width: 100%;
-    }
-    
-    main#tree-yap h2 {
-        color: #2e7d32;
-        margin-top: 1.5rem;
-    }
-    
-    main#tree-yap p {
-        margin: 5px 0;
-        font-size: 1.1rem;
-        line-height: 1.8rem;
-    }
-    
-    .back-link {
-        display: inline-block;
-        margin-top: 15px;
-        text-decoration: none;
-        color: white;
-        background: #2e7d32;
-        padding: 5px 10px;
-        border-radius: 5px;
-    }
-    
-    .back-link:hover {
-        background: #1b5e20;
-    }
-    
-    #tree-image {
-        width: 20rem;
-        aspect-ratio: 1 / 1;
-        background: #c8e6c9;
-        display: flex;
+        flex-direction: column;
+        padding-top: 0;
         align-items: center;
-        justify-content: center;
-        color: #2e7d32;
-        font-weight: bold;
-        border-radius: var(--border-radius-button);
-        box-shadow: var(--shadow);
-        margin-bottom: 1rem;
     }
-    
-    ul#references {
+    aside#tree-details {
         margin-top: 0.5rem;
-        margin-left: 1.5rem;
     }
-    
-    @media (max-width: 1080px) {
-        body {
-            flex-direction: column;
-            align-items: center;
-        }
-    }
+}
