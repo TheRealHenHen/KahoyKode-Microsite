@@ -14,23 +14,27 @@ body {
 }
 
 .logo{
-  width: 30;
+  height: clamp(2rem, 6vh, 4rem);
+  width: auto;
+  padding-left: 1rem;
 }
 
 nav {
-  opacity: 90%;
-  background-color: var(--color-green-3);
-  opacity: 90%;
+  height: var(--nav-height);
+  background-color: color-mix(in srgb, var(--color-green-3) 80%, transparent);
+  filter: brightness(1.1);
+  backdrop-filter: blur(6px);
   color: #dbb43e;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 30px;
+  padding: 0.5rem 1rem;
   position: fixed;
   top: 0;
   width: 100%;
   z-index: 10;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  box-shadow: var(--shadow-light);
+
 }
 
 nav ul {
@@ -66,24 +70,29 @@ nav a {
 
 .header h1 {
   font-family: var(--font-itc-benguiat);
-  color: hsl(0,0%,95%);
+  color: var(--color-yellow-2);
 }
 
 section{
   background-color: var(--color-white);
+
 }
 
-.section {  
+.section {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 60px 10%;
   gap: 40px;
+  flex-wrap: wrap;
 }
 
 .section img {
   width: 40%;
+  max-width: 100%;
+  height: auto;
   border-radius: 10px;
+  object-fit: cover;
 }
 
 .text {
@@ -93,21 +102,66 @@ section{
 .text h2 {
   color: #264027;
 }
- 
-.collage {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 10px;
-  padding: 40px 10%;
+
+@media (max-width: 768px) {
+  .section {
+    flex-direction: column;
+    text-align: center;
+    padding: 40px 5%;
+  }
+
+  .text, .section img {
+    width: 100%;
+  }
+
+  .section img {
+    margin-top: 20px;
+  }
 }
 
-.collage div {
-  background-color: #ddd;
-  height: 150px;
-  border-radius: 10px;
+@media (max-width: 480px) {
+  .section {
+    padding: 30px 4%;
+  }
+
+  .text h2 {
+    font-size: 1.3rem;
+  }
+
+  .text p {
+    font-size: 1rem;
+  }
+}
+
+.collage {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #666;
-  font-weight: bold;
+  gap: 10px;
+  padding: 20px 10%;
+  background-color: var(--color-white);
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  height: 200px;
+  white-space: nowrap;
+}
+
+.collage::-webkit-scrollbar {
+  height: 10px;
+}
+
+.collage::-webkit-scrollbar-thumb {
+  background-color: #999;
+  border-radius: 5px;
+}
+
+.collage::-webkit-scrollbar-track {
+  background-color: #f0f0f0;
+}
+
+.collage img {
+  height: 150px;
+  width: 240px;
+  border-radius: 10px;
+  flex-shrink: 0;
+  object-fit: cover;
 }
