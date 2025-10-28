@@ -194,7 +194,7 @@ section .buttons a:hover {
     }
     section div#right-card {
         height: auto;
-        width: 50vw;
+        width: 80vw;
         aspect-ratio: 1 / 1;
     }
 }
