@@ -74,7 +74,7 @@ nav ul {
 
 nav li a {
     background-color: var();
-    font-family: var(--font-lora);
+    font-family: var(--font-cooper-bt);
     color: var(--color-yellow-2);
     text-decoration: none;
     padding: 1rem;
@@ -85,8 +85,7 @@ main {
     justify-content: center;
     align-content: center;
     width: 100%;
-    padding-top: var(--nav-height);
-    min-height: calc(100vh - var(--nav-height));
+    padding-top: 13vh;
     box-sizing: border-box;
 }
 
@@ -144,8 +143,10 @@ section h1 {
     font-size: clamp(3rem, 8vw, 5rem);
     color: var(--color-yellow-1);
     filter: brightness(1);
-    font-family: var(--font-itc-benguiat);
-    margin-top: -10px;
+    font-family: var(--font-lora);
+    font-weight: 600;
+    font-style: italic;
+    margin: 1rem;
 }
 
 section .buttons {
@@ -159,7 +160,7 @@ section .buttons a {
     text-decoration: none;
     color: var(--color-yellow-2);
     background-color: var(--color-green-2);
-    font-family: var(--font-lexend);
+    font-family: var(--font-cooper-bt);
     padding: 0.5rem 1rem;
     font-weight: 600;
     transition: 0.2s;
