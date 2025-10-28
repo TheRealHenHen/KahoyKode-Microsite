@@ -17,20 +17,11 @@ aside#tree-details {
 }
 
 body {
-    font-family: Arial, sans-serif;
-    background: #648062;
-    margin: 0;
-    min-height: 100vh;
     display: flex;
-    flex: 1 1 auto;
-    margin: 0 auto;
-    background: #fff;
     padding: 1rem;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .children {
-    flex: 0 1 auto;
     margin: 1rem;
 }
 
@@ -105,4 +96,15 @@ main#tree-yap p {
 ul#references {
     margin-top: 0.5rem;
     margin-left: 1.5rem;
+}
+
+@media (max-width: 1080px) {
+    body {
+        flex-direction: column;
+        padding-top: 0;
+        align-items: center;
+    }
+    aside#tree-details {
+        margin-top: 0.5rem;
+    }
 }
