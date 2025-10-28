@@ -40,14 +40,15 @@ nav img#logo {
     width: clamp(2rem, 8vh, 4rem);
 }
 
-nav h2 {
+
+/*nav h2 {
     color: var(--color-yellow-1);
-    font-family: var(--font-serif);
+    font-family: var(--font-cooper-bt);
     margin-left: 10px;
     font-size: clamp(1rem, 8vh, 1.7rem);
     margin-top: auto;
     margin-bottom: auto;
-}
+}*/
 
 nav ul {
     width: fit-content;
@@ -63,7 +64,7 @@ nav ul {
 
 nav li a {
     background-color: var();
-    font-family: var(--font-serif);
+    font-family: var(--font-lora);
     color: var(--color-yellow-2);
     text-decoration: none;
     padding: 1rem;
@@ -101,7 +102,7 @@ section div#left-container p {
     font-weight: 600;
     font-style: italic;
     text-align: center;
-    font-family: var(--font-serif);
+    font-family: var(--font-lora);
     color: var(--color-yellow-2);
 }
 
