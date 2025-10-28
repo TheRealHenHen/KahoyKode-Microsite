@@ -429,7 +429,7 @@
         "uses": "It is primarily used for its wood in the Philippines to produce various small wooden articles like toothpicks, chopsticks, matchsticks, and pencil slats, as well as for fancy woodwork, plywood, and native wooden shoes. The tree's leaves also have medicinal uses, including being employed as a contraceptive and for treating fever. The wood is ideal for small objects such as toothpicks, matchsticks, chopsticks, lollipop/popsicle sticks, and ice cream spoons. Larger logs from the Malapapaya tree are suitable for making plywood and veneer. It is also used for making boxes, crates, native wooden shoes, and for general carpentry and fancy woodwork. This tree has also played an important role in giving medicinal uses. In some parts of Mindanao, the leaves are used medicinally to treat fever and as a contraceptive. Pounded leaves mixed with ash are applied locally as a fish poison. Lastly, this tree also has ecological uses and also for decorations. The tree is sometimes planted as an ornamental tree in gardens, it is also used as a ground cover.",
         "references": [],
         "coordinates": "",
-        "tree_code": "",
+        "tree_code": "malapapaya",
         "image": ""
     },
     {
@@ -451,7 +451,7 @@
         "uses": "Guava is a fruit that has multiple applications and is widely recognized for its medicinal and therapeutic properties. The fruit is an excellent source of vitamin C and may be consumed in different ways like fresh, or made into jams, juices, and sweets. Herbal medicine employs guava leaves and bark for the treatment of diarrhea, skin diseases, wounds, and inflammation among others. Besides that, the bark is also tanned and dyed, while the wood is used for making furniture, handles for tools, and burning. Besides all these, guava trees are also used for air cleaning, and as decorative or shadow trees in home gardens.",
         "references": [],
         "coordinates": "",
-        "tree_code": "",
+        "tree_code": "guava",
         "image": ""
     },
     {
@@ -472,7 +472,7 @@
         "uses": "The Narra tree (Pterocarpus indicus) is highly valued for its strong and termite-resistant wood, which is widely used in making furniture, flooring, and carvings. It is also planted as an ornamental and shade tree because of its wide canopy and fragrant yellow flowers. Traditionally, its bark and leaves have been used in folk medicine for various ailments. As the national tree of the Philippines, Narra symbolizes strength and resilience while also playing an ecological role in preventing soil erosion and supporting pollinators.",
         "references": [],
         "coordinates": "",
-        "tree_code": "",
+        "tree_code": "narra",
         "image": ""
     },
     {
@@ -495,7 +495,7 @@
         "uses": "The Taluto tree is highly useful in both commercial and environmental applications. Its lightweight wood is used for furniture, veneer, plywood, and matchsticks. It is also planted in reforestation programs because of its fast growth and ability to thrive in different soil types. The bark has been traditionally used for natural dyeing (hence the term tinctorium), and in some areas, fibers from the bark are used for making ropes or cords. Although not widely documented, some communities also use parts of the tree in folk medicine, possibly for treating skin conditions or minor wounds. Because of its wide canopy and height, the Taluto is also planted as an ornamental or shade tree in parks and open spaces.",
         "references": [],
         "coordinates": "",
-        "tree_code": "",
+        "tree_code": "taluto",
         "image": ""
     },
     {
@@ -517,7 +517,7 @@
         "references": [],
 
         "coordinates": "",
-        "tree_code": "",
+        "tree_code": "royal_palm",
         "image": ""
     },
     {
@@ -608,7 +608,7 @@
         "uses": "The Tagbun Tree gives multiple practical benefits in antibacterial and antioxidant properties and to treat gastrointestinal problems. Its wood can also be used for local construction and can help stabilize soils. It is a long-lived tree that plays an important role in providing a habitat for wildlife and contributing to the stability of an ecosystem.",
         "references": [],
         "coordinates": "",
-        "tree_code": "balete",
+        "tree_code": "tabgun",
         "image": ""
     },
 
@@ -626,7 +626,7 @@
             "species": "M. tanarius"
         },
         "coordinates": "",
-        "tree_code": "royal_palm",
+        "tree_code": "binunga",
         "image": ""
     },
     {
@@ -739,7 +739,7 @@
         "references": [],
 
         "coordinates": "",
-        "tree_code": "talisay_bukid"
+        "tree_code": "talisay"
     },
     {
         "common_name": "Kalantas, Philippine Cedar",
