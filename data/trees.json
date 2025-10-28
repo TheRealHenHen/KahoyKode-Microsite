@@ -7,7 +7,6 @@
             "kingdom": "Plantae",
             "family": "Fabaceae"
         },
-        "image": "/images/tree/tanglin.jpg",
         "conservation_status": ""
     },
     {
@@ -23,8 +22,7 @@
             "genus": "Alstonia",
             "species": "A. scholaris"
         },
-        "conservation_status": "Least Concern",
-        "image": "/images/tree/dita.jpg"
+        "conservation_status": "Least Concern"
     },
     {
         "scientific_name": "Anacardium occidentale",
@@ -80,8 +78,7 @@
             "genus": "Artocarpus",
             "species": "A. heterophillus"
         },
-        "conservation_status": "Non-extinct",
-        "image": "/images/tree/langka.jpg"
+        "conservation_status": "Non-extinct"
     },
     {
         "scientific_name": "Artocarpus sericicarpus",
@@ -118,8 +115,7 @@
             "kingdom": "Plantae",
             "family": "Casuarinaceae"
         },
-        "conservation_status": "",
-        "image": "/images/tree/agoho.jpg"
+        "conservation_status": ""
     },
     {
         "scientific_name": "Chrysophyllum cainito",
@@ -175,8 +171,7 @@
             "kingdom": "Plantae",
             "family": "Anacardiaceae"
         },
-        "conservation_status": "",
-        "image": "/images/tree/dao.jpg"
+        "conservation_status": ""
     },
     {
         "scientific_name": "Erythrina variegata",
@@ -191,7 +186,7 @@
     },
     {
         "scientific_name": "Ficus benjamin",
-        "common_name": "Balete",
+        "common_name": "Banyan Tree",
         "coordinates": "",
         "tree_code": "banyan_tree",
         "taxonomic_classification": {
@@ -202,8 +197,7 @@
             "genus": "Ficus",
             "species": "F. Benjamina"
         },
-        "conservation_status": "Least Concern",
-        "image": "/images/tree/balete.jpg"
+        "conservation_status": "Least Concern"
     },
     {
         "scientific_name": "Ficus ruficaulis Merr",
@@ -233,8 +227,7 @@
             "genus": "Ficus",
             "species": "F. variegata"
         },
-        "conservation_status": "Endangered",
-        "image": "/images/tree/tangisang-bayawak.jpg"
+        "conservation_status": "Endangered"
     },
     {
         "scientific_name": "Kleinhovia hospita",
@@ -249,8 +242,7 @@
             "genus": "Kleinhovia",
             "species": "K. hospita"
         },
-        "conservation_status": "Least Concern",
-        "image": "/images/tree/tan-ag.jpg"
+        "conservation_status": "Least Concern"
     },
     {
         "scientific_name": "Lacuma campechiana",
@@ -356,66 +348,7 @@
         },
         "conservation_status": "Least Concern"
     },
-    {
-        "scientific_name": "Polyscias nodosa",
-        "common_name": "Malapapaya",
-        "coordinates": "",
-        "tree_code": "malapapaya",
-        "taxonomic_classification": {
-            "kingdom": "Plantae",
-            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
-            "order": "Apiales",
-            "family": "Araliaceae",
-            "genus": "Polyscias",
-            "species": "P. nodosa"
-        },
-        "conservation_status": "Least Concerned"
-    },
-    {
-        "scientific_name": "Psidium guajava L.",
-        "common_name": "Guava",
-        "coordinates": "",
-        "tree_code": "guava",
-        "taxonomic_classification": {
-            "kingdom": "Plantae",
-            "family": "Myrtaceae"
-        },
-        "conservation_status": ""
-    },
-    {
-        "scientific_name": "Pterocarpus indicus",
-        "common_name": "Narra, Red Sandalwood",
-        "coordinates": "",
-        "tree_code": "narra",
-        "taxonomic_classification": {
-            "kingdom": "Plantae",
-            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
-            "order": "Fabales",
-            "family": "Fabaceae",
-            "genus": "Pterocarpus",
-            "species": "P. indicus"
-        },
-        "conservation_status": "Vulnerable",
-        "image": "/images/tree/narra.jpg"
-    },
-    {
-        "scientific_name": "Pterocymbium tinctorium",
-        "common_name": "Taluto",
-        "coordinates": "",
-        "tree_code": "taluto",
-        "taxonomic_classification": {
-            "kingdom": "Plantae",
-            "division": "Tracheophyta",
-            "class": "Magnoliopsida",
-            "order": "Malvales",
-            "family": "Malvaceae",
-            "subfamily": "Sterculioideae",
-            "genus": "Pterocymbium",
-            "species": "Pterocymbium tinctorium"
-        },
-        "conservation_status": "Least Concern"
-    },
-    {
+	    {
         "scientific_name": "Roystonea regia",
         "common_name": "Royal Palm",
         "coordinates": "",
@@ -475,7 +408,67 @@
         "conservation_status": "",
         "image": "/images/tree/lipote.jpg"
     },
+	{
+        "scientific_name": "Roystonea regia",
+        "common_name": "Royal Palm",
+        "coordinates": "",
+        "tree_code": "royal_palm",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Monocots",
+            "order": "Arecales",
+            "family": "Arecaceae",
+            "genus": "Roystonea",
+            "species": "Roystonea regia"
+        },
+        "conservation_status": "Least Concern"
+    },
     {
+        "scientific_name": "Sandoricum koetjape",
+        "common_name": "Santol",
+        "coordinates": "",
+        "tree_code": "santol",
+        "taxonomic_classification": {
+            "kingdom": "Plantae"
+        },
+        "conservation_status": "",
+        "image": "/images/tree/santol.jpg"
+    },
+    {
+        "scientific_name": "Swinglea glutinosa",
+        "common_name": "Tabog, Mala Cabuyao",
+        "coordinates": "",
+        "tree_code": "tabog",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "family": "Rutaceae"
+        },
+        "conservation_status": ""
+    },
+    {
+        "scientific_name": "Swietenia macrophylla",
+        "common_name": "Mahogany",
+        "coordinates": "",
+        "tree_code": "mahogany",
+        "taxonomic_classification": {
+            "kingdom": "Plantae"
+        },
+        "conservation_status": "",
+        "image": "/images/tree/mahogany.jpg"
+    },
+    {
+        "scientific_name": "Syzygium polycephaloides",
+        "common_name": "Lipote",
+        "coordinates": "",
+        "tree_code": "lipote",
+        "taxonomic_classification": {
+            "kingdom": "Plantae",
+            "family": "Myrtaceae"
+        },
+        "conservation_status": "",
+        "image": "/images/tree/lipote.jpg"
+    },
+	    {
         "scientific_name": "Terminalia catappa",
         "common_name": "Talisay Bukid, Tropical Almond",
         "coordinates": "",
@@ -517,36 +510,6 @@
             "family": "Canabaceae",
             "genus": "Trema",
             "species": "T. orientalis"
-        },
-        "conservation_status": "Least Concern"
-    },
-    {
-        "scientific_name": "Sterculia ceramica",
-        "common_name": "Uos, Banilad",
-        "coordinates": "",
-        "tree_code": "uos",
-        "taxonomic_classification": {
-            "kingdom": "Plantae",
-            "clade": "Eudicots, Rosids, Rosales, Tracheophytes, Angiosperms",
-            "order": "Malvales",
-            "family": "Malvaceae",
-            "genus": "Sterculia L.",
-            "species": "Sterculia ceramica"
-        },
-        "conservation_status": "Least Concern"
-    },
-    {
-        "scientific_name": "Dracontomelon edule",
-        "common_name": "Edule, Lamio",
-        "coordinates": "",
-        "tree_code": "edule",
-        "taxonomic_classification": {
-            "kingdom": "Plantae",
-            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
-            "order": "Sapindales",
-            "family": "Anacardiaceae",
-            "genus": "Dracontomelon",
-            "species": "D. edule"
         },
         "conservation_status": "Least Concern"
     }
