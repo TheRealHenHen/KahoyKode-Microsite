@@ -34,7 +34,7 @@ fetch('../data/trees-new.json')
                     referencesHTML = `
                     <p><strong>References:</strong></p>
                     <ul>
-                    ${tree.references.map(ref => `<li><a href="${ref}" target="_blank">${ref}</a></li>`).join('')}
+                    ${tree.references.map(ref => `<li><p>${ref}</p></li>`).join('')}
                     </ul>
                 `;
                 }
