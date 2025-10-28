@@ -11,13 +11,15 @@
 
 aside#tree-details {
     color: white;
-    display: flex;
+    display: inline-block;
     flex-direction: column;
     flex: 0 1 auto;
     padding: 2rem;
     background-color: color-mix(in srgb, var(--color-green-2) 80%, transparent);
     box-shadow: var(--shadow);
+    max-width: 28rem;
     border-radius: var(--border-radius);
+    align-content: flex-start;
 }
 
 div#tree-detail {
