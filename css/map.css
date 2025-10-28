@@ -8,7 +8,7 @@
 body {
     height: 100vh;
     width: 100vw;
-    background-color: var(--color-green-3);
+    background-color: var(--color-green-2);
 }
 
 body::before {
@@ -78,12 +78,10 @@ h1 {
 }
 
 .tree-card {
-    background-color: var(--color-green-3);
+    background-color: color-mix(in srgb, var(--color-green-1) 40%, transparent);
     border-radius: var(--border-radius);
-    border: 3px solid var(--color-yellow-2);
     margin-left: 1vw;
-    margin-right: 1vw;
-    box-shadow: var(--shadow);  
+    box-shadow: var(--shadow);
     transition: transform 0.2s;
     display: flex;
     align-items: center;
@@ -92,7 +90,7 @@ h1 {
 
 .tree-card .tree-image {
     background-size: cover;
-    height: 10rem;
+    height: 12rem;
     width: auto;
     aspect-ratio: 1/1;
     object-fit: cover;
@@ -110,7 +108,7 @@ h1 {
 
 .tree-info h2 {
     font-size: 1.5em;
-    color: var(--color-yellow-2);
+    color: var(--color-yellow-1);
     font-family: var(--font-itc-benguiat);
     font-weight: bold;
 }
@@ -127,7 +125,7 @@ h1 {
     position: sticky;
     background-size: cover;
     height: 95%;
-    width: 50%;
+    width: 60%;
     border-radius: var(--border-radius);
     filter: grayscale(0.1) sepia(0.2);
     backdrop-filter: blur(2px);
@@ -149,7 +147,8 @@ h1 {
 #tree-container::before,
 #tree-container::after {
     content: "";
-    flex: 0 0 1vw; /* space at start/end; adjust value as needed */
+    flex: 0 0 1vw;
+    /* space at start/end; adjust value as needed */
     width: 100%;
 }
 
@@ -158,19 +157,23 @@ main {
     display: flex;
     align-content: center;
     height: 100vh;
-    gap: 1vw;
     justify-content: center;
 }
 
-@media (max-width: 1080px) {
+@media (max-width: 768px) {
     main {
+        padding-top: 25rem;
         flex-direction: column-reverse;
         align-items: center;
         justify-content: center;
     }
-    section div#map-container {
+    #map-container {
+        width: 100%;
         height: auto;
-        width: 80vw;
         aspect-ratio: 1 / 1;
+    }
+    #tree-container {
+        gap: 4vw;
+        overflow-y: visible;
     }
 }
