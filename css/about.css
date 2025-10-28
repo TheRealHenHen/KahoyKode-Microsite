@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -23,7 +24,6 @@ nav {
     background-color: color-mix(in srgb, var(--color-green-3) 80%, transparent);
     filter: brightness(1.1);
     backdrop-filter: blur(6px);
-    position: fixed;
     width: 100%;
     box-shadow: var(--shadow-light);
     display: flex;
@@ -31,6 +31,8 @@ nav {
     z-index: 10;
     border-bottom: 3px solid var(--color-yellow-2);
     height: fit-content;
+    position: fixed;
+    top: 0;
 }
 
 nav img#logo {
