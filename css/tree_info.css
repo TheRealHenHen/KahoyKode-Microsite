@@ -10,11 +10,12 @@
 }
 
 aside#tree-details {
+    color: white;
     display: flex;
     flex-direction: column;
     flex: 0 1 auto;
     padding: 2rem;
-    background-color: color-mix(in srgb, var(--color-green-1) 20%, transparent);
+    background-color: color-mix(in srgb, var(--color-green-2) 80%, transparent);
     box-shadow: var(--shadow);
     border-radius: var(--border-radius);
 }
@@ -91,6 +92,7 @@ div#main-details h1 {
     text-align: center;
     padding: 0.5rem;
     border-radius: var(--border-radius-button);
+    box-shadow: var(--shadow);
     margin-bottom: 1.5rem;
     margin-top: 1rem;
 }
