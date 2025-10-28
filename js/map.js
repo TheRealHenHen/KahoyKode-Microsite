@@ -1,4 +1,4 @@
-fetch('../data/trees.json')
+fetch('../data/trees-new.json')
     .then(response => response.json())
     .then(trees => {
         const container = document.getElementById('treeContainer');
