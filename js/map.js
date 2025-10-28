@@ -1,7 +1,7 @@
 fetch('../data/trees-new.json')
     .then(response => response.json())
     .then(trees => {
-        const container = document.getElementById('treeContainer');
+        const container = document.getElementById('tree-container');
 
         trees.forEach(tree => {
             const card = document.createElement('div');
@@ -21,5 +21,5 @@ fetch('../data/trees-new.json')
     })
     .catch(error => {
         console.error('Error loading trees.json:', error);
-        document.getElementById('treeContainer').innerHTML = '<p>Failed to load tree data.</p>';
+        document.getElementById('tree-container').innerHTML = '<p>Failed to load tree data.</p>';
     });
