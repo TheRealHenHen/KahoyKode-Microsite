@@ -155,7 +155,7 @@ ul#references {
 @media (max-width: 1080px) {
     div#tree-detail {
         flex-direction: column;
-        padding-top: 0;
+        padding-top: 5rem;
         align-items: center;
     }
     aside#tree-details {
