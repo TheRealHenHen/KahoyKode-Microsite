@@ -103,7 +103,7 @@ h1 {
 .tree-info h2 {
     font-size: 1.5em;
     color: var(--color-yellow-1);
-    font-family: var(--font-cooper-bt);
+    font-family: var(--font-itc-benguiat);
     font-weight: bold;
 }
 
@@ -117,8 +117,9 @@ h1 {
 .map-container {
     width: 60%;
     height: 88vh;
-    background: var(--color-green-2);
     border-radius: 10px;
+    background: url(../images/map.png);
+    background-size: contain;
     position: sticky;
 }
 
