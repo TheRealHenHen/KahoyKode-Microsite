@@ -78,12 +78,12 @@ h1 {
 }
 
 .tree-card {
-    backdrop-filter: blur(4px);
-    border-radius: 10px;
+    background-color: var(--color-green-3);
+    border-radius: var(--border-radius);
+    border: 3px solid var(--color-yellow-2);
     margin-left: 1vw;
     margin-right: 1vw;
-    box-shadow: var(--shadow);
-    width: clamp(fit-content, 40vw, 40rem);
+    box-shadow: var(--shadow);  
     transition: transform 0.2s;
     display: flex;
     align-items: center;
@@ -92,8 +92,9 @@ h1 {
 
 .tree-card .tree-image {
     background-size: cover;
-    height: 12rem;
-    width: 12rem;
+    height: 10rem;
+    width: auto;
+    aspect-ratio: 1/1;
     object-fit: cover;
     border-radius: var(--border-radius);
     flex-shrink: 0;
@@ -109,7 +110,7 @@ h1 {
 
 .tree-info h2 {
     font-size: 1.5em;
-    color: var(--color-yellow-1);
+    color: var(--color-yellow-2);
     font-family: var(--font-itc-benguiat);
     font-weight: bold;
 }
@@ -117,8 +118,8 @@ h1 {
 .tree-info p {
     margin: 5px 0;
     font-size: 1rem;
-    color: var(--color-white);
-    font-family: var(--font-lexend);
+    color: #f7f7f5;
+    font-family: var(--font-open-sans);
 }
 
 #map-container {
@@ -131,15 +132,25 @@ h1 {
     filter: grayscale(0.1) sepia(0.2);
     backdrop-filter: blur(2px);
     box-shadow: var(--shadow);
+    margin: 1.5vw;
+    align-self: center;
 }
 
 #tree-container {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    height: 100%;
+    height: calc(100% - 0.5vw);
     overflow-y: scroll;
     display: flex;
     flex-direction: column;
     gap: 1vw;
+    margin-top: 0.5vw;
+}
+
+#tree-container::before,
+#tree-container::after {
+    content: "";
+    flex: 0 0 1vw; /* space at start/end; adjust value as needed */
+    width: 100%;
 }
 
 main {
