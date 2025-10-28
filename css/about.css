@@ -4,9 +4,12 @@
 }
 
 body {
+  background-image: url('../images/Background image about.JPG');
+  background-size: cover;
   font-family: Arial, sans-serif;
   background-color: hsl(0, 0%, 100%);
   color: #222;
+  background-position: center;
 }
 
 .logo{
@@ -15,7 +18,8 @@ body {
 
 nav {
   opacity: 90%;
-  background-color: #264027;
+  background-color: var(--color-green-3);
+  opacity: 90%;
   color: #dbb43e;
   display: flex;
   justify-content: space-between;
@@ -40,14 +44,14 @@ nav li {
 }
 
 nav a {
-  color: var(--color-yellow-1);
-  font-family: var(--font-serif);
+  color: var(--color-yellow-2);
+  font-family: var(--font-lora);
   text-decoration: none;
-  font-weight: bold;
+  font-size: clamp(1rem, 8vh, 1.2rem);
 }
 
 .header {
-  background-image: url('../images/Background image about.JPG');
+  text-align: center;
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -59,7 +63,16 @@ nav a {
   margin-top: 60px; 
 }
 
-.section {
+.header h1 {
+  font-family: var(--font-itc-benguiat);
+  color: hsl(0,0%,95%);
+}
+
+section{
+  background-color: var(--color-white);
+}
+
+.section {  
   display: flex;
   align-items: center;
   justify-content: space-between;
