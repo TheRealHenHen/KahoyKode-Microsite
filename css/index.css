@@ -11,6 +11,7 @@
 body {
     background: url('../images/background.jpg') center/cover no-repeat fixed;
     margin: 0;
+    overflow: hidden;
 }
 
 html,
@@ -184,7 +185,7 @@ section .buttons a:hover {
     main section {
         padding: 1rem;
     }
-    section#left{
+    section#left {
         margin-top: 8vh;
     }
     section div#left-container {
