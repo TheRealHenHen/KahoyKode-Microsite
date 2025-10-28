@@ -101,3 +101,8 @@ main#tree-yap p {
     box-shadow: var(--shadow);
     margin-bottom: 1rem;
 }
+
+ul#references {
+    margin-top: 0.5rem;
+    margin-left: 1.5rem;
+}

@@ -32,8 +32,7 @@ fetch('../data/trees-new.json')
                 let referencesHTML = '';
                 if (tree.references && Array.isArray(tree.references) && tree.references.length > 0) {
                     referencesHTML = `
-                    <p><strong>References:</strong></p>
-                    <ul>
+                    <ul id="references">
                     ${tree.references.map(ref => `<li><p>${ref}</p></li>`).join('')}
                     </ul>
                 `;
@@ -64,6 +63,7 @@ fetch('../data/trees-new.json')
           <h2>Uses</h2>
           <p>${tree.uses || 'No information available.'}</p>
 
+          <h2>References</h2>
           ${referencesHTML}
         </main>
       `;
