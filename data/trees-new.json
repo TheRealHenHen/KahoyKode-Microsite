@@ -284,6 +284,52 @@
     },
 
     {
+        "common_name": "",
+        "scientific_name": "",
+        "vernacular_names": [""],
+        "conservation_status": "Least Concern",
+        "ancestry": {
+            "kingdom": "Plantae",
+            "clade": "",
+            "order": "",
+            "family": "",
+            "genus": "",
+            "species": ""
+        },
+
+        "description": "",
+        "notable_features": "",
+        "uses": "",
+        "references": [],
+        "coordinates": "",
+        "tree_code": "",
+        "image": ""
+    },
+
+    {
+        "common_name": "",
+        "scientific_name": "",
+        "vernacular_names": [""],
+        "conservation_status": "Least Concern",
+        "ancestry": {
+            "kingdom": "Plantae",
+            "clade": "",
+            "order": "",
+            "family": "",
+            "genus": "",
+            "species": ""
+        },
+
+        "description": "",
+        "notable_features": "",
+        "uses": "",
+        "references": [],
+        "coordinates": "",
+        "tree_code": "",
+        "image": ""
+    },
+
+    {
         "common_name": "Binunga Tree",
         "scientific_name": "Macaranga tanarius",
         "vernacular_names": ["Himindang (Bicol)", "Kuyonon (Bisaya)"],
