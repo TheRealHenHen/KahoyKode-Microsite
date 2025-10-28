@@ -4,16 +4,17 @@
 }
 
 body {
-  background-image: url('../images/Background image about.JPG');
+  background-image: url('../images/Background image about dark.JPG');
   background-size: cover;
   font-family: Arial, sans-serif;
+  
   background-color: hsl(0, 0%, 100%);
   color: #222;
   background-position: center;
 }
 
 .logo{
-  width: 30
+  width: 30;
 }
 
 nav {
