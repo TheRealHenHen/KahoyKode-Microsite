@@ -290,7 +290,7 @@
         "conservation_status": "Least Concern",
         "ancestry": {
             "kingdom": "Plantae",
-            "clade": "Dao, New Guinea walnut. Papua New Guinea walnut, Pacific walnut",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
             "order": "Sapindales",
             "family": "Anacardiaceae",
             "genus": "Dracontomelon",
@@ -307,25 +307,25 @@
     },
 
     {
-        "common_name": "",
-        "scientific_name": "",
-        "vernacular_names": [""],
+        "common_name": "Dapdap Tree",
+        "scientific_name": "Erythrina variegata",
+        "vernacular_names": ["Rarang(Bicol), Anii(Bisaya)"],
         "conservation_status": "Least Concern",
         "ancestry": {
             "kingdom": "Plantae",
-            "clade": "",
-            "order": "",
-            "family": "",
-            "genus": "",
-            "species": ""
+            "clade": "Angiosperms",
+            "order": "Fabales",
+            "family": "Fabaceae",
+            "genus": "Erythrina",
+            "species": "E. variegata"
         },
 
-        "description": "",
-        "notable_features": "",
-        "uses": "",
-        "references": [],
+        "description": "The Dapdap Tree, scientifically known as Erythrina variegata, is a species of the Fabaceae family. The tree is known by various names including Rarang(Bicol), and Anii(Bisaya). It is native to coastal forests in Southeast Asia and is also widespread in areas around the Indian Ocean. Dapdap trees can reach a height of up to 18 to 25 meters.",
+        "notable_features": "The Dapdap Tree is a showy, spreading, and deciduous tree. It is shallow-rooted, with its roots developing only in the upper 30 cm of the soil. Its crown ranges from 6 to 12 meters in diameter. Its bark is grey or grey-green in color and furrowed. Its leaves are compound and trifoliate and can be . The flowers it produces are clustered in groups of three and are bright red in color. The fruits are cylindrical in shape and constricted around the seeds.",
+        "uses": "The Dapdap Tree has various uses. It provides support and shade for various vine crops such as betel, pepper, vanilla, yam, and grape vines. The wood of the tree is utilized for making packing boxes, picture frames, and for pulp production . In Indonesia, the leaves and young sprouts of the tree are eaten as vegetables.",
+        "references": ["“ACIR Community.” Usda.gov, 2025, acir.aphis.usda.gov/s/cird-taxon/a0u3d000000UP9LAAW/erythrina-variegata?fbclid=IwY2xjawNb55ZleHRuA2FlbQIxMQABHvv1mb2YFAmWvhmybwJAON14-HtX-TRAFLoZgwoihOrZ79T0MkBrXUxvr6L0_aem_-DVo23hT3z48GahL7R36Vw.", "Heuzé V., Thiollet H., Tran G., Edouard N., Lebas F., 2019. Coral tree (Erythrina variegata). Feedipedia, a programme by INRAE, CIRAD, AFZ and FAO. https://feedipedia.org/node/2308079-09-09-09-09-09-0"],
         "coordinates": "",
-        "tree_code": "",
+        "tree_code": "dapdap",
         "image": ""
     },
 
