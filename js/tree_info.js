@@ -49,7 +49,7 @@ fetch('../data/trees-new.json')
             <p><strong>Conservation Status:</strong> ${tree.conservation_status || 'N/A'}</p>
             <p><strong>Coordinates:</strong> ${tree.coordinates || 'N/A'}</p>
             ${ancestryHTML}
-            <a class="back-link" href="map.html">← Back to Map</a>
+            <a id="back-link" href="map.html">← Back to Map</a>
           </div>
         </aside>
 
@@ -70,7 +70,7 @@ fetch('../data/trees-new.json')
     } else {
       container.innerHTML = `
         <p>Tree not found.</p>
-        <a class="back-link" href="map.html">← Back to Map</a>
+        <a id="back-link" href="map.html">← Back to Map</a>
       `;
     }
   })
