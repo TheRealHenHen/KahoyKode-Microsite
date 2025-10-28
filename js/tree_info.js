@@ -41,7 +41,7 @@ fetch('../data/trees-new.json')
 
       container.innerHTML = `
         <aside class="children" id="tree-details">
-          <img id="tree-image" src="${tree.image || '../images/tree/default.jpg'}" alt="${tree.common_name}">
+          <img id="tree-image"pushed diff  src="${tree.image || '../images/tree/default.jpg'}" alt="${tree.common_name}">
           <div id="main-details">
             <h1>${tree.common_name}</h1>
             <p><strong>Scientific Name:</strong> ${tree.scientific_name || 'N/A'}</p>
