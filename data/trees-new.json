@@ -279,7 +279,7 @@
         "uses": "Citrus microcarpa is a resourceful plant and has many uses, specifically regarding its leaves, flowers, and fruit. Its fruit is the most notable, used in culinary arts as either a main ingredient in a dish to add a citrusy flavor, a condiment for the same purposes, or its juice is extracted to make a flavorful drink on its own or be put in other drinks. Aside from that, it is also used as treatment for skin irritations, coughs, and colds.\n\nBoth its leaves and flowers are brewed as tea, as in traditional practices with medicine, the plant’s leaves are made into teas as a remedy for coughs, colds, and mild stomach aches. It is sometimes combined with other herbs and has a calming effect on the body when consumed. Meanwhile, the flowers provide a relaxation and stress relieving result after drinking it as tea.",
         "references": ["Wikipedia contributors. (2025, September 28). Calamansi. Wikipedia. https://en.wikipedia.org/wiki/Calamansi", "Citrus × microcarpa. (n.d.). https://www.socfindoconservation.co.id/plant/263?lang=en", "Calamansi Tree - unbeleafable. (2023, July 13). Unbeleafable. https://unbeleafable.ph/product/calamansi-tree", "Swanson, B. (2025, September 10). Calamansi Leaf Tea – A Gentle Citrus Brew • The Rustic Spade. The Rustic Spade. https://therusticspade.co.za/calamansi-leaf-tea-a-gentle-citrus-brew/", "Swanson, B. (2025, September 10). Calamansi Leaves vs. Flowers – Which Makes the Better Tea? • The Rustic Spade. The Rustic Spade. https://therusticspade.co.za/calamansi-leaves-vs-flowers-which-makes-the-better-tea/"],
         "coordinates": "",
-        "tree_code": "calamansi",
+        "tree_code": "kalamansi",
         "image": ""
     },
 
@@ -326,6 +326,52 @@
         "references": ["“ACIR Community.” Usda.gov, 2025, acir.aphis.usda.gov/s/cird-taxon/a0u3d000000UP9LAAW/erythrina-variegata?fbclid=IwY2xjawNb55ZleHRuA2FlbQIxMQABHvv1mb2YFAmWvhmybwJAON14-HtX-TRAFLoZgwoihOrZ79T0MkBrXUxvr6L0_aem_-DVo23hT3z48GahL7R36Vw.", "Heuzé V., Thiollet H., Tran G., Edouard N., Lebas F., 2019. Coral tree (Erythrina variegata). Feedipedia, a programme by INRAE, CIRAD, AFZ and FAO. https://feedipedia.org/node/2308079-09-09-09-09-09-0"],
         "coordinates": "",
         "tree_code": "dapdap",
+        "image": ""
+    },
+
+    {
+        "common_name": "Banyan Tree",
+        "scientific_name": "Ficus benjamin",
+        "vernacular_names": ["Lunok (Negros Oriental),  Dalakit (Visayas), Nonok (Samar-Leyte), Diyakel (Surigao del Sur), Salisi (Tagalog), Banyan Tree"],
+        "conservation_status": "Least Concern",
+        "ancestry": {
+            "kingdom": "Plantae",
+            "clade": "Angiosperms, Eudicots, Rosids",
+            "order": "Rosales",
+            "family": "Moraceae",
+            "genus": "Ficus",
+            "species": "F. Benjamina"
+        },
+
+        "description": "Toona calantas, also known as kalantas or Philippine mahogany, is a large & fast-growing deciduous tree of the Meliaceae family native to Southeast Asia, particularly the Philippines, Thailand, and Indonesia. The tree itself can reach up to 25 meters tall with its straight and branchless trunk growing up to 20 meters long. It is known for its high-quality timber used in furniture, musical instruments and plywood, as well as its ecological importance for providing food and habitats for native wildlife and stabilizing soil with its deep roots.\n\nIts straight and terete (cylindrical) trunk has a near diameter of around 100 - 150 centimeters, with the leaves of the tree compound and alternate oblong, having entire leaflets. The mahogany’s fruit is shaped like a large capsule that dehisces at the apex, with unequally winged seeds. Its lumber is a reddish-brown color, becoming pale red when it is sapped.",
+        "notable_features": "The Toona calantas is known for its strikingly unique red color among timbers, which is what led to its classification as “Vulnerable” due to mass deforestation for material collection due to its wide usage in the creation of musical instruments, furniture, joinery, and even carving applications, as well as its excellent capabilities as firewood. The texture of the bark is smooth when the tree is still young, becoming more complex as it matures, shedding thin, flaky patches or woody scales.\n\nThe flowering of the tree occurs from June to August, while fruiting occurs from September to November. The tree exudes a strong, lasting sour odor similar to that of Spanish cedar. The flowers of Calantas are small and white, with the fruit following in around a month after. The fruit is a capsule, around 3-4 centimeters long, with a dark-red to red-brown color. It is smooth to the touch and contains numerous lenticels (small dots) on the surface of the fruit. Meanwhile, the leaves of the tree are oddly pinnate compound leaves with around 10-20 smooth oblong leaflets around 12 centimeters long and 5 centimeters wide.\n\nThe Toona calantas is primarily found in primary forests at low to medium altitudes in the Philippines, hence the name, but can also be found in other parts of Southeast Asia. It is particularly seen abundant in the Balabac group of islands (Palawan Province).",
+        "uses": "Toona calantas is known for its astringent and antiseptic properties for its bark, a decoction sometimes being used as a local remedy for cleansing wounds. A particular instance is its powdered bark being dusted over gangrenous ulcers. The flowers are also sometimes used in traditional medicine due to their antispasmodic properties. The wood contains around 0.3 - 1.2% essential oil, contributing to its strong odor that is used to create commercial essential oils.",
+        "references": ["Flora Malesiana. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://portal.cybertaxonomy.org/flora-malesiana/cdm_dataportal/taxon/2af2ed17-8983-4d22-a385-a0207419fec0", "iNaturalist. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://www.inaturalist.org/taxa/444363-Toona-calantas", "PROSEA - Plant Resources of South East Asia. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://prosea.prota4u.org/view.aspx?id=4736", "Useful Tropical Plants. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://tropical.theferns.info/viewtropical.php?id=Toona+calantas", "Wikipedia contributors. (2025, October 5). Toona calantas. Wikipedia. https://en.wikipedia.org/wiki/Toona_calantas?utm_source=chatgpt.com"],
+        "coordinates": "",
+        "tree_code": "banyan_tree",
+        "image": ""
+    },
+
+    {
+        "common_name": "",
+        "scientific_name": "",
+        "vernacular_names": [""],
+        "conservation_status": "Least Concern",
+        "ancestry": {
+            "kingdom": "Plantae",
+            "clade": "",
+            "order": "",
+            "family": "",
+            "genus": "",
+            "species": ""
+        },
+
+        "description": "",
+        "notable_features": "",
+        "uses": "",
+        "references": [],
+        "coordinates": "",
+        "tree_code": "",
         "image": ""
     },
 
