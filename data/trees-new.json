@@ -25,8 +25,7 @@
 {
     "common_name": "Dita Tree",
     "scientific_name": "Alstonia scholaris",
-    "vernacular_names": ["Dita (Tagalog, Bikol, Sul)",  "Dalipauen (Ilocano)", "Devil Tree",  
-"Scholar Tree", "Blackboard Tree"],
+    "vernacular_names": ["Dita (Tagalog, Bikol, Sul)",  "Dalipauen (Ilocano)", "Devil Tree", "Scholar Tree", "Blackboard Tree"],
     "conservation_status": "Least Concern",
     "ancestry": {
         "kingdom": "Plantae",
@@ -282,6 +281,98 @@
     "references": ["Wikipedia contributors. (2025, September 28). Calamansi. Wikipedia. https://en.wikipedia.org/wiki/Calamansi", "Citrus × microcarpa. (n.d.). https://www.socfindoconservation.co.id/plant/263?lang=en", "Calamansi Tree - unbeleafable. (2023, July 13). Unbeleafable. https://unbeleafable.ph/product/calamansi-tree", "Swanson, B. (2025, September 10). Calamansi Leaf Tea – A Gentle Citrus Brew • The Rustic Spade. The Rustic Spade. https://therusticspade.co.za/calamansi-leaf-tea-a-gentle-citrus-brew/", "Swanson, B. (2025, September 10). Calamansi Leaves vs. Flowers – Which Makes the Better Tea? • The Rustic Spade. The Rustic Spade. https://therusticspade.co.za/calamansi-leaves-vs-flowers-which-makes-the-better-tea/"],
     "coordinates": "",
     "tree_code": "kalamansi",
+    "image": ""
+},
+
+{
+    "common_name": "Dao",
+    "scientific_name": "Dracontomelon Dao",
+    "vernacular_names": ["Dao, New Guinea walnut. Papua New Guinea walnut, Pacific walnut"],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+        "order": "Sapindales",
+        "family": "Anacardiaceae",
+        "genus": "Dracontomelon",
+        "species": "D. dao"
+    },
+
+    "description": "Dracontomelon dao commonly known as Dao, a large, tropical evergreen tree species of the Anacardiaceae family. The tree is known by a variety of names including Argus Pheasant Tree, New Guinea Walnut, Papuan Walnut. It is native to an extensive range across Southeast Asia and the Pacific, including countries like the Philippines, Thailand, South China, Cambodia, Vietnam, New Guinea, Myanmar, Laos and many more. Dao is distinguished by its height, oftenheight, often growing up to 45-55 meters tall but can still grow larger. It is harvested for its diverse source of food, medicine, wood, and high-quality timber. The tree’s physical characteristics include a straight, cylindrical trunk, a broad crown for good shade coverage, and large buttress roots. Its pinnately compound leaves that sheds seasonally, newly growth leaves appearing reddish or light green then matures into a dark, glossy green. The flowers are greenish-white, its fragrance can be unpleasant and the smell often attracts insects. Its fruit called sâu has a sour and slightly sweet taste, and contains 1-5 seeds. Historically, Dao is an important resource in Southeast Asia, with its timber used, its fruits and leaves for culinary purposes, and its strong root system for soil conservation.",
+    "notable_features": "The Dracontomelon dao tree is a large, evergreen tree (briefly deciduous when growing in the dry season), often reaching 45-55 meters  tall, with a straight cylindrical trunk usually a meter in diameter. The crown of the tree is broad and spreading, providing good shade coverage. The tree’s bark is a brownish-gray color, growing shallow fissures as it continues to mature. Bark is gray to dark brown in color, sometimes with a reddish tinge, and is rough, fissured, and scaly, especially in older trees. It is relatively thick. The roots are deep-rooted with strong lateral roots. Mature dao trees often develop large plank-like buttress roots at the base of the trunk. Flowers are a greenish to yellowish-white color, about 4-5mm across and occur in large, branched clusters called panicles up to 25cm long. They are radially symmetrical, with 5 petals often appearing to be bent backward. The fragrance of the flower is described as mild and sometimes unpleasant, often attracting insects. Flowers appear with new flushes of leaves, and are primarily pollinated by insects such as bees or flies. The fruit of the dao tree, called sâu, is a drupe-type fruit with a round shape, about 2-3cm in diameter. It is green when young and turns brownish-yellow as it ripens. The surface of the fruit is smooth, and its flesh is thin and juicy with a sour and slightly sweet taste. It has around 1-5 seeds per fruit, and is usually produced in bunches hanging from tree branch ends. A mature tree can bear hundreds of sâu per season. Leaves are pinnately compound with an alternate arrangement along its branches. There are usually around 5-7 leaflets per leaf, and the shape of the leaflet itself is elliptical  with a pointed tip, growing to around 7-15cm long and 3-6cm wide with a smooth margin. The surface of the leaf is a glossy dark green that becomes lighter the more you go down. The dao tree sheds its leaves seasonally, often during the dry season. Fresh leaves sprout after the tree begins flowering or with common rain patterns, often starting out a reddish or light green color before turning darker as it grows. The leaves form a spreading, umbrella-like crown as the canopy structure, providing dense shade.",
+    "uses": "Dracontomelon dao is a multipurpose tree, usually known for its timber, due to its moderately hard texture. The wood is used for making furniture, plywood, and light construction, while the bark is for traditional medicinal uses, treating wounds and stomach issues. Meanwhile, its fruit is used as a souring agent in Filipino dishes such as sinigang, or is also eaten raw or made into jams and candies. The young leaves are also sometimes added into soups. The tree itself provides dense shade, a good addition to any park. oroadside. It is also usually planted for soil conservation and watershed protection because of its strong roots and buttresses.",
+    "references": ["Dao, Dracontomelon dao (Blanco) Merr. & Rolfe, PACIFIC WALNUT, Ren mian zi: Philippine Medicinal Herbs  /  Alternative Medicine. (n.d.). https://www.stuartxchange.com/Dao.html", "Dracontomelon dao - Useful Tropical Plants. (n.d.). https://tropical.theferns.info/viewtropical.php?id=Dracontomelon+dao", "Dracontomelon dao (Argus pheasant tree) | CABI Compendium. (n.d.). CABI Compendium. https://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.19767", "ERDB Knowledge Products. (n.d.). https://erdbservices.denr.gov.ph/eskris/iec_for_guest.php?operation=view&pk0=127", "ECHOcommunity. (n.d.). Dracontomelon dao. ECHO Asia Notes. https://www.echocommunity.org/en/resources/7dfbbe52-6384-4c94-a4e9-642427f728f0", "Flora of China Editorial Committee. (n.d.). Dracontomelon dao. In Flora of China. eFloras. http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012506", "Madulid, D. A. (2011). Philippine native trees 101: Up close and personal. Green Convergence for Safe Food, Healthy Environment and Sustainable Economy, Inc.", "National Parks Board Singapore (NParks). (n.d.). Dracontomelon dao. Flora & Fauna Web. https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3287", "Papua New Guinea Plants Database. (n.d.). Dracontomelon dao Merr. & Rolfe. PNG Trees Key. https://www.pngplants.org/PNGtrees/TreeDescriptions/Dracontomelon_dao_Merr_%26_Rolfe.html", "PROSEA - Plant resources of South East Asia. (n.d.). https://prosea.prota4u.org/view.aspx?id=4205", "Royal Botanic Gardens, Kew. (n.d.). Dracontomelon dao (Blanco) Merr. & Rolfe. Plants of the World Online. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:68524-1", "World Agroforestry Centre (ICRAF). (n.d.). Dracontomelon dao. Agroforestry Tree Database. https://apps.worldagroforestry.org/treedb2/speciesprofile.php?Spid=1792", "Useful Tropical Plants. (n.d.). Dracontomelon dao. Tropical Plants Database. https://tropical.theferns.info/viewtropical.php?id=Dracontomelon+dao"],
+    "coordinates": "",
+    "tree_code": "dao",
+    "image": ""
+},
+
+{
+    "common_name": "Dapdap",
+    "scientific_name": "Erythrina variegata",
+    "vernacular_names": ["Rarang(Bicol), Anii(Bisaya)"],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "clade": "Angiosperms",
+        "order": "Fabales",
+        "family": "Fabaceae",
+        "genus": "Erythrina",
+        "species": "E. variegata"
+    },
+
+    "description": "The Dapdap Tree, scientifically known as Erythrina variegata, is a species of the Fabaceae family. The tree is known by various names including Rarang(Bicol), and Anii(Bisaya). It is native to coastal forests in Southeast Asia and is also widespread in areas around the Indian Ocean. Dapdap trees can reach a height of up to 18 to 25 meters. ",
+    "notable_features": "The Dapdap Tree is a showy, spreading, and deciduous tree. It is shallow-rooted, with its roots developing only in the upper 30 cm of the soil. Its crown ranges from 6 to 12 meters in diameter. Its bark is grey or grey-green in color and furrowed. Its leaves are compound and trifoliate and can be . The flowers it produces are clustered in groups of three and are bright red in color. The fruits are cylindrical in shape and constricted around the seeds.",
+    "uses": "The Dapdap Tree has various uses. It provides support and shade for various vine crops such as betel, pepper, vanilla, yam, and grape vines. The wood of the tree is utilized for making packing boxes, picture frames, and for pulp production . In Indonesia, the leaves and young sprouts of the tree are eaten as vegetables.",
+    "references": ["“ACIR Community.” Usda.gov, 2025, acir.aphis.usda.gov/s/cird-taxon/a0u3d000000UP9LAAW/erythrina-variegata?fbclid=IwY2xjawNb55ZleHRuA2FlbQIxMQABHvv1mb2YFAmWvhmybwJAON14-HtX-TRAFLoZgwoihOrZ79T0MkBrXUxvr6L0_aem_-DVo23hT3z48GahL7R36Vw.", "Heuzé V., Thiollet H., Tran G., Edouard N., Lebas F., 2019. Coral tree (Erythrina variegata). Feedipedia, a programme by INRAE, CIRAD, AFZ and FAO. https://feedipedia.org/node/2308079-09-09-09-09-09-0"],
+    "coordinates": "",
+    "tree_code": "dapdap",
+    "image": ""
+},
+
+{
+    "common_name": "Balete",
+    "scientific_name": "Ficus Benjamin",
+    "vernacular_names": ["Lunok (Negros Oriental),  Dalakit (Visayas), Nonok (Samar-Leyte), Diyakel (Surigao del Sur), Salisi (Tagalog), Banyan Tree"],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "clade": "Angiosperms, Eudicots, Rosids",
+        "order": "Rosales",
+        "family": "Moraceae",
+        "genus": "Ficus",
+        "species": "F. Benjamina"
+    },
+
+    "description": "Toona calantas, also known as kalantas or Philippine mahogany, is a large & fast-growing deciduous tree of the Meliaceae family native to Southeast Asia, particularly the Philippines, Thailand, and Indonesia. The tree itself can reach up to 25 meters tall with its straight and branchless trunk growing up to 20 meters long. It is known for its high-quality timber used in furniture, musical instruments and plywood, as well as its ecological importance for providing food and habitats for native wildlife and stabilizing soil with its deep roots. Its straight and terete (cylindrical) trunk has a near diameter of around 100 - 150 centimeters, with the leaves of the tree compound and alternate oblong, having entire leaflets. The mahogany’s fruit is shaped like a large capsule that dehisces at the apex, with unequally winged seeds. Its lumber is a reddish-brown color, becoming pale red when it is sapped.",
+    "notable_features": "The Toona calantas is known for its strikingly unique red color among timbers, which is what led to its classification as “Vulnerable” due to mass deforestation for material collection due to its wide usage in the creation of musical instruments, furniture, joinery, and even carving applications, as well as its excellent capabilities as firewood. The texture of the bark is smooth when the tree is still young, becoming more complex as it matures, shedding thin, flaky patches or woody scales. The flowering of the tree occurs from June to August, while fruiting occurs from September to November. The tree exudes a strong, lasting sour odor similar to that of Spanish cedar. The flowers of Calantas are small and white, with the fruit following in around a month after. The fruit is a capsule, around 3-4 centimeters long, with a dark-red to red-brown color. It is smooth to the touch and contains numerous lenticels (small dots) on the surface of the fruit. Meanwhile, the leaves of the tree are oddly pinnate compound leaves with around 10-20 smooth oblong leaflets around 12 centimeters long and 5 centimeters wide. The Toona calantas is primarily found in primary forests at low to medium altitudes in the Philippines, hence the name, but can also be found in other parts of Southeast Asia. It is particularly seen abundant in the Balabac group of islands (Palawan Province).",
+    "uses": "Toona calantas is known for its astringent and antiseptic properties for its bark, a decoction sometimes being used as a local remedy for cleansing wounds. A particular instance is its powdered bark being dusted over gangrenous ulcers. The flowers are also sometimes used in traditional medicine due to their antispasmodic properties. The wood contains around 0.3 - 1.2% essential oil, contributing to its strong odor that is used to create commercial essential oils.",
+    "references": ["Flora Malesiana. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://portal.cybertaxonomy.org/flora-malesiana/cdm_dataportal/taxon/2af2ed17-8983-4d22-a385-a0207419fec0", "iNaturalist. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://www.inaturalist.org/taxa/444363-Toona-calantas", "PROSEA - Plant Resources of South East Asia. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://prosea.prota4u.org/view.aspx?id=4736", "Useful Tropical Plants. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://tropical.theferns.info/viewtropical.php?id=Toona+calantas", "Wikipedia contributors. (2025, October 5). Toona calantas. Wikipedia. https://en.wikipedia.org/wiki/Toona_calantas?utm_source=chatgpt.com"],
+    "coordinates": "",
+    "tree_code": "balete",
+    "image": ""
+},
+
+{
+    "common_name": "Tabgun Tree",
+    "scientific_name": "Ficus ruficaulis Merr",
+    "vernacular_names": ["Tabgun (Bikolano), Ruficaulis Fig (English)"],
+    "conservation_status": "Least Concern",
+    "ancestry": {
+        "kingdom": "Plantae",
+        "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+        "order": "Rosales",
+        "family": "Moraceae",
+        "genus": "Artocarpus",
+        "species": "A. sericicarpus"
+    },
+
+    "description": "Ficus ruficaulis Merr., also referred to as Tabgun Tree, is a tropical evergreen tree native to the Philippines, Sulawesi, and Taiwan, belonging to the family Moraceae. It grows over 10 meters or more with fleshy, elliptical leaves or ovate leaves, and specialized bark roots. It produces small, concealed flowers and thrives in wet tropical environments. Its bark, leaves, fruits, and roots are used for medicinal purposes and contribute by providing shade and habitat for wildlife.",
+    "notable_features": "The Tabgun Tree, scientifically  known as Ficus ruficaulis Merr., is a member of the  family Moraceae. Its complete taxonomic classification includes Kingdom Plantae, Division Magnoliophyta, Class Magnoliopsida, Order Rosales, Family Moraceae, Genus Ficus,  and Species Ficus ruficaulis Merr. The tree is known by its vernacular names “Tabgun” or “Tagbun” in Filipino. It is native to tropical Asian islands, specifically the  Philippines, Sulawesi, and Taiwan, and is a part of the diverse Ficus genus. It has a number of synonyms describing its taxonomic history ancestry, including as Ficus antaoensis and Ficus gerontocarpa. Similar to other native Philippine tree species, it potentially faces risks from habitat destruction and deforestation.\n\nThe Tabgun Tree  grows up to 10 meters or more, as observed  in other related species. It has a unique appearance characterized by fleshy leaves and large root systems developed as bark roots to provide support. The leaves show growing patterns of elliptical or ovate shapes that are usually evergreen in nature. The tree produces small flowers that are usually concealed inside a structure. Its canopy is supported by its stem and can have specialized bark roots that help in nutrient absorption and stability. The bark and leaves are sometimes used for gastrointestinal problems, while fruits and roots are used in traditional medical purposes. The tree holds historical significance in the Philippines where it supports local biodiversity and cultural practices.\n\nTagbun tree provides plenty of cultural history through oral traditions. In some Bicol communities, old Tabgun trees are home to forest ghosts known as \"engkantos\".  Individuals would generally avoid cutting down trees without deliberately praying as a show of respect.  Tagbun Tree is unique because of its adaptation to tropical wet environments and close relationship with local animals. It is a long-lived tree that can exist for many years while still contributing significantly to the stability and diversity of its ecosystems. Related species, such as Tabon-Tabon in the Philippines, are well-known for their use in indigenous Filipino cuisine, particularly the making of kinilaw. The tree was also found to have medicinal properties, such as antibacterial and antioxidant activity.",
+    "uses": "The Tagbun Tree gives multiple practical benefits in antibacterial and antioxidant properties and to treat gastrointestinal problems. Its wood can also be used for local construction and can help stabilize soils. It is a long-lived tree that plays an important role in providing a habitat for wildlife and contributing to the stability of an ecosystem.",
+    "references": [],
+    "coordinates": "",
+    "tree_code": "balete",
     "image": ""
 },
 
