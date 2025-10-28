@@ -34,7 +34,7 @@ fetch('../data/trees-new.json')
                     referencesHTML = `
                     <p><strong>References:</strong></p>
                     <ul>
-                    ${tree.references.map(ref => `<li><a href="${ref}" target="_blank">${ref}</a></li>`).join('')}
+                    ${tree.references.map(ref => `<li><p>${ref}</p></li>`).join('')}
                     </ul>
                 `;
                 }
@@ -42,9 +42,7 @@ fetch('../data/trees-new.json')
 
       container.innerHTML = `
         <aside class="children" id="tree-details">
-          <div id="tree-image-placeholder">
-            <img src="${tree.image || '../images/placeholder.jpg'}" alt="${tree.common_name}" style="max-width:100%; border-radius:12px;">
-          </div>
+          <img id="tree-image" src="${tree.image || '../images/placeholder.jpg'}" alt="${tree.common_name}">
           <div id="main-details">
             <h1>${tree.common_name}</h1>
             <p><strong>Scientific Name:</strong> ${tree.scientific_name || 'N/A'}</p>
