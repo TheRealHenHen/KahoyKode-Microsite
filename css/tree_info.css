@@ -146,7 +146,7 @@ a#back-link:hover {
 }
 
 img#tree-image {
-    width: 20rem;
+    width: clamp(2rem, 70vw, 20rem);
     margin: auto;
     aspect-ratio: 1 / 1;
     background: #c8e6c9;
