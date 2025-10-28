@@ -353,27 +353,28 @@
     },
 
     {
-        "common_name": "",
-        "scientific_name": "",
-        "vernacular_names": [""],
+        "common_name": "Tabgun Tree",
+        "scientific_name": "Ficus ruficaulis Merr",
+        "vernacular_names": ["Tabgun (Bikolano), Ruficaulis Fig (English) "],
         "conservation_status": "Least Concern",
         "ancestry": {
             "kingdom": "Plantae",
-            "clade": "",
-            "order": "",
-            "family": "",
-            "genus": "",
-            "species": ""
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+            "order": "Rosales",
+            "family": "Moraceae",
+            "genus": "Artocarpus",
+            "species": "A. sericicarpus"
         },
 
-        "description": "",
-        "notable_features": "",
-        "uses": "",
-        "references": [],
+        "description": "Ficus ruficaulis Merr., also referred to as Tabgun Tree, is a tropical evergreen tree native to the Philippines, Sulawesi, and Taiwan, belonging to the family Moraceae. It grows over 10 meters or more with fleshy, elliptical leaves or ovate leaves, and specialized bark roots. It produces small, concealed flowers and thrives in wet tropical environments. Its bark, leaves, fruits, and roots are used for medicinal purposes and contribute by providing shade and habitat for wildlife.",
+        "notable_features": "The Tabgun Tree, scientifically  known as Ficus ruficaulis Merr., is a member of the  family Moraceae. Its complete taxonomic classification includes Kingdom Plantae, Division Magnoliophyta, Class Magnoliopsida, Order Rosales, Family Moraceae, Genus Ficus,  and Species Ficus ruficaulis Merr. The tree is known by its vernacular names “Tabgun” or “Tagbun” in Filipino. It is native to tropical Asian islands, specifically the  Philippines, Sulawesi, and Taiwan, and is a part of the diverse Ficus genus. It has a number of synonyms describing its taxonomic history ancestry, including as Ficus antaoensis and Ficus gerontocarpa. Similar to other native Philippine tree species, it potentially faces risks from habitat destruction and deforestation.\n\nThe Tabgun Tree  grows up to 10 meters or more, as observed  in other related species. It has a unique appearance characterized by fleshy leaves and large root systems developed as bark roots to provide support. The leaves show growing patterns of elliptical or ovate shapes that are usually evergreen in nature. The tree produces small flowers that are usually concealed inside a structure. Its canopy is supported by its stem and can have specialized bark roots that help in nutrient absorption and stability. The bark and leaves are sometimes used for gastrointestinal problems, while fruits and roots are used in traditional medical purposes. The tree holds historical significance in the Philippines where it supports local biodiversity and cultural practices.\n\nTagbun tree provides plenty of cultural history through oral traditions. In some Bicol communities, old Tabgun trees are home to forest ghosts known as \"engkantos\".  Individuals would generally avoid cutting down trees without deliberately praying as a show of respect.  Tagbun Tree is unique because of its adaptation to tropical wet environments and close relationship with local animals. It is a long-lived tree that can exist for many years while still contributing significantly to the stability and diversity of its ecosystems. Related species, such as Tabon-Tabon in the Philippines, are well-known for their use in indigenous Filipino cuisine, particularly the making of kinilaw. The tree was also found to have medicinal properties, such as antibacterial and antioxidant activity.",
+        "uses": "The Tagbun Tree gives multiple practical benefits in antibacterial and antioxidant properties and to treat gastrointestinal problems. Its wood can also be used for local construction and can help stabilize soils. It is a long-lived tree that plays an important role in providing a habitat for wildlife and contributing to the stability of an ecosystem.",
+        "references": ["Ficus ruficaulis Merr. | Plants of the World Online | Kew Science. (n.d.). Plants of the World Online. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:853620-1", "All Asia TCN - Ficus ruficaulis. (n.d.). https://allasiatcn.org/taxa/index.php?tid=19665", "Moraceae. (n.d.). https://philippineplants.org/Families/Moraceae.html", "Tabon-Tabon - Arca del Gusto - Slow Food Foundation. (2018, December 8). Slow Food Foundation.https://www.fondazioneslowfood.com/en/ark-of-taste-slow-food/tabon-tabon/", "Tabon-tabon / Atuna excelsa / IFIFI / Pipi tree / Merbatu/  Alternative Medicine. (n.d.). https://www.stuartxchange.org/TabonTabon"],
         "coordinates": "",
-        "tree_code": "",
+        "tree_code": "tabgun",
         "image": ""
     },
+
 
     {
         "common_name": "Binunga Tree",
