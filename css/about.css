@@ -18,9 +18,9 @@ body {
 }
 
 nav {
-  opacity: 90%;
   background-color: var(--color-green-3);
-  opacity: 90%;
+  filter:brightness(120%);
+  opacity: 80%;
   color: #dbb43e;
   display: flex;
   justify-content: space-between;
@@ -95,19 +95,34 @@ section{
 }
  
 .collage {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  display: flex;
   gap: 10px;
-  padding: 40px 10%;
+  padding: 20px 10%;
+  background-color: #ddd;
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-behavior: smooth;
+  height: 200px;
+  white-space: nowrap;
 }
 
-.collage div {
-  background-color: #ddd;
+.collage::-webkit-scrollbar {
+  height: 10px;
+}
+
+.collage::-webkit-scrollbar-thumb {
+  background-color: #999;
+  border-radius: 5px;
+}
+
+.collage::-webkit-scrollbar-track {
+  background-color: #f0f0f0;
+}
+
+.collage img {
   height: 150px;
+  width: 240px;
   border-radius: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #666;
-  font-weight: bold;
+  flex-shrink: 0;
+  object-fit: cover;
 }
