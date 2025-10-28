@@ -4,6 +4,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+    white-space: normal;
 }
 
 aside#tree-details {
@@ -16,8 +19,58 @@ aside#tree-details {
     border-radius: var(--border-radius);
 }
 
-body {
+div#tree-detail {
     display: flex;
+    padding: 1rem;
+    padding-top: 5rem;
+}
+
+nav {
+    height: var(--nav-height);
+    background-color: color-mix(in srgb, var(--color-green-3) 80%, transparent);
+    filter: brightness(1.1);
+    backdrop-filter: blur(6px);
+    position: fixed;
+    width: 100%;
+    box-shadow: var(--shadow-light);
+    display: flex;
+    padding: 0.5rem 1rem;
+    z-index: 10;
+    height: fit-content;
+}
+
+nav img#logo {
+    height: clamp(2rem, 6vh, 4rem);
+    width: auto;
+    padding-left: 1rem;
+}
+
+nav h2 {
+    color: var(--color-yellow-1);
+    font-family: var(--font-serif);
+    margin-left: 10px;
+    font-size: clamp(1rem, 8vh, 1.7rem);
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+nav ul {
+    width: fit-content;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    list-style-type: none;
+    color: var(--color-yellow-2);
+    margin-right: 40px;
+    margin-left: auto;
+    font-size: clamp(1rem, 8vh, 1.2rem);
+}
+
+nav li a {
+    background-color: var();
+    font-family: var(--font-lora);
+    color: var(--color-yellow-2);
+    text-decoration: none;
     padding: 1rem;
 }
 
@@ -55,7 +108,7 @@ main#tree-yap {
 }
 
 main#tree-yap h2 {
-    color: #2e7d32;
+    color: var(--color-green-1);
     margin-top: 1.5rem;
 }
 
@@ -63,6 +116,7 @@ main#tree-yap p {
     margin: 5px 0;
     font-size: 1.1rem;
     line-height: 1.8rem;
+    overflow-x: hidden;
 }
 
 .back-link {
@@ -99,9 +153,9 @@ ul#references {
 }
 
 @media (max-width: 1080px) {
-    body {
+    div#tree-detail {
         flex-direction: column;
-        padding-top: 0;
+        padding-top: 5rem;
         align-items: center;
     }
     aside#tree-details {
