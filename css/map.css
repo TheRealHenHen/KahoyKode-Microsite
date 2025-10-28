@@ -90,7 +90,7 @@ h1 {
 
 .tree-card .tree-image {
     background-size: cover;
-    height: 12rem;
+    height: clamp(5rem, 50vw, 12rem);
     width: auto;
     aspect-ratio: 1/1;
     object-fit: cover;
