@@ -162,7 +162,7 @@
         "references": ["Artocarpus sericicarpus. (n.d.). iNaturalist. https://www.inaturalist.org/taxa/430692-Artocarpus-sericicarpus#articles-tab", "Best Organic Farm and Nursery in Kerala,India| Variety of exotic fruits and plants for sale. (n.d.). https://www.inetfarms.com/thisfruit/266#:~:text=Artocarpus%20sericarpus%2C%20the%20pedalai%2C%20gumihan,with%20smallsoft%20curly%20hair%20protrusions.", "Gumihan seedling. (n.d.). Lunti Plant Nursery. https://lunti.ph/products/gumihan", "Lr. (n.d.). Artocarpus Fruits Guide, Archives RFC Australia. https://www.growables.org/information/TropicalFruit/JackfruitArcRFC4.htm", "NParks | Artocarpus sericicarpus. (n.d.). https://www.nparks.gov.sg/florafaunaweb/flora/8/7/8795", "National Parks Board (NParks). (n.d.). Default. https://www.nparks.gov.sg/", "Onszaden. (n.d.). Pedalai (Artocarpus sericicarpus). https://onszaden.com/Artocarpus-sericicarpus", "Pedalai - Penang Tropical Fruit Farm. (n.d.). Penang Tropical Fruit Farm. https://tropicalfruitfarm.com.my/fruits/p,p-t/pedalai-2/", "StuartXchange. (n.d.). Family • Moraceae Gumihan Artocarpus sericicarpus F.M.Jarrett PEDALAI. https://www.stuartxchange.org/Gumihan"],
         "coordinates": "",
         "tree_code": "gumihan",
-        "image": ""
+        "image": "/images/tree/gumihan.jpg"
     },
 
     {
@@ -233,7 +233,7 @@
         "references": ["NParks | Chrysophyllum cainito. (n.d.). https://www.nparks.gov.sg/florafaunaweb/flora/2/8/2803", "Marketman. (2005, April 2). Caimito / Star Apple. Market Manila. https://www.marketmanila.com/archives/caimito-star-apple", "Crane, J., & Balerdi, C. F. (2020, January 7). Caimito (Star Apple) growing in the Florida home landscape. Ask IFAS - Powered by EDIS. https://edis.ifas.ufl.edu/publication/HS309", "Chrysophyllum cainito Star Apple, Caimito PFAF Plant Database. (n.d.). https://pfaf.org/user/Plant.aspx?LatinName=Chrysophyllum+cainito", "Team, S. (2021, September 24). Star Apple: the tropical American fruit. Recette Magazine. https://blog.suvie.com/star-apple-the-tropical-american-fruit", "The story about Vietnam Star fruit. (n.d.). TIGER Tours. https://www.mytigertour.com/blog/the-story-about-vietnam-star-fruit#:~:text=The%20boy%20dropped%20his%20lips,Picture%20source:%20Internet"],
         "coordinates": "",
         "tree_code": "star_apple",
-        "image": ""
+        "image": "/images/tree/cainito.jpg"
     },
 
     {
@@ -394,7 +394,7 @@
         "references": ["Philippine medicinal plants. (n.d.). Stuartxchange. https://www.stuartxchange.org/Agi.html", "Makiling. (2018, November 15). Tangisang bayawak: MBG Plant of the Month for November 2018. An ASEAN Heritage Park. https://makiling.center/tangisang-bayawak-mbg-plant-of-the-month-for-november-2018/", "Mazza, G. (2018, January 28). Ficus variegata - Monaco Nature Encyclopedia. Monaco Nature Encyclopedia. https://www.monaconatureencyclopedia.com/ficus-variegata-2/?lang=en", "Monaco Nature Encyclopedia (2022). Ficus variegata Blume. https://www.monaconatureencyclopedia.com/ficus-variegata-2", "Tropical Plants Database (2023). Ficus variegata. https://tropical.theferns.info/viewtropical.php?id=Ficus+variegata"],
         "coordinates": "",
         "tree_code": "tangisang_bayawak",
-        "image": ""
+        "image": "/images/tree/tangisang-bayawak.jpg"
     },
     {
         "common_name": "Tangisang-Bayawak",
@@ -479,7 +479,7 @@
         "references": [],
         "coordinates": "",
         "tree_code": "chico",
-        "image": ""
+        "image": "/images/tree/chico.jpg"
     },
     {
         "common_name": "Rambutan",
@@ -500,7 +500,7 @@
         "references": [],
         "coordinates": "",
         "tree_code": "rambutan",
-        "image": ""
+        "image": "/images/tree/rambutan.jpg"
     },
     {
         "common_name": "Avocado",
@@ -565,7 +565,7 @@
         "references": [],
         "coordinates": "",
         "tree_code": "malapapaya",
-        "image": ""
+        "image": "/images/tree/malapapaya.jpg"
     },
     {
         "common_name": "Guava",
@@ -608,7 +608,7 @@
         "references": [],
         "coordinates": "",
         "tree_code": "narra",
-        "image": ""
+        "image": "/images/tree/narra.jpg"
     },
     {
         "common_name": "Taluto",
@@ -631,7 +631,7 @@
         "references": [],
         "coordinates": "",
         "tree_code": "taluto",
-        "image": ""
+        "image": "/images/tree/taluto.jpg"
     },
     {
         "scientific_name": "Roystonea regia",
@@ -675,7 +675,7 @@
         "references": ["Dao, Dracontomelon dao (Blanco) Merr. & Rolfe, PACIFIC WALNUT, Ren mian zi: Philippine Medicinal Herbs  /  Alternative Medicine. (n.d.). https://www.stuartxchange.com/Dao.html", "Dracontomelon dao - Useful Tropical Plants. (n.d.). https://tropical.theferns.info/viewtropical.php?id=Dracontomelon+dao", "Dracontomelon dao (Argus pheasant tree) | CABI Compendium. (n.d.). CABI Compendium. https://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.19767", "ERDB Knowledge Products. (n.d.). https://erdbservices.denr.gov.ph/eskris/iec_for_guest.php?operation=view&pk0=127", "ECHOcommunity. (n.d.). Dracontomelon dao. ECHO Asia Notes. https://www.echocommunity.org/en/resources/7dfbbe52-6384-4c94-a4e9-642427f728f0", "Flora of China Editorial Committee. (n.d.). Dracontomelon dao. In Flora of China. eFloras. http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012506", "Madulid, D. A. (2011). Philippine native trees 101: Up close and personal. Green Convergence for Safe Food, Healthy Environment and Sustainable Economy, Inc.", "National Parks Board Singapore (NParks). (n.d.). Dracontomelon dao. Flora & Fauna Web. https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3287", "Papua New Guinea Plants Database. (n.d.). Dracontomelon dao Merr. & Rolfe. PNG Trees Key. https://www.pngplants.org/PNGtrees/TreeDescriptions/Dracontomelon_dao_Merr_%26_Rolfe.html", "PROSEA - Plant resources of South East Asia. (n.d.). https://prosea.prota4u.org/view.aspx?id=4205", "Royal Botanic Gardens, Kew. (n.d.). Dracontomelon dao (Blanco) Merr. & Rolfe. Plants of the World Online. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:68524-1", "World Agroforestry Centre (ICRAF). (n.d.). Dracontomelon dao. Agroforestry Tree Database. https://apps.worldagroforestry.org/treedb2/speciesprofile.php?Spid=1792", "Useful Tropical Plants. (n.d.). Dracontomelon dao. Tropical Plants Database. https://tropical.theferns.info/viewtropical.php?id=Dracontomelon+dao"],
         "coordinates": "",
         "tree_code": "dao",
-        "image": ""
+        "image": "/images/tree/dao.jpg"
     },
 
     {
@@ -721,7 +721,7 @@
         "references": ["Flora Malesiana. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://portal.cybertaxonomy.org/flora-malesiana/cdm_dataportal/taxon/2af2ed17-8983-4d22-a385-a0207419fec0", "iNaturalist. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://www.inaturalist.org/taxa/444363-Toona-calantas", "PROSEA - Plant Resources of South East Asia. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://prosea.prota4u.org/view.aspx?id=4736", "Useful Tropical Plants. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://tropical.theferns.info/viewtropical.php?id=Toona+calantas", "Wikipedia contributors. (2025, October 5). Toona calantas. Wikipedia. https://en.wikipedia.org/wiki/Toona_calantas?utm_source=chatgpt.com"],
         "coordinates": "",
         "tree_code": "balete",
-        "image": ""
+        "image": "/images/tree/balete.jpg"
     },
 
     {
@@ -874,7 +874,9 @@
         "references": [],
 
         "coordinates": "",
-        "tree_code": "talisay"
+        "tree_code": "talisay",
+        "image": "/images/tree/talisay.jpg"
+
     },
     {
         "common_name": "Kalantas, Philippine Cedar",
@@ -917,5 +919,52 @@
 
         "coordinates": "",
         "tree_code": "anabiong"
+    },
+    {
+        "common_name": "Tan-ag",
+        "scientific_name": "Kleinhovia hospita",
+        "vernacular_names": ["Guest tree (Engl.)", "Hamitanago (Bik.)", "Tanak (Tag.)","Tañgag (Tag.)"],
+        "conservation_status": "Least Concern",
+        "ancestry": {
+            "kingdom": "Plantae",
+            "clade": "Tracheophytes, Angiosperms, Eudicots, Rosids",
+            "order": "Malvales",
+            "family": "Malvaceae",
+            "genus": "Kleinhovia",
+            "species": "K. hospita"
+        },
+        "description": "Kleinhovia hospita, also referred to as the Guest Tree but commonly known as Tan-ag in the Philippines, is a tropical tree species belonging to the Malvaceae family.  It is a fast-growing, medium-sized evergreen tree that can reach heights of 10 to 20 meters, occasionally growing taller in favorable conditions. The tree has a short, sometimes crooked trunk that supports a broad, rounded crown, making it a good shade provider. Its bark is grayish and becomes rough and slightly fissured as it matures. The leaves of the Tan-ag tree are simple and alternately arranged along the branches. They are broad, ovate to heart-shaped with pointed tips, and can grow quite large. Young leaves appear light green and tender, while mature ones are darker and slightly glossy.\n\nThe Tan-ag tree produces beautiful clusters of small, pale pink flowers that grow in loose terminal panicles. These flowers are ornamental and attract various pollinators, such as bees and butterflies. After flowering, the tree develops distinctive inflated, papery fruit capsules that are often five-lobed. Each capsule contains one to two round seeds. These fruits hang in bunches and, when dry, split open to release the seeds, contributing to the tree’s natural propagation. Tan-ag trees thrive in secondary forests, open fields, and along roadsides or riverbanks, showing resilience even in disturbed areas.\n\nIt is native to Asian tropical regions, specifically native to the Philippines, India, Malaysia, Indonesia, and Papua New Guinea, and was introduced to other tropical nations. It is often 10–15 meters tall and easily identified by its wide, heart-shaped leaves, rose-pink flowers, and papery, light brown fruits that open when mature. The heritage of Kleinhovia hospita is from the Malvaceae lineage, a clan of plants that includes hibiscus and cacao, making it a plant adapted to warm and humid climates. It is commonly observed to grow alongside roadsides, village boundaries, and forest glades, creating shade and ornamentation because of its dense cover and pretty flowers.",
+        "notable_features": "Tan-ag is known for its moderate height, spreading crown, and showy pink blossoms. The bark is gray and rough, while its leaves are large and heart-shaped, features that make it easily recognizable. The inflated fruit capsules are a distinctive feature, adding to its ornamental value. Its light, soft wood is workable and suitable for small carpentry, handicrafts, and household tools. The tree’s bark fibers are also strong and have been traditionally used to make ropes and woven materials. While the tree lacks buttress roots, the term often associated with it, young Tan-ag trees are supported by rapidly growing primary roots that penetrate deeply into the soil. As the tree matures, it develops a vast network of superficial, spreading roots, which can appear twisted and gnarled, especially when growing near rivers. The flowers of the Tan-ag tree, small and pale pink, are produced in loose panicles at the ends of the branches, often described as \"sprinkling\" the tree's canopy. Its bark is gray and cracked on the outside, with a yellowish interior. The tree's genus, Kleinhovia, was named by Carl Linnaeus in honor of Dutch botanist Christiaan Kleynhoff, while the species name, hospita, meaning \"guest,\" may refer to the tree's common growth near riverbanks close to populated areas. Indigenous cultures in tropical Asia have long used the Tan-ag tree for food, medicine, and lumber, underscoring its ecological importance and cultural value.",
+        "uses": "The Tan-ag tree is valued for its many practical and cultural uses. It is commonly planted as an ornamental and shade tree in school grounds, parks, and roadside landscapes because of its appealing pink blossoms and wide canopy. Its bark and leaves are widely used in traditional herbal medicine, particularly for treating skin diseases such as scabies, rashes, and head lice (kuto). The leaves and bark are used in therapeutic remedies, such as eyewash and hair washes, and the blossoms draw bees for honey.  In rural communities, young leaves are eaten as vegetables or added to local dishes for their mild flavor and nutritional value.\n\nThe bark fibers of the Tan-ag tree are extracted and used for making ropes, mats, and woven materials, reflecting its importance in rural craftsmanship. Its wood, though light and soft, is used for small carpentry projects, woodcrafts, and household implements. The tree also plays an ecological role in soil stabilization and erosion control, especially along slopes and riverbanks, thanks to its root system. Because it grows quickly and thrives in poor soil, it is also used in reforestation and greening programs across different regions in the Philippines.",
+        "references": ["Tan-ag / Kleinhovia hospita, guest tree ­  / Philippine medicinal Herbs / Alternative Medicine in the Philippines. (n.d.). https://www.stuartxchange.com/Tan-ag.html","Wikipedia contributors. (2025, October 3). Kleinhovia. Wikipedia. https://en.wikipedia.org/wiki/Kleinhovia","NParks | Kleinhovia hospita. (n.d.). https://www.nparks.gov.sg/FloraFaunaWeb/Flora/2/9/2981","Llc, T. T. (2023, January 15). Kleinhovia hospita (Guest Tree) | Top Tropicals Plant Encyclopedia. TopTropicals.com - Rare Plants for Home and Garden. https://toptropicals.com/catalog/uid/kleinhovia_hospita.htm?srsltid=AfmBOooDrUYXUW58NeFIs03l1LJeY6mZ5Ya-XmjuYLyx2ecrjIa5MQ3i","Tan-ag (Kleinhovia hospita) can be ornamental too. (n.d.). http://philippinenativeforesttrees.blogspot.com/2010/08/tan-ag-kleinhovia-hospita-can-be.html","Kleinhovia hospita / IPlantz. (n.d.). https://www.iplantz.com/plant/933/kleinhovia-hospita/","Tan-ag / Kleinhovia hospita, guest tree   / Philippine medicinal Herbs / Alternative Medicine in the Philippines. (n.d.). https://www.stuartxchange.com/Tan-ag.html","Tan-ag (Kleinhovia hospita) can be ornamental too. (n.d.). https://philippinenativeforesttrees.blogspot.com/2010/08/tan-ag-kleinhovia-hospita-can-be.html","NParks | Monodora myristica. (n.d.). https://www.nparks.gov.sg/FloraFaunaWeb/Flora/7/2/7247#:~:text=The%20simple%2C%20alternate%20leaves%20are%20oblong%20to,paler.%20New%20leaves%20are%20purplish%20in%20color.","PROSEA - Plant resources of South East Asia. (n.d.). https://prosea.prota4u.org/view.aspx?id=3021","Guest Tree (Kleinhovia hospita). (n.d.). iNaturalist. https://www.inaturalist.org/taxa/346180-Kleinhovia-hospita"],
+
+        "coordinates": "",
+        "tree_code": "tan_ag",
+        "image": "/images/tree/tan-ag.jpg"
+
+    },
+    {
+        "common_name": "Uos",
+        "scientific_name": "Sterculia ceramica",
+        "vernacular_names": ["Banilad", "Balindagat", "Malakalumpang","Uos"],
+        "conservation_status": "Least Concern",
+        "ancestry": {
+            "kingdom": "Plantae",
+            "clade": "Eudicots, Rosids, Rosales, Tracheophytes, Angiosperms",
+            "order": "Malvales",
+            "family": "Malvaceae",
+            "genus": "Sterculia L.",
+            "species": "Sterculia ceramica"
+        },
+        "description": "The Sterculia ceramica, commonly known as the Uos in the Philippines, is an evergreen tree that grows up to 15–20 m tall, with the bole being able to grow up to 40–60 cm in diameter. Its bark provides fiber that is commonly used by the locals, and the tree is also harvested because of its wood. The Uos is considered an ornamental tree and is sometimes used as a landscape decor in streets, making use of its unique form that is pleasant to the sight. These grow best in fertile, well-drained soil, and in sunny, sheltered regions. Which is why the Uos is found in some places of Southeast Asia, namely, Taiwan, Malaysia, and the Philippines. The natural habitat of the Uos is located in primary forests, seashores, with up to 1000 m altitude.",
+        "notable_features": "The Uos is unique for its ability to grow on sandy clay or coraline limestone substances. Its wood is pale and straw-colored, with straight grains, coarse texture, and parts in contact with the ground or exposed to weather is considered non-durable. Which makes them exposed to pests and borers. The leaves of the Uos are alternate, chartaceous, oblong, and apex acute.  Its flowers are arranged in clusters or panicles, and also covered in small hairs. The genus Sterculia L.  consists of some species with large buttress roots in rain-forest settings; those species tend to avoid showing the massive buttressing and adapt to beach-forest conditions. The genus also has seeds leaden black, often with a yellow or red located near the seed stalk, while the stems of plants under this genus produces a gummy exudate when it is wounded.The Uos highlights their ability to survive in coastal woodlands or wind-exposed areas.",
+        "uses": "Despite not being considered a commercial timber species, the Uos’ wood has still been used for plywood, veneer, shutter boards, housing, molding, door and window frames, and some minor joinery by the locals. In coastal forest areas, the Uos plays a big role in ecological stabilization because of its structure’s suitability for a habitat and its role in shoreline woodland. Moreover, its presence along the beach forests provides shade and structure that may break strong winds. Especially in coastal rural areas in the Philippines.",
+        "references": ["PhilippinePlants.org. (n.d.). Family: Sterculiaceae. In Philippine Plants – STERCULIA L. https://www.philippineplants.org/Families/Sterculiaceae.html","ProjectNoah. (n.d.). Banilad Tree (Sterculia ceramica) Spotting. https://projectnoah.org/spotting/370669","ITTO – Tropical Timber Info. (n.d.). Sterculia (Sterculia ceramica) Print Friendly View. https://www.tropicaltimber.info/specie/sterculia-sterculia-ceramica/","“Flora of Mount Mantalingahan Protected Landscape”. (n.d.). Sterculia ceramica – Not Evaluated. https://www.forestfoundation.ph/wp-content/uploads/2023/10/Flora-of-MMPL-final.pdf","TopTropicals. (n.d.). Sterculia ceramica (Banilad, Uos tree). Tropical Plant Database. Retrieved October 9, 2025, from https://toptropicals.com/catalog/uid/sterculia_ceramica.htm","Kew Science. (n.d.). Sterculia ceramica R. Br. ex A. Juss. Plants of the World Online. Royal Botanic Gardens, Kew. Retrieved October 9, 2025, from https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:834423-1"],
+
+        "coordinates": "",
+        "tree_code": "uos",
+        "image": "/images/tree/uos.jpg"
+
     }
+
 ]
