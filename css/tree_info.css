@@ -61,6 +61,7 @@
     
     main#tree-yap {
         padding: 0.5rem;
+        width: 100%;
     }
     
     main#tree-yap h2 {
@@ -111,6 +112,5 @@
         body {
             flex-direction: column;
             align-items: center;
-            padding-top: 10rem;
         }
     }
