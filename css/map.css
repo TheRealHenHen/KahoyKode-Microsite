@@ -90,7 +90,7 @@ h1 {
 
 .tree-card .tree-image {
     background-size: cover;
-    height: clamp(5rem, 50vw, 12rem);
+    height: clamp(8rem, 100vw, 12rem);
     width: auto;
     aspect-ratio: 1/1;
     object-fit: cover;
@@ -175,5 +175,14 @@ main {
     #tree-container {
         gap: 4vw;
         overflow-y: visible;
+    }
+    .tree-card {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 1rem;
+    }
+    .tree-card .tree-image {
+        margin-right: 0;
     }
 }
