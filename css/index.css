@@ -85,8 +85,7 @@ main {
     justify-content: center;
     align-content: center;
     width: 100%;
-    padding-top: var(--nav-height);
-    min-height: 100vh;
+    padding-top: 13vh;
     box-sizing: border-box;
 }
 
@@ -147,7 +146,7 @@ section h1 {
     font-family: var(--font-lora);
     font-weight: 600;
     font-style: italic;
-    margin-top: -10px;
+    margin: 1rem;
 }
 
 section .buttons {
