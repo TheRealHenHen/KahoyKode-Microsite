@@ -10,7 +10,7 @@ fetch('../data/trees-new.json')
 
             card.innerHTML = `
                 <a href="tree_info.html?tree=${tree.tree_code}" 
-                   style="background-image: url(${tree.image || 'images/default-tree.jpg'})" 
+                   style="background-image: url(${tree.image || '../images/tree/default.jpg'})" 
                    class="tree-image"></a>
 
                 <a href="tree_info.html?tree=${tree.tree_code}" class="tree-info">
