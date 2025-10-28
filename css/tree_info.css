@@ -81,7 +81,7 @@ nav li a {
 
 div#main-details p {
     margin: 0.5rem;
-    font-family: var(--font-lexend);
+    font-family: var(--font-open-sans);
 }
 
 div#main-details h1 {
@@ -100,7 +100,7 @@ div#main-details ul {
 }
 
 div#main-details li {
-    font-family: var(--font-lexend);
+    font-family: var(--font-open-sans);
     margin: 0.5rem 0rem;
 }
 
