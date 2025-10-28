@@ -23,9 +23,15 @@ fetch('../data/trees.json')
             }
 
             container.innerHTML = `
+            <nav>
+                <ul>
+                    <li><a href="../pages/map.html">Map</a></li>
+                    <li><a href="../pages/about.html">About</a></li>
+                </ul>
+            </nav>
             <aside class="children" id="tree-details">
                 <div id="tree-image-placeholder">Image Placeholder</div>
-                <h1>${tree.common_name}</h1>
+                <h2>${tree.common_name}</h2>
                 <p><strong>Scientific Name:</strong> ${tree.scientific_name || 'N/A'}</p>
                 <p><strong>Coordinates:</strong> ${tree.coordinates || 'N/A'}</p>
                 <p><strong>Conservation Status:</strong> ${tree.conservation_status || 'N/A'}</p>
@@ -33,7 +39,9 @@ fetch('../data/trees.json')
                 <a class="back-link" href="map.html">← Back to Map</a>
             </aside>
             <main class="children" id="tree-yap">
-                <h1>Tree content goes here</h1>
+                <section class="" id="tree-desc">
+                    <h1>Description</h1>
+                </section>
             </main>
             `;
         } else {
