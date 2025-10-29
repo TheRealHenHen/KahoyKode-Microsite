@@ -166,7 +166,7 @@ ul#references {
     margin-left: 1.5rem;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
     div#tree-detail {
         flex-direction: column;
         padding-top: 5rem;

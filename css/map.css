@@ -160,7 +160,7 @@ main {
     justify-content: center;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
     main {
         padding-top: 60%;
         flex-direction: column-reverse;
