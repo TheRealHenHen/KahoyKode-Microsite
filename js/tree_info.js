@@ -13,16 +13,16 @@ fetch('../data/trees-new.json')
 
                 // Build ancestry list
                 if (Object.keys(ancestry).length > 0) {
-                     ancestryHTML = '<p><strong>Taxonomic Classification:</strong></p><ul>';
-                      for (const [key, value] of Object.entries(ancestry)) {
-                          if (value) {
-                              const label = key.replace('_', ' ').toUpperCase();
-                              const isBinomial = ['genus', 'species'].includes(key.toLowerCase());  /*This is a code snippet that wraps the   */
-                              const content = isBinomial ? `<em>${value}</em>` : value;             /*associated value of the key in <em> if  */
-                              ancestryHTML += `<li><strong>${label}:</strong> ${content}</li>`;     /*that key is 'genus' or 'species.'       */
-                          }
-                      }
-                      ancestryHTML += '</ul>';
+                    ancestryHTML = '<p><strong>Taxonomic Classification:</strong></p><ul>';
+                    for (const [key, value] of Object.entries(ancestry)) {
+                        if (value) {
+                            const label = key.replace('_', ' ').toUpperCase();
+                            const isBinomial = ['genus', 'species'].includes(key.toLowerCase()); /*This is a code snippet that wraps the   */
+                            const content = isBinomial ? `<em>${value}</em>` : value; /*associated value of the key in <em> if  */
+                            ancestryHTML += `<li><strong>${label}:</strong> ${content}</li>`; /*that key is 'genus' or 'species.'       */
+                        }
+                    }
+                    ancestryHTML += '</ul>';
                 }
 
                 // Vernacular names list (safe check)
@@ -65,7 +65,7 @@ fetch('../data/trees-new.json')
 
           <h2>Uses</h2>
           <p>${tree.uses || 'No information available.'}</p>
-
+        
           <h2>References</h2>
           ${referencesHTML}
         </main>
