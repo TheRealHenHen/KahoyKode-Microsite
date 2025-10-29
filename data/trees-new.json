@@ -592,7 +592,7 @@
         "references": ["Britannica Editors. (2025, October 13). Avocado | Description, Types, History, Uses, & Facts. Encyclopedia Britannica. https://www.britannica.com/plant/avocado#:~:text=Avocado%20trees%20can%20be%20tall,and%20a%20one%2Dcelled%20ovary. ", "Gardenia.net. (n.d.). Persea americana (Avocado Tree). https://www.gardenia.net/plant/persea-americana-avocado-tree ", "University of ", "Florida Institute of Food and Agricultural Sciences (IFAS). (n.d.). ENH-594/ST435: Persea americana: Avocado. https://edis.ifas.ufl.edu/publication/ST435 ", "World Agroforestry Centre (ICRAF). (n.d.). Persea americana. https://apps.worldagroforestry.org/treedb/AFTPDFS/Persea_americana.PDF ", "Missouri Botanical Garden. (n.d.). Persea americana – Avocado. ", "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281661"],
         "coordinates": "",
         "tree_code": "avocado",
-        "image": ""
+        "image": "/images/tree/avocado.jpg"
     },
     {
         "common_name": "False Ashoka / Indian Mast",
@@ -615,7 +615,7 @@
         "references": ["Indian tree, tree of india, Monoon longifolium, polyalthia longifolia: Philippine Medicinal Herbs  / Philippine Alternative Medicine. (n.d.). https://www.stuartxchange.org/IndianTree.html ", "Polyalthia longifolia / IPlantz. (2025). https://www.iplantz.com/plant/1273/polyalthia-longifolia/  ", "Abi. “Mast Tree Florida: Growing and Caring for a Polyalthia Longifolia.” GFL Outdoors, 16 Dec. 2022, www.gfloutdoors.com/mast-tree-florida-growing-and-caring-for-a-polyalthia-longifolia/.  Accessed 8 Oct. 2025. ", "Nurseries-Dev. (2024, July 15). Indian Mast tree 'Polyalthia longifolia' or Asoka. Nurseries Online Australia. https://www.nurseriesonline.com.au/plant-index/trees-shrubs/evergreen-trees-and-shrubs/polyalthia/ ", "NParks | Monoon longifolium “Pendula.” (2012) https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3080 "],
         "coordinates": "",
         "tree_code": "false_ashoka",
-        "image": ""
+        "image": "/images/tree/tanglin.jpg"
     },
     {
         "common_name": "Malapapaya",
@@ -636,7 +636,7 @@
         "references": ["Philippine Flora. (2009, September 2). Malapapaya. Retrieved from https://philippineflora.wordpress.com/2009/09/02/malapapaya/ ", "StuartXchange. (n.d.). Malapapaya, Polyscias nodosa / Alternative Medicine. Retrieved from https://www.stuartxchange.org/Malapapaya ", "Boer, E. & Sosef, M. S. M. (1998). Polyscias J.R. Forster & J.G. Forster. In Sosef, M.S.M., Hong, L.T., & Prawirohatmodjo, S. (Eds.), Plant Resources of South-East Asia No 5(3): Timber trees; Lesser-known timbers. PROSEA. Retrieved from https://prosea.prota4u.org/view.aspx?id=6132"],
         "coordinates": "",
         "tree_code": "malapapaya",
-        "image": ""
+        "image": "/images/tree/malapapaya.jpg"
     },
     {
         "common_name": "Guava",
@@ -679,7 +679,7 @@
         "references": ["International Union for Conservation of Nature (IUCN) Red List – Global conservation status of Pterocarpus indicus. https://www.iucnredlist.org ", " Food and Agriculture Organization (FAO) Plant Database – Details on Narra’s distribution, growth, and uses. https://www.fao.org/plant-production/en ", " DOST-PCAARRD portal. (2025, August 4). DOST-PCAARRD Portal. https://www.pcaarrd.dost.gov.ph/  ", " National Museum. (n.d.). https://www.nationalmuseum.gov.ph/  ", " StuartXchange Front Page - SX - Godofredo Umali Stuart’s Cyber-Warehouse. (n.d.). https://www.stuartxchange.org/ "],
         "coordinates": "",
         "tree_code": "narra",
-        "image": ""
+        "image": "/images/tree/narra.jpg"
     },
     {
         "common_name": "Taluto",
@@ -702,7 +702,7 @@
         "references": ["IUCN SSC Global Tree Specialist Group.; Botanic Gardens Conservation International; et al. (BGCI) (2019). \"Pterocymbium tinctorium\". IUCN Red List of Threatened Species. 2019 e.T33254A156219571. doi:10.2305/IUCN.UK.2019-3.RLTS.T33254A156219571.en ", " \"Pterocymbium tinctorium (Blanco) Merr\". Plants of the World Online. The Trustees of the Royal Botanic Gardens, Kew. n.d. Retrieved August 23, 2020 ", " Pterocymbium tinctorium. (2021). INaturalist. https://www.inaturalist.org/taxa/709632-Pterocymbium-tinctorium ", " Taluto / Pterocymbium tinctorium / Bellflower sterculia / Winged boot tree/ Alternative Medicine. (2024). Stuartxchange.org. https://www.stuartxchange.org/Taluto"],
         "coordinates": "",
         "tree_code": "taluto",
-        "image": ""
+        "image": "/images/tree/taluto.jpg"
     },
     {
         "common_name": "Royal Palm",
