@@ -592,7 +592,7 @@
         "references": ["Britannica Editors. (2025, October 13). Avocado | Description, Types, History, Uses, & Facts. Encyclopedia Britannica. https://www.britannica.com/plant/avocado#:~:text=Avocado%20trees%20can%20be%20tall,and%20a%20one%2Dcelled%20ovary. ", "Gardenia.net. (n.d.). Persea americana (Avocado Tree). https://www.gardenia.net/plant/persea-americana-avocado-tree ", "University of ", "Florida Institute of Food and Agricultural Sciences (IFAS). (n.d.). ENH-594/ST435: Persea americana: Avocado. https://edis.ifas.ufl.edu/publication/ST435 ", "World Agroforestry Centre (ICRAF). (n.d.). Persea americana. https://apps.worldagroforestry.org/treedb/AFTPDFS/Persea_americana.PDF ", "Missouri Botanical Garden. (n.d.). Persea americana – Avocado. ", "https://www.missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?taxonid=281661"],
         "coordinates": "",
         "tree_code": "avocado",
-        "image": "/images/tree/avocado.jpg"
+        "image": "/images/tree/online/avocado.jpg"
     },
     {
         "common_name": "False Ashoka / Indian Mast",
@@ -615,7 +615,7 @@
         "references": ["Indian tree, tree of india, Monoon longifolium, polyalthia longifolia: Philippine Medicinal Herbs  / Philippine Alternative Medicine. (n.d.). https://www.stuartxchange.org/IndianTree.html ", "Polyalthia longifolia / IPlantz. (2025). https://www.iplantz.com/plant/1273/polyalthia-longifolia/  ", "Abi. “Mast Tree Florida: Growing and Caring for a Polyalthia Longifolia.” GFL Outdoors, 16 Dec. 2022, www.gfloutdoors.com/mast-tree-florida-growing-and-caring-for-a-polyalthia-longifolia/.  Accessed 8 Oct. 2025. ", "Nurseries-Dev. (2024, July 15). Indian Mast tree 'Polyalthia longifolia' or Asoka. Nurseries Online Australia. https://www.nurseriesonline.com.au/plant-index/trees-shrubs/evergreen-trees-and-shrubs/polyalthia/ ", "NParks | Monoon longifolium “Pendula.” (2012) https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3080 "],
         "coordinates": "",
         "tree_code": "false_ashoka",
-        "image": "/images/tree/tanglin.jpg"
+        "image": "/images/tree/online/false_ashoka.jpg"
     },
     {
         "common_name": "Malapapaya",
@@ -658,7 +658,7 @@
         "references": ["[1] Arévalo-Marín, E., Casas, A., Landrum, L., Shock, M. P., Alvarado-Sizzo, H., Ruiz-Sanchez, E., & Clement, C. R. (2021). The Taming of Psidium guajava: Natural and Cultural History of a Neotropical Fruit. Frontiers in Plant Science, 12. https://doi.org/10.3389/fpls.2021.714763 ", " [2] Sanda, K.A., et al. “Pharmacological Aspects of Psidium Guajava: An Update.” International Journal of Pharmacology, vol. 7, no. 3, 1 Mar. 2011, pp. 316–324, https://doi.org/10.3923/ijp.2011.316.324.  Accessed 16 Mar. 2020. ", " [3] www.wisdomlib.org. “Traditional Uses of Guava.” Wisdomlib.org, 30 Oct. 2024, www.wisdomlib.org/science/journal/world-journal-of-pharmaceutical-research/d/doc1378477.html. Accessed 8 Oct. 2025."],
         "coordinates": "",
         "tree_code": "guava",
-        "image": ""
+        "image": "/images/tree/online/guava.jpg"
     },
     {
         "common_name": "Narra",
@@ -724,7 +724,7 @@
 
         "coordinates": "",
         "tree_code": "royal_palm",
-        "image": ""
+        "image": "/images/tree/online/royal_palm.jpg"
     },
     {
         "common_name": "Santol",
@@ -789,7 +789,9 @@
         "references": ["Flora Malesiana. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://portal.cybertaxonomy.org/flora-malesiana/cdm_dataportal/taxon/2af2ed17-8983-4d22-a385-a0207419fec0 ", " iNaturalist. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://www.inaturalist.org/taxa/444363-Toona-calantas ", "PROSEA - Plant Resources of South East Asia. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://prosea.prota4u.org/view.aspx?id=4736 ", "Useful Tropical Plants. (n.d.). Toona calantas. Retrieved October 6, 2025, from https://tropical.theferns.info/viewtropical.php?id=Toona+calantas ", "Wikipedia contributors. (2025, October 5). Toona calantas. Wikipedia. Retrieved October 6, 2025, from https://en.wikipedia.org/wiki/Toona_calantas"],
 
         "coordinates": "",
-        "tree_code": "kalantas"
+        "tree_code": "kalantas",
+        "image": "/images/tree/talisay.jpg"
+
     },
     {
         "common_name": "Anabiong",
@@ -810,7 +812,9 @@
         "references": ["Anabiong /. Trema orientalis Blume/ HANADIONG / Yi se shan huang ma : Philippine Medicinal Herbs / Philippine Alternative Medicine. (n.d.). https://www.stuartxchange.com/Anabiong.html", "Anabiong (Trema orientalis) | ITTO. (n.d.). ITTO. https://share.google/bHBcHxU4N1Q1jA1nj", "Agroforestree Species profile. (n.d.-b). https://apps.worldagroforestry.org/treedb2/speciesprofile.php?Spid=1654", "ANABIONG. (2016, August 5). THE RETURN OF PHILIPPINE NATIVE TREES. https://rainforestrestorationinitiative.wordpress.com/2016/08/05/anabiong/", "View plants. (n.d.). https://brimm.nmsc.edu.ph/plants/Display/12"],
 
         "coordinates": "",
-        "tree_code": "anabiong"
+        "tree_code": "anabiong",
+        "image": "/images/tree/talisay.jpg"
+
     },
     {
         "common_name": "Tan-ag",
