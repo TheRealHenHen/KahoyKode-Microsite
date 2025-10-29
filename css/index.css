@@ -4,6 +4,28 @@
     box-sizing: border-box;
 }
 
+@keyframes fadeInFromTop {
+    from {
+        opacity: 0;
+        transform: translateY(-5rem);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInFromLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-10rem);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 body {
     background: url('../images/background.jpg') center/cover no-repeat fixed;
     margin: 0;
@@ -95,6 +117,7 @@ main section {
 section#left {
     max-width: 40vw;
     align-items: center;
+    animation: fadeInFromLeft 1s ease;
     justify-content: center;
 }
 
@@ -124,6 +147,7 @@ section div#left-container div#left-card {
 }
 
 section div#right-card {
+    animation: fadeInFromTop 1s ease;
     background: url(../images/map.jpg);
     background-size: cover;
     text-align: center;
