@@ -1,7 +1,7 @@
 const params = new URLSearchParams(window.location.search);
 const treeCode = params.get('tree');
 
-fetch('../data/trees-new.json')
+fetch('../data/trees.json')
     .then(res => res.json())
     .then(trees => {
             const tree = trees.find(t => t.tree_code === treeCode);
