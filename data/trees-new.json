@@ -67,7 +67,7 @@
         "references": ["Encarnação, S., Serrano, R., Almeida, C., & Silva, O. (2022). Micromorphology and Chemical Studies on Anacardium occidentale L. Stem Bark as an Herbal Medicine. Plants, 12(1), 7–7. https://doi.org/10.3390/plants12010007", "HS1127/HS377: Cashew Apple Fruit Growing in the Florida Home Landscape. (n.d.). Edis.ifas.ufl.edu. https://edis.ifas.ufl.edu/publication/HS377", "Anacardium occidentale - an overview | ScienceDirect Topics. (n.d.). Www.sciencedirect.com. https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/anacardium-occidentale", "Barstow, M. (n.d.). Anacardium occidentale, Cashew THE IUCN RED LIST OF THREATENED SPECIESa. Retrieved October 8, 2025, from https://www.iucnredlist.org/species/pdf/60761604", "NParks | Anacardium occidentale. (n.d.). Www.nparks.gov.sg. https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2709", "Anacardium occidentale Anacardiaceae L. cashew nut LOCAL NAMES Arabic. (n.d.). https://apps.worldagroforestry.org/treedb/AFTPDFS/Anacardium_occidentale.PDF", "Miranda, R. L. (2009). Cashew Tree Bark Secretion - Persectives for its Use in Protein Isolation Strategies. Open Glycoscience, 2(1), 16–19. https://doi.org/10.2174/1875398100902010016", "Agroforestree Species profile. (2025). Worldagroforestry.org. https://apps.worldagroforestry.org/treedb2/speciesprofile.php?Spid=205", "Cashew trees, in a nutshell. (2025). TREE AID. https://www.treeaid.org/blogs-updates/cashews/?srsltid=AfmBOopaKg31MNQ7EFC8GjaXcRw8pBqUQnAZTdYg0tpQSMSNP9D7uvf6", "Aluko, A., Makule, E., & Kassim, N. (2023). Underutilized Cashew Apple Fruit: Its Utility and Development as a Source of Nutrients and Value Added Products in Tanzania. Current Research in Nutrition and Food Science Journal, 11(2), 719–734. https://www.foodandnutritionjournal.org/volume11number2/underutilized-cashew-apple-fruit-its-utility-and-development-as-a-source-of-nutrients-and-value-added-products-in-tanzania/"],
         "coordinates": "13.69538°N, 123.45693°E",
         "tree_code": "cashew",
-        "image": ""
+        "image": "/images/tree/cashew.jpg"
     },
 
     {
@@ -90,7 +90,7 @@
         "references": ["Moghadamtousi, S., Fadaeinasab, M., Nikzad, S., Mohan, G., Ali, H., & Kadir, H. (2015). Annona muricata (Annonaceae): A Review of Its Traditional Uses, Isolated Acetogenins and Biological Activities. International Journal of Molecular Sciences, 16(7), 15625–15658. https://doi.org/10.3390/ijms160715625", "World Agroforestry. (n.d.). Annona muricata. World Agroforestry Tree Database. https://apps.worldagroforestry.org/treedb/AFTPDFS/Annona_muricata.PDF", "The Editors of Encyclopaedia Britannica. (2025, October 10). Soursop | Description, Fruit, plant, uses, & Facts. Encyclopedia Britannica. https://www.britannica.com/plant/soursop", "Annona muricata - National Parks Board. (n.d.). https://www.nparks.gov.sg/florafaunaweb/flora/3/2/3258"],
         "coordinates": "",
         "tree_code": "guyabano",
-        "image": ""
+        "image": "/images/tree/tanglin.jpg"
     },
 
     {
@@ -550,7 +550,7 @@
         "references": ["Wikipedia contributors. (2025, October 4). Manilkara zapota. Wikipedia. https://en.m.wikipedia.org/wiki/Manilkara_zapota ", " The Editors of Encyclopaedia Britannica. (1998, July 20). Sapodilla | Description, Distribution, & Facts. Encyclopedia Britannica. https://www.britannica.com/plant/sapodilla ", " Rivas-Gastelum, M. F., Garcia-Amezquita, L. E., Garcia-Varela, R., & Sánchez-López, A. L. (2023). Manilkara zapota “chicozapote” as a fruit source of health-beneficial bioactive compounds and its effects on chronic degenerative and infectious diseases, a review. Frontiers in Nutrition, 10. https://doi.org/10.3389/fnut.2023.1194283 ", " NatureServe Explorer 2.0. (n.d.). https://explorer.natureserve.org/Taxon/ELEMENT_GLOBAL.2.156165/Manilkara_zapota ", " Hilbert, D. R., Koeser, A., McLean, D. C., Klein, R., Watson, D. G., & Gilman, E. (2019, April 29). Manilkara zapota: Sapodilla. Ask IFAS - Powered by EDIS. https://edis.ifas.ufl.edu/publication/ST405 ", " Marketman. (2006, February 12). Chico / Sapodilla. Market Manila. https://www.marketmanila.com/archives/chico-sapodilla"],
         "coordinates": "",
         "tree_code": "chico",
-        "image": ""
+        "image": "/images/tree/chico.jpg"
     },
     {
         "common_name": "Rambutan",
@@ -571,7 +571,7 @@
         "references": ["Wikipedia contributors. (2025, October 2). Rambutan. Wikipedia. ", " https://en.wikipedia.org/wiki/Rambutan ", "Wikipedia contributors. (2025, October 2). Rambutan. Wikipedia. ", " https://en.wikipedia.org/wiki/Rambutan ", "Rambutan: 15 Interesting Facts for This Exotic Fruit. (n.d.). Retrieved October 8, 2025, from https://wikifarmer.com/library/en/article/rambutan-15-interesting-facts-for-this-exotic-fruit"],
         "coordinates": "",
         "tree_code": "rambutan",
-        "image": ""
+        "image": "/images/tree/rambutan.jpg"
     },
     {
         "common_name": "Avocado",
